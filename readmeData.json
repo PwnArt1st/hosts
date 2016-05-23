@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 {"porn-social": {"location": "alternates/porn-social/", "entries": 32446}, "porn": {"location": "alternates/porn/", "entries": 32216}, "gambling-social": {"location": "alternates/gambling-social/", "entries": 27900}, "base": {"location": "", "entries": 28786}, "social": {"location": "alternates/social/", "entries": 27185}, "gambling": {"location": "alternates/gambling/", "entries": 27670}, "gambling-porn": {"location": "alternates/gambling-porn/", "entries": 32931}, "gambling-porn-social": {"location": "alternates/gambling-porn-social/", "entries": 33161}}
+=======
+{"base": {"entries": 26979, "location": ""}, "gambling-porn": {"entries": 32966, "location": "alternates/gambling-porn/"}, "gambling-social": {"entries": 27923, "location": "alternates/gambling-social/"}, "gambling-porn-social": {"entries": 33196, "location": "alternates/gambling-porn-social/"}, "porn-social": {"entries": 32482, "location": "alternates/porn-social/"}, "social": {"entries": 27209, "location": "alternates/social/"}, "porn": {"entries": 32252, "location": "alternates/porn/"}, "gambling": {"entries": 27693, "location": "alternates/gambling/"}}
+>>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
+=======
+{"porn-social": {"location": "alternates/porn-social/", "entries": 32446}, "porn": {"location": "alternates/porn/", "entries": 32216}, "gambling-social": {"location": "alternates/gambling-social/", "entries": 27900}, "base": {"location": "", "entries": 28786}, "social": {"location": "alternates/social/", "entries": 27185}, "gambling": {"location": "alternates/gambling/", "entries": 27670}, "gambling-porn": {"location": "alternates/gambling-porn/", "entries": 32931}, "gambling-porn-social": {"location": "alternates/gambling-porn-social/", "entries": 33161}}
+>>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb

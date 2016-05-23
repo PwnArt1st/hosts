@@ -2,8 +2,16 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
+<<<<<<< HEAD
 # last updated:   Thu, 28 Apr 2016 11:39:09 GMT
 # entries:        2408
+<<<<<<< HEAD
+=======
+# last updated:   Mon, 16 May 2016 12:52:58 GMT
+# entries:        2409
+>>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
+=======
+>>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -400,6 +408,7 @@
 0.0.0.0 ads.co.com
 0.0.0.0 ads.com.com
 0.0.0.0 ads.contactmusic.com
+0.0.0.0 ads.contentabc.com
 0.0.0.0 ads.contextweb.com
 0.0.0.0 ads.crakmedia.com
 0.0.0.0 ads.creative-serving.com
@@ -682,6 +691,7 @@
 0.0.0.0 ads180.com
 0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.clearchannel.com
+0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.gamecity.net
 0.0.0.0 ads2.jubii.dk
 0.0.0.0 ads2.net-communities.co.uk
@@ -690,6 +700,7 @@
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2004.treiberupdate.de
+0.0.0.0 ads3.contentabc.com
 0.0.0.0 ads3.gamecity.net
 0.0.0.0 ads3.virtual-nights.com
 0.0.0.0 ads4.clearchannel.com
@@ -1068,7 +1079,6 @@
 0.0.0.0 bannersng.yell.com
 0.0.0.0 bannerspace.com
 0.0.0.0 bannerswap.com
-0.0.0.0 bannertesting.com
 0.0.0.0 bannery.cz
 0.0.0.0 bannieres.acces-contenu.com
 0.0.0.0 bans.adserver.co.il
@@ -1204,6 +1214,7 @@
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clicksor.com
 0.0.0.0 clicktag.de
+0.0.0.0 clickthrucash.com
 0.0.0.0 clickthruserver.com
 0.0.0.0 clickthrutraffic.com
 0.0.0.0 clicktrace.info
@@ -1235,7 +1246,6 @@
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
-0.0.0.0 contentabc.com
 0.0.0.0 contextweb.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionruler.com
@@ -1714,7 +1724,6 @@
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 midnightclicking.com
-0.0.0.0 mintrace.com
 0.0.0.0 misstrends.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mixtraffic.com
