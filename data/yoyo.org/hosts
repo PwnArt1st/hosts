@@ -2,16 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-<<<<<<< HEAD
-# last updated:   Thu, 28 Apr 2016 11:39:09 GMT
-# entries:        2408
-<<<<<<< HEAD
-=======
 # last updated:   Mon, 16 May 2016 12:52:58 GMT
-# entries:        2409
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
+# entries:        2408
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2111,7 +2103,6 @@
 0.0.0.0 spywarelabs.com
 0.0.0.0 spywarenuker.com
 0.0.0.0 spywords.com
-0.0.0.0 srbijacafe.org
 0.0.0.0 srwww1.com
 0.0.0.0 starffa.com
 0.0.0.0 start.freeze.com

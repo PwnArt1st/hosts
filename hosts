@@ -1,18 +1,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Date: May 12 2016
-# Number of unique domains: 28,786
-=======
-# Date: May 20 2016
-# Number of unique domains: 26,979
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-# Date: May 12 2016
-# Number of unique domains: 28,786
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
+# Date: May 23 2016
+# Number of unique domains: 28,764
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -403,10 +393,6 @@ fe80::1%lo0 localhost
 0.0.0.0 img.ads2.mojiva.com
 0.0.0.0 img.ads3.mojiva.com
 0.0.0.0 img.ads4.mojiva.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 
 # [mocean.mobi]
 0.0.0.0 img.ads1.mocean.mobi
@@ -507,7 +493,6 @@ fe80::1%lo0 localhost
 0.0.0.0 img.adecorp.co.kr
 0.0.0.0 us0.adlibr.com
 0.0.0.0 ad.parrot.mable-inc.com
-<<<<<<< HEAD
 
 # [http://play.google.com/store/apps/details?id=com.chuangkai.phonehelper]
 0.0.0.0 aos.wall.youmi.net
@@ -2844,2465 +2829,9 @@ fe80::1%lo0 localhost
 ## By https://github.com/PwnArt1st/hostsblock
 #               MalwareDomainList.com Hosts List           #
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         Last updated: Thu, 12 May 16 08:36:36 +0000      #
+#         Last updated: Sun, 22 May 16 11:08:37 +0000      #
 
 
-=======
-
-# [mocean.mobi]
-0.0.0.0 img.ads1.mocean.mobi
-0.0.0.0 img.ads2.mocean.mobi
-0.0.0.0 img.ads3.mocean.mobi
-0.0.0.0 img.ads4.mocean.mobi
-
-# [Smart Adserver]
-0.0.0.0 akamai.smartadserver.com
-0.0.0.0 cdn1.smartadserver.com
-0.0.0.0 diff.smartadserver.com
-0.0.0.0 diff2.smartadserver.com
-0.0.0.0 diff3.smartadserver.com
-0.0.0.0 eqx.smartadserver.com
-0.0.0.0 im2.smartadserver.com
-0.0.0.0 itx5-publicidad.smartadserver.com
-0.0.0.0 itx5.smartadserver.com
-0.0.0.0 tcy.smartadserver.com
-0.0.0.0 ww129.smartadserver.com
-0.0.0.0 ww13.smartadserver.com
-0.0.0.0 ww14.smartadserver.com
-0.0.0.0 ww234.smartadserver.com
-0.0.0.0 ww251.smartadserver.com
-0.0.0.0 ww264.smartadserver.com
-0.0.0.0 ww302.smartadserver.com
-0.0.0.0 ww362.smartadserver.com
-0.0.0.0 ww370.smartadserver.com
-0.0.0.0 ww381.smartadserver.com
-0.0.0.0 ww392.smartadserver.com
-0.0.0.0 ww55.smartadserver.com
-0.0.0.0 ww57.smartadserver.com
-0.0.0.0 ww84.smartadserver.com
-0.0.0.0 www.smartadserver.com
-0.0.0.0 www2.smartadserver.com
-0.0.0.0 www3.smartadserver.com
-0.0.0.0 www4.smartadserver.com
-
-# [Mobclix]
-0.0.0.0 ads.mobclix.com
-0.0.0.0 data.mobclix.com
-0.0.0.0 s.mobclix.com
-
-# [MdotM, Inc.]
-0.0.0.0 ads.mdotm.com
-0.0.0.0 cdn.mdotm.com
-
-# [Greystripe]
-0.0.0.0 ads2.greystripe.com
-0.0.0.0 adsx.greystripe.com
-0.0.0.0 c.greystripe.com
-
-# [Amazon]
-0.0.0.0 aax-us-east.amazon-adsystem.com
-0.0.0.0 aax-us-west.amazon-adsystem.com
-0.0.0.0 s.amazon-adsystem.com
-
-# [Hosted on Amazon AWS]
-0.0.0.0 admarvel.s3.amazonaws.com
-0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
-0.0.0.0 inneractive-assets.s3.amazonaws.com
-0.0.0.0 strikeadcdn.s3.amazonaws.com
-
-# [Admob]
-0.0.0.0 a.admob.com
-0.0.0.0 analytics.admob.com
-0.0.0.0 c.admob.com
-0.0.0.0 media.admob.com
-0.0.0.0 p.admob.com
-
-# [AdWhirl]
-0.0.0.0 met.adwhirl.com
-0.0.0.0 mob.adwhirl.com
-
-# [Doubleclick (Google)]
-0.0.0.0 ad-g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ad.mo.doubleclick.net
-0.0.0.0 doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-
-# [Google]
-0.0.0.0 pagead.googlesyndication.com
-0.0.0.0 pagead1.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
-
-# [National Rail Enquiries, https://play.google.com/store/apps/details?id=uk.co.nationalrail.google]
-0.0.0.0 events.foreseeresults.com
-0.0.0.0 survey.foreseeresults.com
-0.0.0.0 m.quantserve.com
-
-# [leadboltmobile]
-0.0.0.0 ad.leadboltmobile.net
-
-# [MSN Ads, in Skype]
-0.0.0.0 mobileads.msn.com
-
-# [https://play.google.com/store/apps/details?id=myapp.devilbaby.android.music.newmusic]
-0.0.0.0 img.adecorp.co.kr
-0.0.0.0 us0.adlibr.com
-0.0.0.0 ad.parrot.mable-inc.com
-
-# [http://play.google.com/store/apps/details?id=com.chuangkai.phonehelper]
-0.0.0.0 aos.wall.youmi.net
-0.0.0.0 au.youmi.net
-
-=======
-
-# [http://play.google.com/store/apps/details?id=com.chuangkai.phonehelper]
-0.0.0.0 aos.wall.youmi.net
-0.0.0.0 au.youmi.net
-
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
-# [http://play.google.com/store/apps/details?id=com.coconuts.webnavigator]
-0.0.0.0 coconuts.boy.jp
-0.0.0.0 iacpromotion.s3.amazonaws.com
-0.0.0.0 plugin.2easydroid.com
-
-# [http://play.google.com/store/apps/details?id=com.babjul.billboard]
-0.0.0.0 adimg3.search.naver.net
-
-# [http://play.google.com/store/apps/details?id=com.taeyang.billboardtop]
-0.0.0.0 st.a-link.co.kr
-0.0.0.0 cdn.ajillionmax.com
-0.0.0.0 dispatch.admixer.co.kr
-0.0.0.0 ifc.inmobi.com
-0.0.0.0 thinknear-hosted.thinknearhub.com
-
-#
-# ANALYTICS
-#
-0.0.0.0 analytics.localytics.com
-
-# [Medialytics]
-0.0.0.0 a.medialytics.com
-0.0.0.0 c.medialytics.com
-0.0.0.0 cdn.creative.medialytics.com
-0.0.0.0 p.medialytics.com
-0.0.0.0 px.cdn.creative.medialytics.com
-0.0.0.0 t.medialytics.com
-
-# [Google]
-0.0.0.0 google-analytics.com
-0.0.0.0 googlesyndication.com
-
-# [applift]
-0.0.0.0 applift.com
-# use finer grained hostnames?
-#127.0.0.1 tracking.applift.com
-
-# [EFF Tracker Detection]
-0.0.0.0 trackersimulator.org
-0.0.0.0 eviltracker.net
-<<<<<<< HEAD
-0.0.0.0 do-not-tracker.org ##
-#   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         Last updated: Thu, 19 May 16 17:50:00 +0000      #
-
-
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 do-not-tracker.org ###
-## By https://github.com/PwnArt1st/hostsblock
-0.0.0.0 46.165.197.153
-0.0.0.0 46.165.197.231
-0.0.0.0 74.117.182.77
-0.0.0.0 78.140.131.214
-0.0.0.0 clkrev.com
-0.0.0.0 juicyads.com
-0.0.0.0 a.livesportmedia.eu
-0.0.0.0 a.ucoz.net
-0.0.0.0 a.watershed-publishing.com
-0.0.0.0 a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
-0.0.0.0 ad.about.co.kr
-0.0.0.0 ad.accessmediaproductions.com
-0.0.0.0 ad.bitmedia.io
-0.0.0.0 ad.flux.com
-0.0.0.0 ad.foxnetworks.com
-0.0.0.0 ad.icasthq.com
-0.0.0.0 ad.idgtn.net
-0.0.0.0 ad.jamba.net
-0.0.0.0 ad.livere.co.kr
-0.0.0.0 ad.mail.ru
-0.0.0.0 ad.mesomorphosis.com
-0.0.0.0 ad.openmultimedia.biz
-0.0.0.0 ad.outsidehub.com
-0.0.0.0 ad.pickple.net
-0.0.0.0 ad.proxy.sh
-0.0.0.0 ad.r.worldssl.net
-0.0.0.0 ad.rambler.ru
-0.0.0.0 ad.reklamport.com
-0.0.0.0 ad.sensismediasmart.com.au
-0.0.0.0 ad.smartclip.net
-0.0.0.0 ad.spielothek.so
-0.0.0.0 ad.vidaroo.com
-0.0.0.0 ad.winningpartner.com
-0.0.0.0 add.bugun.com.tr
-0.0.0.0 adingo.jp.eimg.jp
-0.0.0.0 adn.ebay.com
-0.0.0.0 adplus.goo.mx
-0.0.0.0 ads.tremorhub.com
-0.0.0.0 adscaspion.appspot.com
-0.0.0.0 adss.dotdo.net
-0.0.0.0 adz.zwee.ly
-0.0.0.0 aff.eteachergroup.com
-0.0.0.0 aff.marathonbet.com
-0.0.0.0 aff.svjump.com
-0.0.0.0 affil.mupromo.com
-0.0.0.0 affiliateprogram.keywordspy.com
-0.0.0.0 affiliates.allposters.com
-0.0.0.0 affiliatesmedia.sbobet.com
-0.0.0.0 affiliation.fotovista.com
-0.0.0.0 agenda.complex.com
-0.0.0.0 airpushmarketing.s3.amazonaws.com
-0.0.0.0 ais.abacast.com
-0.0.0.0 analytics.disneyinternational.com
-0.0.0.0 ard.ihookup.com
-0.0.0.0 award.sitekeuring.net
-0.0.0.0 b.babylon.com
-0.0.0.0 b.livesport.eu
-0.0.0.0 b92.putniktravel.com
-0.0.0.0 banner.101xp.com
-0.0.0.0 banner.3ddownloads.com
-0.0.0.0 banner.europacasino.com
-0.0.0.0 banner.telefragged.com
-0.0.0.0 banner.titancasino.com
-0.0.0.0 bl.wavecdn.de
-0.0.0.0 blamads-assets.s3.amazonaws.com
-0.0.0.0 bluhostedbanners.blucigs.com
-0.0.0.0 box.anchorfree.net
-0.0.0.0 btr.domywife.com
-0.0.0.0 c.netu.tv
-0.0.0.0 cas.clickability.com
-0.0.0.0 cash.neweramediaworks.com
-0.0.0.0 cerebral.typn.com
-0.0.0.0 cjmooter.xcache.kinxcdn.com
-0.0.0.0 clarity.abacast.com
-0.0.0.0 click.eyk.net
-0.0.0.0 clickstrip.6wav.es
-0.0.0.0 connect.summit.co.uk
-0.0.0.0 content.livesportmedia.eu
-0.0.0.0 cpm.amateurcommunity.de
-0.0.0.0 creatives.inmotionhosting.com
-0.0.0.0 creatives.summitconnect.co.uk
-0.0.0.0 d13czkep7ax7nj.cloudfront.net
-0.0.0.0 d140sbu1b1m3h0.cloudfront.net
-0.0.0.0 d15565yqt7pv7r.cloudfront.net
-0.0.0.0 d15gt9gwxw5wu0.cloudfront.net
-0.0.0.0 d1635hfcvs8ero.cloudfront.net
-0.0.0.0 d17f2fxw547952.cloudfront.net
-0.0.0.0 d19972r8wdpby8.cloudfront.net
-0.0.0.0 d1ade4ciw4bqyc.cloudfront.net
-0.0.0.0 d1cl1sqtf3o420.cloudfront.net
-0.0.0.0 d1d43ayl08oaq2.cloudfront.net
-0.0.0.0 d1d95giojjkirt.cloudfront.net
-0.0.0.0 d1ebha2k07asm5.cloudfront.net
-0.0.0.0 d1ep3cn6qx0l3z.cloudfront.net
-0.0.0.0 d1ey3fksimezm4.cloudfront.net
-0.0.0.0 d1fo96xm8fci0r.cloudfront.net
-0.0.0.0 d1gojtoka5qi10.cloudfront.net
-0.0.0.0 d1k74lgicilrr3.cloudfront.net
-0.0.0.0 d1noellhv8fksc.cloudfront.net
-0.0.0.0 d1pcttwib15k25.cloudfront.net
-0.0.0.0 d1pdpbxj733bb1.cloudfront.net
-0.0.0.0 d1spb7fplenrp4.cloudfront.net
-0.0.0.0 d1vbm0eveofcle.cloudfront.net
-0.0.0.0 d1zgderxoe1a.cloudfront.net
-0.0.0.0 d23guct4biwna6.cloudfront.net
-0.0.0.0 d23nyyb6dc29z6.cloudfront.net
-0.0.0.0 d25ruj6ht8bs1.cloudfront.net
-0.0.0.0 d25xkbr68qqtcn.cloudfront.net
-0.0.0.0 d26dzd2k67we08.cloudfront.net
-0.0.0.0 d26j9bp9bq4uhd.cloudfront.net
-0.0.0.0 d26wy0pxd3qqpv.cloudfront.net
-0.0.0.0 d27jt7xr4fq3e8.cloudfront.net
-0.0.0.0 d287x05ve9a63s.cloudfront.net
-0.0.0.0 d29r6igjpnoykg.cloudfront.net
-0.0.0.0 d2anfhdgjxf8s1.cloudfront.net
-0.0.0.0 d2b2x1ywompm1b.cloudfront.net
-0.0.0.0 d2b560qq58menv.cloudfront.net
-0.0.0.0 d2b65ihpmocv7w.cloudfront.net
-0.0.0.0 d2cxkkxhecdzsq.cloudfront.net
-0.0.0.0 d2d2lbvq8xirbs.cloudfront.net
-0.0.0.0 d2dxgm96wvaa5j.cloudfront.net
-0.0.0.0 d2gpgaupalra1d.cloudfront.net
-0.0.0.0 d2gtlljtkeiyzd.cloudfront.net
-0.0.0.0 d2gz6iop9uxobu.cloudfront.net
-0.0.0.0 d2hap2bsh1k9lw.cloudfront.net
-0.0.0.0 d2hcjk8asp3td7.cloudfront.net
-0.0.0.0 d2ipklohrie3lo.cloudfront.net
-0.0.0.0 d2mic0r0bo3i6z.cloudfront.net
-0.0.0.0 d2mq0uzafv8ytp.cloudfront.net
-0.0.0.0 d2muzdhs7lpmo0.cloudfront.net
-0.0.0.0 d2nlytvx51ywh9.cloudfront.net
-0.0.0.0 d2o307dm5mqftz.cloudfront.net
-0.0.0.0 d2oallm7wrqvmi.cloudfront.net
-0.0.0.0 d2omcicc3a4zlg.cloudfront.net
-0.0.0.0 d2pgy8h4i30on1.cloudfront.net
-0.0.0.0 d2plxos94peuwp.cloudfront.net
-0.0.0.0 d2r359adnh3sfn.cloudfront.net
-0.0.0.0 d2s64zaa9ua7uv.cloudfront.net
-0.0.0.0 d2tgev5wuprbqq.cloudfront.net
-0.0.0.0 d2tnimpzlb191i.cloudfront.net
-0.0.0.0 d2ubicnllnnszy.cloudfront.net
-0.0.0.0 d2ue9k1rhsumed.cloudfront.net
-0.0.0.0 d2v4glj2m8yzg5.cloudfront.net
-0.0.0.0 d2v9ajh2eysdau.cloudfront.net
-0.0.0.0 d2vt6q0n0iy66w.cloudfront.net
-0.0.0.0 d2yhukq7vldf1u.cloudfront.net
-0.0.0.0 d2z1smm3i01tnr.cloudfront.net
-0.0.0.0 d31807xkria1x4.cloudfront.net
-0.0.0.0 d32pxqbknuxsuy.cloudfront.net
-0.0.0.0 d33f10u0pfpplc.cloudfront.net
-0.0.0.0 d33otidwg56k90.cloudfront.net
-0.0.0.0 d34obr29voew8l.cloudfront.net
-0.0.0.0 d34rdvn2ky3gnm.cloudfront.net
-0.0.0.0 d37kzqe5knnh6t.cloudfront.net
-0.0.0.0 d38pxm3dmrdu6d.cloudfront.net
-0.0.0.0 d38r21vtgndgb1.cloudfront.net
-0.0.0.0 d39xqloz8t5a6x.cloudfront.net
-0.0.0.0 d3bvcf24wln03d.cloudfront.net
-0.0.0.0 d3dphmosjk9rot.cloudfront.net
-0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
-0.0.0.0 d3f9mcik999dte.cloudfront.net
-0.0.0.0 d3fzrm6pcer44x.cloudfront.net
-0.0.0.0 d3irruagotonpp.cloudfront.net
-0.0.0.0 d3iwjrnl4m67rd.cloudfront.net
-0.0.0.0 d3lc9zmxv46zr.cloudfront.net
-0.0.0.0 d3lvr7yuk4uaui.cloudfront.net
-0.0.0.0 d3lzezfa753mqu.cloudfront.net
-0.0.0.0 d3m41swuqq4sv5.cloudfront.net
-0.0.0.0 d3nvrqlo8rj1kw.cloudfront.net
-0.0.0.0 d3p9ql8flgemg7.cloudfront.net
-0.0.0.0 d3pkae9owd2lcf.cloudfront.net
-0.0.0.0 d3q2dpprdsteo.cloudfront.net
-0.0.0.0 d3qszud4qdthr8.cloudfront.net
-0.0.0.0 d3t2wca0ou3lqz.cloudfront.net
-0.0.0.0 d3t9ip55bsuxrf.cloudfront.net
-0.0.0.0 d3tdefw8pwfkbk.cloudfront.net
-0.0.0.0 d3vc1nm9xbncz5.cloudfront.net
-0.0.0.0 d5pvnbpawsaav.cloudfront.net
-0.0.0.0 d6bdy3eto8fyu.cloudfront.net
-0.0.0.0 d8qy7md4cj3gz.cloudfront.net
-0.0.0.0 dal9hkyfi0m0n.cloudfront.net
-0.0.0.0 dart.clearchannel.com
-0.0.0.0 dasfdasfasdf.no-ip.info
-0.0.0.0 data.apn.co.nz
-0.0.0.0 data.neuroxmedia.com
-0.0.0.0 dbam.dashbida.com
-0.0.0.0 ddwht76d9jvfl.cloudfront.net
-0.0.0.0 dew9ckzjyt2gn.cloudfront.net
-0.0.0.0 dff7tx5c2qbxc.cloudfront.net
-0.0.0.0 display.digitalriver.com
-0.0.0.0 disy2s34euyqm.cloudfront.net
-0.0.0.0 dizixdllzznrf.cloudfront.net
-0.0.0.0 djlf5xdlz7m8m.cloudfront.net
-0.0.0.0 dkd69bwkvrht1.cloudfront.net
-0.0.0.0 dkdwv3lcby5zi.cloudfront.net
-0.0.0.0 dl392qndlveq0.cloudfront.net
-0.0.0.0 dl5v5atodo7gn.cloudfront.net
-0.0.0.0 dlupv9uqtjlie.cloudfront.net
-0.0.0.0 dm0acvguygm9h.cloudfront.net
-0.0.0.0 dm8srf206hien.cloudfront.net
-0.0.0.0 dp51h10v6ggpa.cloudfront.net
-0.0.0.0 dpsq2uzakdgqz.cloudfront.net
-0.0.0.0 dq2tgxnc2knif.cloudfront.net
-0.0.0.0 dqhi3ea93ztgv.cloudfront.net
-0.0.0.0 dr8pk6ovub897.cloudfront.net
-0.0.0.0 drf8e429z5jzt.cloudfront.net
-0.0.0.0 dsh7ky7308k4b.cloudfront.net
-0.0.0.0 du2uh7rq0r0d3.cloudfront.net
-0.0.0.0 duct5ntjian71.cloudfront.net
-0.0.0.0 dvf2u7vwmkr5w.cloudfront.net
-0.0.0.0 dvt4pepo9om3r.cloudfront.net
-0.0.0.0 dx5qvhwg92mjd.cloudfront.net
-0.0.0.0 dxq6c0tx3v6mm.cloudfront.net
-0.0.0.0 dxqd86uz345mg.cloudfront.net
-0.0.0.0 dy48bnzanqw0v.cloudfront.net
-0.0.0.0 dycpc40hvg4ki.cloudfront.net
-0.0.0.0 dyl3p6so5yozo.cloudfront.net
-0.0.0.0 epowernetworktrackerimages.s3.amazonaws.com
-0.0.0.0 euwidget.imshopping.com
-0.0.0.0 events.kalooga.com
-0.0.0.0 ext.theglobalweb.com
-0.0.0.0 feeds.logicbuy.com
-0.0.0.0 ft.pnop.com
-0.0.0.0 gateway.fortunelounge.com
-0.0.0.0 gateways.s3.amazonaws.com
-0.0.0.0 geo.connexionsecure.com
-0.0.0.0 geobanner.friendfinder.com
-0.0.0.0 geobanner.passion.com
-0.0.0.0 gfaf-banners.s3.amazonaws.com
-0.0.0.0 homad-global-configs.schneevonmorgen.com
-0.0.0.0 im.ov.yahoo.co.jp
-0.0.0.0 ima3vpaid.appspot.com
-0.0.0.0 indieclick.3janecdn.com
-0.0.0.0 inskin.vo.llnwd.net
-0.0.0.0 k2team.kyiv.ua
-0.0.0.0 karma.mdpcdn.com
-0.0.0.0 kbnetworkz.s3.amazonaws.com
-0.0.0.0 mads.aol.com
-0.0.0.0 marketing.888.com
-0.0.0.0 mb.zam.com
-0.0.0.0 mozo-widgets.f2.com.au
-0.0.0.0 network.aufeminin.com
-0.0.0.0 network.business.com
-0.0.0.0 oclasrv.comindex-2.htmlapu.php
-0.0.0.0 odin.goo.mx
-0.0.0.0 on.maxspeedcdn.com
-0.0.0.0 ox-i.cordillera.tv
-0.0.0.0 partner.bargaindomains.com
-0.0.0.0 partner.catchy.com
-0.0.0.0 partner.premiumdomains.com
-0.0.0.0 partnerads.ysm.yahoo.com
-0.0.0.0 partnerads1.ysm.yahoo.com
-0.0.0.0 partners.fshealth.com
-0.0.0.0 partners.optiontide.com
-0.0.0.0 partners.rochen.com
-0.0.0.0 partners.sportingbet.com.au
-0.0.0.0 partners.vouchedfor.co.uk
-0.0.0.0 partners.xpertmarket.com
-0.0.0.0 priceinfo.comuv.com
-0.0.0.0 promos.fling.com
-0.0.0.0 promote.pair.com
-0.0.0.0 promotions.iasbet.com
-0.0.0.0 pub.betclick.com
-0.0.0.0 pubs.hiddennetwork.com
-0.0.0.0 rack.bauermedia.co.uk
-0.0.0.0 res3.feedsportal.com
-0.0.0.0 revealads.appspot.com
-0.0.0.0 rotabanner.kulichki.net
-0.0.0.0 rotator.tradetracker.net
-0.0.0.0 s-yoolk-banner-assets.yoolk.com
-0.0.0.0 s-yoolk-billboard-assets.yoolk.com
-0.0.0.0 secretmedia.s3.amazonaws.com
-0.0.0.0 servedby.keygamesnetwork.com
-0.0.0.0 sitescout-video-cdn.edgesuite.net
-0.0.0.0 slot.union.ucweb.com
-0.0.0.0 smart.styria-digital.com
-0.0.0.0 smblock.s3.amazonaws.com
-0.0.0.0 squarespace.evyy.net
-0.0.0.0 stats.hosting24.com
-0.0.0.0 stats.sitesuite.org
-0.0.0.0 stuff-nzwhistleout.s3.amazonaws.com
-0.0.0.0 survey.g.doubleclick.net
-0.0.0.0 syndication.jsadapi.com
-0.0.0.0 syndication1.viraladnetwork.net
-0.0.0.0 tap.more-results.net
-0.0.0.0 ti.tradetracker.net
-0.0.0.0 track.bcvcmedia.com
-0.0.0.0 twinplan.com
-0.0.0.0 vendor1.fitschigogerl.com
-0.0.0.0 web-jp.ad-v.jp
-0.0.0.0 whistleout.s3.amazonaws.com
-0.0.0.0 widget.crowdignite.com
-0.0.0.0 widget.kelkoo.com
-0.0.0.0 widget.raaze.com
-0.0.0.0 widget.searchschoolsnetwork.com
-0.0.0.0 widget.shopstyle.com.au
-0.0.0.0 widget.solarquotes.com.au
-0.0.0.0 widgets.realestate.com.au
-0.0.0.0 wtpn.twenga.co.uk
-0.0.0.0 wtpn.twenga.de
-0.0.0.0 yb.torchbrowser.com
-0.0.0.0 yeas.yahoo.co.jp
-0.0.0.0 zapads.zapak.com
-0.0.0.0 zeus.qj.net
-0.0.0.0 iadc.qwapi.com
-0.0.0.0 d1nmk7iw7hajjn.cloudfront.net
-0.0.0.0 d3ujids68p6xmq.cloudfront.net
-0.0.0.0 ad.duga.jp
-0.0.0.0 ad.iloveinterracial.com
-0.0.0.0 ads.videosz.com
-0.0.0.0 affiliates.thrixxx.com
-0.0.0.0 ard.sweetdiscreet.com
-0.0.0.0 bannershotlink.perfectgonzo.com
-0.0.0.0 blaaaa12.googlecode.com
-0.0.0.0 br.blackfling.com
-0.0.0.0 br.fling.com
-0.0.0.0 br.realitykings.com
-0.0.0.0 click.hay3s.com
-0.0.0.0 cpm.amateurcommunity.com
-0.0.0.0 dailyvideo.securejoin.com
-0.0.0.0 desk.cmix.org
-0.0.0.0 feeds.videosz.com
-0.0.0.0 ff.nsg.org.ua
-0.0.0.0 freexxxvideoclip.aebn.net
-0.0.0.0 geo.cliphunter.com
-0.0.0.0 geo.frtya.com
-0.0.0.0 geobanner.adultfriendfinder.com
-0.0.0.0 geobanner.alt.com
-0.0.0.0 geobanner.socialflirt.com
-0.0.0.0 in.zog.link
-0.0.0.0 partners.pornerbros.com
-0.0.0.0 s1magnettvcom.maynemyltf.netdna-cdn.com
-0.0.0.0 surv.xbizmedia.com
-0.0.0.0 sweet.game-rust.ru
-0.0.0.0 widgets.comcontent.net
-0.0.0.0 widgetssec.cam-content.com
-0.0.0.0 a.cdngeek.net
-0.0.0.0 a.clipconverter.cc
-0.0.0.0 a.giantrealm.com
-0.0.0.0 a.i-sgcm.com
-0.0.0.0 a.kat.cr
-0.0.0.0 a.kickass.to
-0.0.0.0 a.lolwot.com
-0.0.0.0 a.solarmovie.is
-0.0.0.0 ac2.msn.com
-0.0.0.0 access.njherald.com
-0.0.0.0 ad.cooks.com
-0.0.0.0 ad.digitimes.com.tw
-0.0.0.0 ad.directmirror.com
-0.0.0.0 ad.download.cnet.com
-0.0.0.0 ad.evozi.com
-0.0.0.0 ad.fnnews.com
-0.0.0.0 ad.jamster.com
-0.0.0.0 ad.lyricswire.com
-0.0.0.0 ad.mangareader.net
-0.0.0.0 ad.newegg.com
-0.0.0.0 ad.pandora.tv
-0.0.0.0 ad.reachlocal.com
-0.0.0.0 ad.search.ch
-0.0.0.0 ad.services.distractify.com
-0.0.0.0 adcitrus.com
-0.0.0.0 addirector.vindicosuite.com
-0.0.0.0 adds.weatherology.com
-0.0.0.0 adlink.shopsafe.co.nz
-0.0.0.0 admeta.vo.llnwd.net
-0.0.0.0 ads-rolandgarros.com
-0.0.0.0 ads.pof.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 ads.zynga.com
-0.0.0.0 adsatt.abcnews.starwave.com
-0.0.0.0 adsatt.espn.starwave.com
-0.0.0.0 adshare.freedocast.com
-0.0.0.0 adsor.openrunner.com
-0.0.0.0 adss.yahoo.com
-0.0.0.0 adstil.indiatimes.com
-0.0.0.0 adtest.theonion.com
-0.0.0.0 advertise.twitpic.com
-0.0.0.0 advice-ads-cdn.vice.com
-0.0.0.0 adx.kat.ph
-0.0.0.0 aff.lmgtfy.com
-0.0.0.0 ajnad.aljazeera.net
-0.0.0.0 amz.steamprices.com
-0.0.0.0 analytics.mmosite.com
-0.0.0.0 as.inbox.com
-0.0.0.0 asd.projectfreetv.so
-0.0.0.0 avpa.dzone.com
-0.0.0.0 b.localpages.com
-0.0.0.0 b.thefile.me
-0.0.0.0 ba.ccm2.net
-0.0.0.0 ba.kioskea.net
-0.0.0.0 banner.automotiveworld.com
-0.0.0.0 banner.itweb.co.za
-0.0.0.0 banners.beevpn.com
-0.0.0.0 banners.beted.com
-0.0.0.0 banners.clubworldgroup.com
-0.0.0.0 banners.expressindia.com
-0.0.0.0 banners.i-comers.com
-0.0.0.0 banners.itweb.co.za
-0.0.0.0 banners.playocio.com
-0.0.0.0 beap.gemini.yahoo.com
-0.0.0.0 bizanti.youwatch.org
-0.0.0.0 bnrs.ilm.ee
-0.0.0.0 bwp.theinsider.com.com
-0.0.0.0 cadvv.heraldm.com
-0.0.0.0 cadvv.koreaherald.com
-0.0.0.0 canvas.thenextweb.com
-0.0.0.0 click.livedoor.com
-0.0.0.0 clicks.superpages.com
-0.0.0.0 cnetwidget.creativemark.co.uk
-0.0.0.0 collector.viki.io
-0.0.0.0 creatives.livejasmin.com
-0.0.0.0 d.annarbor.com
-0.0.0.0 d.businessinsider.com
-0.0.0.0 d.gossipcenter.com
-0.0.0.0 d.thelocal.com
-0.0.0.0 dads.new.digg.com
-0.0.0.0 dailydeals.amarillo.com
-0.0.0.0 dailydeals.augustachronicle.com
-0.0.0.0 dailydeals.brainerddispatch.com
-0.0.0.0 dailydeals.lubbockonline.com
-0.0.0.0 dailydeals.onlineathens.com
-0.0.0.0 dailydeals.savannahnow.com
-0.0.0.0 dcad.watersoul.com
-0.0.0.0 deals.ledgertranscript.com
-0.0.0.0 digdug.divxnetworks.com
-0.0.0.0 display.superbay.net
-0.0.0.0 dontblockme.modaco.com
-0.0.0.0 eva.ucas.com
-0.0.0.0 fan.twitch.tv
-0.0.0.0 fimserve.ign.com
-0.0.0.0 findnsave.idahostatesman.com
-0.0.0.0 g.brothersoft.com
-0.0.0.0 gameads.digyourowngrave.com
-0.0.0.0 geoshopping.nzherald.co.nz
-0.0.0.0 get.thefile.me
-0.0.0.0 gfx.infomine.com
-0.0.0.0 green.virtual-nights.com
-0.0.0.0 hejban.youwatch.org
-0.0.0.0 ibanners.empoweredcomms.com.au
-0.0.0.0 iframe.travel.yahoo.com
-0.0.0.0 imads.rediff.com
-0.0.0.0 kat-ads.torrenticity.com
-0.0.0.0 ker.pic2pic.site
-0.0.0.0 kermit.macnn.com
-0.0.0.0 life.imagepix.org
-0.0.0.0 lightson.vpsboard.com
-0.0.0.0 ll.a.hulu.com
-0.0.0.0 londonprivaterentals.standard.co.uk
-0.0.0.0 looky.hyves.org
-0.0.0.0 lw2.gamecopyworld.com
-0.0.0.0 mads.dailymail.co.uk
-0.0.0.0 marketingsolutions.yahoo.com
-0.0.0.0 mb.hockeybuzz.com
-0.0.0.0 mealsandsteals.sandiego6.com
-0.0.0.0 media-delivery.armorgames.com
-0.0.0.0 media-mgmt.armorgames.com
-0.0.0.0 mediamgr.ugo.com
-0.0.0.0 nest.youwatch.org
-0.0.0.0 netspidermm.indiatimes.com
-0.0.0.0 network.sofeminine.co.uk
-0.0.0.0 noram.srv.ysm.yahoo.com
-0.0.0.0 oas.autotrader.co.uk
-0.0.0.0 oas.skyscanner.net
-0.0.0.0 oasc07.citywire.co.uk
-0.0.0.0 oascentral.chron.com
-0.0.0.0 oascentral.hosted.ap.org
-0.0.0.0 oascentral.newsmax.com
-0.0.0.0 ox-d.rantsports.com
-0.0.0.0 ox-d.sbnation.com
-0.0.0.0 ox-d.wetransfer.com
-0.0.0.0 ox.furaffinity.net
-0.0.0.0 partners-z.com
-0.0.0.0 player.1800coupon.com
-0.0.0.0 player.1stcreditrepairs.com
-0.0.0.0 player.800directories.com
-0.0.0.0 player.accoona.com
-0.0.0.0 player.alloutwedding.com
-0.0.0.0 player.insuranceandhealth.com
-0.0.0.0 pmm.people.com.cn
-0.0.0.0 pop-over.powered-by.justplayzone.com
-0.0.0.0 prerollads.ign.com
-0.0.0.0 promo.fileforum.com
-0.0.0.0 rad.microsoft.com
-0.0.0.0 rad.msn.com
-0.0.0.0 red.bayimg.net
-0.0.0.0 redvase.bravenet.com
-0.0.0.0 richmedia.yimg.com
-0.0.0.0 roia.com
-0.0.0.0 rpt.anchorfree.net
-0.0.0.0 searchignited.com
-0.0.0.0 sebar.thand.info
-0.0.0.0 shoppingpartners2.futurenet.com
-0.0.0.0 showcase.vpsboard.com
-0.0.0.0 sponsors.s2ki.com
-0.0.0.0 sponsors.webosroundup.com
-0.0.0.0 srv.thespacereporter.com
-0.0.0.0 storewidget.pcauthority.com.au
-0.0.0.0 stream.heavenmedia.net
-0.0.0.0 tanzanite.infomine.com
-0.0.0.0 targetedinfo.com
-0.0.0.0 targetedtopic.com
-0.0.0.0 thejesperbay.com
-0.0.0.0 themis.yahoo.com
-0.0.0.0 tmcs.net
-0.0.0.0 tom.itv.com
-0.0.0.0 tracking.hostgator.com
-0.0.0.0 ua.badongo.com
-0.0.0.0 uimserv.net
-0.0.0.0 unicast.ign.com
-0.0.0.0 unicast.msn.com
-0.0.0.0 verdict.abc.go.com
-0.0.0.0 vice-ads-cdn.vice.com
-0.0.0.0 w.homes.yahoo.net
-0.0.0.0 webmaster.extabit.com
-0.0.0.0 widget.directory.dailycommercial.com
-0.0.0.0 x.castanet.net
-0.0.0.0 yea.uploadimagex.com
-0.0.0.0 yesbeby.whies.info
-0.0.0.0 yrt7dgkf.exashare.com
-0.0.0.0 ysm.yahoo.com
-0.0.0.0 zads.care2.com
-0.0.0.0 a.thefreethoughtproject.com
-0.0.0.0 a.eporner.com
-0.0.0.0 a.heavy-r.com
-0.0.0.0 a.killergram-girls.com
-0.0.0.0 ad.eporner.com
-0.0.0.0 ad.slutload.com
-0.0.0.0 ad.thisav.com
-0.0.0.0 ad.userporn.com
-0.0.0.0 ads.xxxbunker.com
-0.0.0.0 affiliates.goodvibes.com
-0.0.0.0 banner1.pornhost.com
-0.0.0.0 banners.cams.com
-0.0.0.0 bob.crazyshit.com
-0.0.0.0 brcache.madthumbs.com
-0.0.0.0 cams.pornrabbit.com
-0.0.0.0 creatives.cliphunter.com
-0.0.0.0 creatives.pichunter.com
-0.0.0.0 delivery.porn.com
-0.0.0.0 dot.eporner.com
-0.0.0.0 dot2.eporner.com
-0.0.0.0 exit.macandbumble.com
-0.0.0.0 fjfn.xhamster.com
-0.0.0.0 lw1.cdmediaworld.com
-0.0.0.0 m2.xhamster.com
-0.0.0.0 partners.keezmovies.com
-0.0.0.0 partners.xhamster.com
-0.0.0.0 pr-static.empflix.com
-0.0.0.0 pr-static.tnaflix.com
-0.0.0.0 r.radikal.ru
-0.0.0.0 rev.fapdu.com
-0.0.0.0 site.img.4tube.com
-0.0.0.0 static.kinghost.com
-0.0.0.0 x.eroticity.net
-0.0.0.0 x.vipergirls.to
-## Generated at Thu 12 May 2016 19:28:03 AEST
-## By https://github.com/PwnArt1st/hostsblock
-0.0.0.0 analytics.rechtslupe.org
-0.0.0.0 a.unanimis.co.uk
-0.0.0.0 a2a.lockerz.com
-0.0.0.0 aaa.aj5.info
-0.0.0.0 activities.niagara.comedycentral.com
-0.0.0.0 adfox.yandex.ru
-0.0.0.0 adg.bzgint.com
-0.0.0.0 adlog.com.com
-0.0.0.0 ads-trk.vidible.tv
-0.0.0.0 affiliate.iamplify.com
-0.0.0.0 affiliates.mgmmirage.com
-0.0.0.0 affiliates.swappernet.com
-0.0.0.0 affl.sucuri.net
-0.0.0.0 akatracking.esearchvision.com
-0.0.0.0 aksb-a.akamaihd.net
-0.0.0.0 amplifypixel.outbrain.com
-0.0.0.0 ams.addflow.ru
-0.0.0.0 analytic.pho.fm
-0.0.0.0 analyticapi.pho.fm
-0.0.0.0 analytics-static.ugc.bazaarvoice.com
-0.0.0.0 analytics-v2.anvato.com
-0.0.0.0 analytics.abacast.com
-0.0.0.0 analytics.adeevo.com
-0.0.0.0 analytics.anvato.net
-0.0.0.0 analytics.apnewsregistry.com
-0.0.0.0 analytics.artirix.com
-0.0.0.0 analytics.atomiconline.com
-0.0.0.0 analytics.aweber.com
-0.0.0.0 analytics.bigcommerce.com
-0.0.0.0 analytics.carambo.la
-0.0.0.0 analytics.clickpathmedia.com
-0.0.0.0 analytics.closealert.com
-0.0.0.0 analytics.cmg.net
-0.0.0.0 analytics.conmio.com
-0.0.0.0 analytics.convertlanguage.com
-0.0.0.0 analytics.cynapse.com
-0.0.0.0 analytics.datahc.com
-0.0.0.0 analytics.dev.springboardvideo.com
-0.0.0.0 analytics.edgekey.net
-0.0.0.0 analytics.edgesuite.net
-0.0.0.0 analytics.episodic.com
-0.0.0.0 analytics.fairfax.com.au
-0.0.0.0 analytics.favcy.com
-0.0.0.0 analytics.gvim.mobi
-0.0.0.0 analytics.hosting24.com
-0.0.0.0 analytics.hpprintx.com
-0.0.0.0 analytics.kapost.com
-0.0.0.0 analytics.live.com
-0.0.0.0 analytics.matchbin.com
-0.0.0.0 analytics.mlstatic.com
-0.0.0.0 analytics.onlyonlinemarketing.com
-0.0.0.0 analytics.optilead.co.uk
-0.0.0.0 analytics.orenshmu.com
-0.0.0.0 analytics.performable.com
-0.0.0.0 analytics.photorank.me
-0.0.0.0 analytics.piksel.com
-0.0.0.0 analytics.prod.aws.ecnext.net
-0.0.0.0 analytics.r17.com
-0.0.0.0 analytics.radiatemedia.com
-0.0.0.0 analytics.recruitics.com
-0.0.0.0 analytics.revee.com
-0.0.0.0 analytics.reyrey.net
-0.0.0.0 analytics.rogersmedia.com
-0.0.0.0 analytics.shareaholic.com
-0.0.0.0 analytics.sitewit.com
-0.0.0.0 analytics.sonymusic.com
-0.0.0.0 analytics.springboardvideo.com
-0.0.0.0 analytics.staticiv.com
-0.0.0.0 analytics.stg.springboardvideo.com
-0.0.0.0 analytics.strangeloopnetworks.com
-0.0.0.0 analytics.themarketiq.com
-0.0.0.0 analytics.tout.com
-0.0.0.0 analytics.tribeca.vidavee.com
-0.0.0.0 analytics.urx.io
-0.0.0.0 analytics.websolute.it
-0.0.0.0 analytics.wildtangent.com
-0.0.0.0 analytics.yola.net
-0.0.0.0 analytics.yolacdn.net
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 analyze.full-marke.com
-0.0.0.0 analyzer.qmerce.com
-0.0.0.0 api.fyreball.com
-0.0.0.0 api.wipmania.com
-0.0.0.0 app.insightgrit.com
-0.0.0.0 aserve.directorym.com
-0.0.0.0 attributiontrackingga.googlecode.com
-0.0.0.0 audit.303br.net
-0.0.0.0 audit.median.hu
-0.0.0.0 axislogger.appspot.com
-0.0.0.0 b.bedop.com
-0.0.0.0 barium.cheezdev.com
-0.0.0.0 beacon.affil.walmart.com
-0.0.0.0 beacon.errorception.com
-0.0.0.0 beacon.gcion.com
-0.0.0.0 beacon.guim.co.uk
-0.0.0.0 beacon.heliumnetwork.com
-0.0.0.0 beacon.indieclick.com
-0.0.0.0 beacon.livefyre.com
-0.0.0.0 beacon.richrelevance.com
-0.0.0.0 beacon.riskified.com
-0.0.0.0 beacon.rum.dynapis.com
-0.0.0.0 beacon.securestudies.com
-0.0.0.0 beacon.sojern.com
-0.0.0.0 beacon.thred.woven.com
-0.0.0.0 beacon2.indieclick.com
-0.0.0.0 beacons.brandads.net
-0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 bizsolutions.strands.com
-0.0.0.0 bright.bncnt.com
-0.0.0.0 bs.yandex.ru
-0.0.0.0 btn.clickability.com
-0.0.0.0 buzzbox.buzzfeed.com
-0.0.0.0 c.compete.com
-0.0.0.0 c.homestore.com
-0.0.0.0 c.wen.ru
-0.0.0.0 c2s-openrtb.liverail.com
-0.0.0.0 c3metrics.medifast1.com
-0.0.0.0 cache2.delvenetworks.com
-0.0.0.0 cadreon.s3.amazonaws.com
-0.0.0.0 canvas-ping.conduit-data.com
-0.0.0.0 canvas-usage-v2.conduit-data.com
-0.0.0.0 carl.pubsvs.com
-0.0.0.0 caspionlog.appspot.com
-0.0.0.0 cc.swiftype.com
-0.0.0.0 ce.lijit.com
-0.0.0.0 cf.overblog.com
-0.0.0.0 cgicounter.oneandone.co.uk
-0.0.0.0 cgicounter.puretec.de
-0.0.0.0 chanalytics.merchantadvantage.com
-0.0.0.0 chartaca.com.s3.amazonaws.com
-0.0.0.0 click.appinthestore.com
-0.0.0.0 click.geopaysys.com
-0.0.0.0 clicks.dealer.com
-0.0.0.0 clickstream.loomia.com
-0.0.0.0 clicktale.pantherssl.com
-0.0.0.0 clicktalecdn.sslcs.cdngc.net
-0.0.0.0 clicktracker.iscan.nl
-0.0.0.0 clicktracks.aristotle.net
-0.0.0.0 clientstat.castup.net
-0.0.0.0 cloudfront-labs.amazonaws.com
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 cms-pixel.crowdreport.com
-0.0.0.0 cnt.3dmy.net
-0.0.0.0 cnt.mastorage.net
-0.0.0.0 collect.igodigital.com
-0.0.0.0 collection.acromas.com
-0.0.0.0 collector.air.tv
-0.0.0.0 collector.apester.com
-0.0.0.0 collector.leaddyno.com
-0.0.0.0 collector.nextguide.tv
-0.0.0.0 comet.ibsrv.net
-0.0.0.0 cookies.livepartners.com
-0.0.0.0 cookiex.ngd.yahoo.com
-0.0.0.0 count.asnetworks.de
-0.0.0.0 count.carrierzone.com
-0.0.0.0 count.channeladvisor.com
-0.0.0.0 count.me.uk
-0.0.0.0 count.paycounter.com
-0.0.0.0 counter.bloke.com
-0.0.0.0 counter.cam-content.com
-0.0.0.0 counter.htmlvalidator.com
-0.0.0.0 counter.hyipexplorer.com
-0.0.0.0 counter.maases.com
-0.0.0.0 counter.mgaserv.com
-0.0.0.0 counter.pagesview.com
-0.0.0.0 counter.pax.com
-0.0.0.0 counter.powweb.com
-0.0.0.0 counter.rambler.ru
-0.0.0.0 counter.scribblelive.com
-0.0.0.0 counter.scribblelive.net
-0.0.0.0 counter.sparklit.com
-0.0.0.0 counter.webcom.com
-0.0.0.0 counter.webmasters.bpath.com
-0.0.0.0 counter.yadro.ru
-0.0.0.0 counters.freewebs.com
-0.0.0.0 counters.gigya.com
-0.0.0.0 csi.gstatic.com
-0.0.0.0 ct.needlive.com
-0.0.0.0 ct.pinterest.com
-0.0.0.0 cts.vresp.com
-0.0.0.0 curate.nestedmedia.com
-0.0.0.0 cx.atdmt.com
-0.0.0.0 d.shareaholic.com
-0.0.0.0 d169bbxks24g2u.cloudfront.net
-0.0.0.0 d1cdnlzf6usiff.cloudfront.net
-0.0.0.0 d1cerpgff739r9.cloudfront.net
-0.0.0.0 d1clfvuu2240eh.cloudfront.net
-0.0.0.0 d1clufhfw8sswh.cloudfront.net
-0.0.0.0 d1gp8joe0evc8s.cloudfront.net
-0.0.0.0 d1ksyxj9xozc2j.cloudfront.net
-0.0.0.0 d1lm7kd3bd3yo9.cloudfront.net
-0.0.0.0 d1nh2vjpqpfnin.cloudfront.net
-0.0.0.0 d1qpxk1wfeh8v1.cloudfront.net
-0.0.0.0 d1r27qvpjiaqj3.cloudfront.net
-0.0.0.0 d1rgnfh960lz2b.cloudfront.net
-0.0.0.0 d1ros97qkrwjf5.cloudfront.net
-0.0.0.0 d1wscoizcbxzhp.cloudfront.net
-0.0.0.0 d1yu5hbtu8mng9.cloudfront.net
-0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
-0.0.0.0 d21o24qxwf7uku.cloudfront.net
-0.0.0.0 d23p9gffjvre9v.cloudfront.net
-0.0.0.0 d28g9g3vb08y70.cloudfront.net
-0.0.0.0 d2gfdmu30u15x7.cloudfront.net
-0.0.0.0 d2gfi8ctn6kki7.cloudfront.net
-0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
-0.0.0.0 d2nxi61n77zqpl.cloudfront.net
-0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
-0.0.0.0 d2pxb4n3f9klsc.cloudfront.net
-0.0.0.0 d2ry9vue95px0b.cloudfront.net
-0.0.0.0 d2so4705rl485y.cloudfront.net
-0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
-0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
-0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
-0.0.0.0 d3135glefggiep.cloudfront.net
-0.0.0.0 d33im0067v833a.cloudfront.net
-0.0.0.0 d34ko97cxuv4p7.cloudfront.net
-0.0.0.0 d36lvucg9kzous.cloudfront.net
-0.0.0.0 d36wtdrdo22bqa.cloudfront.net
-0.0.0.0 d396ihyrqc81w.cloudfront.net
-0.0.0.0 d3a2okcloueqyx.cloudfront.net
-0.0.0.0 d3avqv6zaxegeu.cloudfront.net
-0.0.0.0 d3cxv97fi8q177.cloudfront.net
-0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
-0.0.0.0 d3h1v5cflrhzi4.cloudfront.net
-0.0.0.0 d3hr5gm0wlxm5h.cloudfront.net
-0.0.0.0 d3l3lkinz3f56t.cloudfront.net
-0.0.0.0 d3ojzyhbolvoi5.cloudfront.net
-0.0.0.0 d3qxwzhswv93jk.cloudfront.net
-0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
-0.0.0.0 d4ax0r5detcsu.cloudfront.net
-0.0.0.0 d5i9o0tpq9sa1.cloudfront.net
-0.0.0.0 d6jkenny8w8yo.cloudfront.net
-0.0.0.0 d81mfvml8p5ml.cloudfront.net
-0.0.0.0 d9lq0o81skkdj.cloudfront.net
-0.0.0.0 daq0d0aotgq0f.cloudfront.net
-0.0.0.0 data.alexa.com
-0.0.0.0 data.circulate.com
-0.0.0.0 data.minute.ly
-0.0.0.0 dc8na2hxrj29i.cloudfront.net
-0.0.0.0 detect.ergebnis-dienst.de
-0.0.0.0 dfanalytics.dealerfire.com
-0.0.0.0 dfdbz2tdq3k01.cloudfront.net
-0.0.0.0 dirt.dennis.co.uk
-0.0.0.0 distillery.wistia.com
-0.0.0.0 djibeacon.djns.com
-0.0.0.0 dkj2m377b0yzw.cloudfront.net
-0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
-0.0.0.0 dnn506yrbagrg.cloudfront.net
-0.0.0.0 doug1izaerwt3.cloudfront.net
-0.0.0.0 ds-aksb-a.akamaihd.net
-0.0.0.0 dt.sellpoint.net
-0.0.0.0 dufue2m4sondk.cloudfront.net
-0.0.0.0 dw.cbsi.com
-0.0.0.0 dw.com.com
-0.0.0.0 dzxxxg6ij9u99.cloudfront.net
-0.0.0.0 ebay.northernhost.com
-0.0.0.0 edge.sqweb.com
-0.0.0.0 entry-stats.huffpost.com
-0.0.0.0 eservicesanalytics.com.au
-0.0.0.0 et.grabnetworks.com
-0.0.0.0 event.previewnetworks.com
-0.0.0.0 event.trove.com
-0.0.0.0 eventgateway.soundcloud.com
-0.0.0.0 eventlog.inspsearch.com
-0.0.0.0 eventlog.inspsearchapi.com
-0.0.0.0 events.jotform.com
-0.0.0.0 events.marquee-cdn.net
-0.0.0.0 events.realgravity.com
-0.0.0.0 fastcounter.bcentral.com
-0.0.0.0 fastcounter.onlinehoster.net
-0.0.0.0 filament-stats.herokuapp.com
-0.0.0.0 flashstats.libsyn.com
-0.0.0.0 fls-na.amazon.com
-0.0.0.0 friends.totallynsfw.com
-0.0.0.0 ga-beacon.appspot.com
-0.0.0.0 ga.webdigi.co.uk
-0.0.0.0 geo.ertya.com
-0.0.0.0 geo.gorillanation.com
-0.0.0.0 geo.kontagent.net
-0.0.0.0 geo.ltassrv.com
-0.0.0.0 geo.q5media.net
-0.0.0.0 geobar.ziffdavisinternational.com
-0.0.0.0 geoip.nekudo.com
-0.0.0.0 geoip.taskforce.is
-0.0.0.0 geolocation.performgroup.com
-0.0.0.0 geoservice.curse.com
-0.0.0.0 glbdns.microsoft.com
-0.0.0.0 go.optifuze.com
-0.0.0.0 harvester.ext.square-enix-europe.com
-0.0.0.0 hi.hellobar.com
-0.0.0.0 hits.dealer.com
-0.0.0.0 hits.informer.com
-0.0.0.0 hop.clickbank.net
-0.0.0.0 hpr.outbrain.com
-0.0.0.0 i-stats.ieurop.net
-0.0.0.0 imp.pix.com
-0.0.0.0 insights.gravity.com
-0.0.0.0 intelligence.dgmsearchlab.com
-0.0.0.0 itracking.fccinteractive.com
-0.0.0.0 javascriptcounter.appspot.com
-0.0.0.0 jobs.hrkspjbs.com
-0.0.0.0 kalstats.kaltura.com
-0.0.0.0 keyword.daumdn.com
-0.0.0.0 l.coincident.tv
-0.0.0.0 l.ooyala.com
-0.0.0.0 l.player.ooyala.com
-0.0.0.0 l.sharethis.com
-0.0.0.0 laurel.macrovision.com
-0.0.0.0 laurel.rovicorp.com
-0.0.0.0 leadtracking.plumvoice.com
-0.0.0.0 link.americastestkitchencorp.com
-0.0.0.0 link.informer.com
-0.0.0.0 livecounter.theyosh.nl
-0.0.0.0 livestats.kaltura.com
-0.0.0.0 log.ideamelt.com
-0.0.0.0 log.invodo.com
-0.0.0.0 log.kibboko.com
-0.0.0.0 log.liverail.com
-0.0.0.0 log.olark.com
-0.0.0.0 log.outbrain.com
-0.0.0.0 log.pinterest.com
-0.0.0.0 log.prezi.com
-0.0.0.0 log1.survey.io
-0.0.0.0 logger.logidea.info
-0.0.0.0 logger.sociablelabs.com
-0.0.0.0 logging.carambo.la
-0.0.0.0 loggingapi.spingo.com
-0.0.0.0 logs.spilgames.com
-0.0.0.0 logs.thebloggernetwork.com
-0.0.0.0 logs.vmixcore.com
-0.0.0.0 logssl.enquisite.com
-0.0.0.0 loxodo-analytics.ext.nile.works
-0.0.0.0 lp.vadio.com
-0.0.0.0 lt.tritondigital.com
-0.0.0.0 lunametrics.wpengine.netdna-cdn.com
-0.0.0.0 m.trb.com
-0.0.0.0 magnify360-cdn.s3.amazonaws.com
-0.0.0.0 marketinghub.hp.com
-0.0.0.0 mcs.delvenetworks.com
-0.0.0.0 mediametrics.mpsa.com
-0.0.0.0 metric.nwsource.com
-0.0.0.0 metrics-api.librato.com
-0.0.0.0 metrics.brightcove.com
-0.0.0.0 metrics.chmedia.com
-0.0.0.0 metrics.ctvdigital.net
-0.0.0.0 metrics.el-mundo.net
-0.0.0.0 metrics.feedroom.com
-0.0.0.0 metrics.loomia.com
-0.0.0.0 metrics.scribblelive.com
-0.0.0.0 metrics.seenon.com
-0.0.0.0 metrics.sonymusicd2c.com
-0.0.0.0 metrics.toptenreviews.com
-0.0.0.0 metrics.upcload.com
-0.0.0.0 metrics.wikinvest.com
-0.0.0.0 metrixlablw.customers.luna.net
-0.0.0.0 mint.good.is
-0.0.0.0 mitel.marketbright.com
-0.0.0.0 mlweb.dmlab.hu
-0.0.0.0 mmi.bemobile.ua
-0.0.0.0 mmpstats.mirror-image.com
-0.0.0.0 neocounter.neoworx-blog-tools.net
-0.0.0.0 ninja.onap.io
-0.0.0.0 nol.yahoo.com
-0.0.0.0 nova.dice.net
-0.0.0.0 ns.rvmkitt.com
-0.0.0.0 o.addthis.com
-0.0.0.0 observer.ip-label.net
-0.0.0.0 offermatica.intuit.com
-0.0.0.0 om.1and1.co.uk
-0.0.0.0 onespot-tracking.herokuapp.com
-0.0.0.0 open.delivery.net
-0.0.0.0 optimera.elasticbeanstalk.com
-0.0.0.0 p.dsero.net
-0.0.0.0 p.yotpo.com
-0.0.0.0 partner.cynapse.com
-0.0.0.0 partners.etoro.com
-0.0.0.0 partners.thefilter.com
-0.0.0.0 passport.pfn.bz
-0.0.0.0 pebed.dm.gg
-0.0.0.0 petitionermaster.appspot.com
-0.0.0.0 pg.buzzfeed.com
-0.0.0.0 phoenix.untd.com
-0.0.0.0 ping.aclst.com
-0.0.0.0 ping.dozuki.com
-0.0.0.0 ping.hellobar.com
-0.0.0.0 ping.rasset.ie
-0.0.0.0 ping.smyte.com
-0.0.0.0 pings.conviva.com
-0.0.0.0 pings.reembed.com
-0.0.0.0 pipedream.wistia.com
-0.0.0.0 pix.impdesk.com
-0.0.0.0 pixel.colorupmedia.com
-0.0.0.0 pixel.condenastdigital.com
-0.0.0.0 pixel.fanbridge.com
-0.0.0.0 pixel.glimr.io
-0.0.0.0 pixel.newscred.com
-0.0.0.0 pixel.newsdata.com.au
-0.0.0.0 pixel.solvemedia.com
-0.0.0.0 pixel.tree.com
-0.0.0.0 pixel.vmm-satellite2.com
-0.0.0.0 pixel.wp.com
-0.0.0.0 pixel.yabidos.com
-0.0.0.0 pixel.yola.com
-0.0.0.0 pmetrics.performancing.com
-0.0.0.0 pong.production.gannettdigital.com
-0.0.0.0 postpixel.vindicosuite.com
-0.0.0.0 powersearch.us.com
-0.0.0.0 pr.blogflux.com
-0.0.0.0 production-eqbc.lvp.llnw.net
-0.0.0.0 production-mcs.lvp.llnw.net
-0.0.0.0 production.mcs.delve.cust.lldns.net
-0.0.0.0 prstats.postrelease.com
-0.0.0.0 pt.crossmediaservices.com
-0.0.0.0 ptsc.shoplocal.com
-0.0.0.0 pub.sheknows.com
-0.0.0.0 px.excitedigitalmedia.com
-0.0.0.0 px.marchex.io
-0.0.0.0 px.owneriq.net
-0.0.0.0 px.topspin.net
-0.0.0.0 qos.video.yimg.com
-0.0.0.0 qubitanalytics.appspot.com
-0.0.0.0 r.mail.ru
-0.0.0.0 r.msn.com
-0.0.0.0 ra.ripple6.com
-0.0.0.0 ramp.purch.com
-0.0.0.0 referrer.disqus.com
-0.0.0.0 report.downloastar.com
-0.0.0.0 reporting.handll.net
-0.0.0.0 reporting.singlefeed.com
-0.0.0.0 reportinglogger.my.rightster.com
-0.0.0.0 reports.maxperview.com
-0.0.0.0 reports.pagesuite-professional.co.uk
-0.0.0.0 reports.tstlabs.co.uk
-0.0.0.0 rich-agent.s3.amazonaws.com
-0.0.0.0 roitrack.addlvr.com
-0.0.0.0 rs.sinajs.cn
-0.0.0.0 rtt.campanja.com
-0.0.0.0 rva.outbrain.com
-0.0.0.0 s.clickability.com
-0.0.0.0 s.sniphub.com
-0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
-0.0.0.0 sana.newsinc.com
-0.0.0.0 scripts.psyma.com
-0.0.0.0 searchstats.usa.gov
-0.0.0.0 seg.sharethis.com
-0.0.0.0 sftrack.searchforce.net
-0.0.0.0 sitereports.officelive.com
-0.0.0.0 spacedust.netmediaeurope.com
-0.0.0.0 speedtrap.shopdirect.com
-0.0.0.0 spoods.rce.veeseo.com
-0.0.0.0 stat.easydate.biz
-0.0.0.0 stat.ed.cupidplc.com
-0.0.0.0 stat.itp-nyc.com
-0.0.0.0 stat.php-d.com
-0.0.0.0 stat.pladform.ru
-0.0.0.0 stat.segitek.hu
-0.0.0.0 stat.web-regie.com
-0.0.0.0 statdb.pressflex.com
-0.0.0.0 statistics.infowap.info
-0.0.0.0 statistics.tattermedia.com
-0.0.0.0 statistics.wibiya.com
-0.0.0.0 statm.the-adult-company.com
-0.0.0.0 stats-newyork1.bloxcms.com
-0.0.0.0 stats.24.com
-0.0.0.0 stats.adm-vids.com
-0.0.0.0 stats.big-boards.com
-0.0.0.0 stats.bitgravity.com
-0.0.0.0 stats.bluebillywig.com
-0.0.0.0 stats.cdn.pfn.bz
-0.0.0.0 stats.cdn.playfair.co.za
-0.0.0.0 stats.clickability.com
-0.0.0.0 stats.cloudwp.io
-0.0.0.0 stats.cnevids.com
-0.0.0.0 stats.complex.com
-0.0.0.0 stats.datahjaelp.net
-0.0.0.0 stats.dice.com
-0.0.0.0 stats.directnic.com
-0.0.0.0 stats.edicy.com
-0.0.0.0 stats.free-rein.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 stats.geegain.com
-0.0.0.0 stats.highwire.com
-0.0.0.0 stats.indexstats.com
-0.0.0.0 stats.inergizedigitalmedia.com
-0.0.0.0 stats.itweb.co.za
-0.0.0.0 stats.kaltura.com
-0.0.0.0 stats.lightningcast.net
-0.0.0.0 stats.load.com
-0.0.0.0 stats.lotlinx.com
-0.0.0.0 stats.magnify.net
-0.0.0.0 stats.manticoretechnology.com
-0.0.0.0 stats.nebula.fi
-0.0.0.0 stats.netbopdev.co.uk
-0.0.0.0 stats.olark.com
-0.0.0.0 stats.ozwebsites.biz
-0.0.0.0 stats.polldaddy.com
-0.0.0.0 stats.qmerce.com
-0.0.0.0 stats.ref2000.com
-0.0.0.0 stats.sa-as.com
-0.0.0.0 stats.sawlive.tv
-0.0.0.0 stats.shopify.com
-0.0.0.0 stats.smartclip.net
-0.0.0.0 stats.snacktools.net
-0.0.0.0 stats.snappytv.com
-0.0.0.0 stats.staging.suite101.com
-0.0.0.0 stats.surfaid.ihost.com
-0.0.0.0 stats.svpply.com
-0.0.0.0 stats.topofblogs.com
-0.0.0.0 stats.twistage.com
-0.0.0.0 stats.viddler.com
-0.0.0.0 stats.vodpod.com
-0.0.0.0 stats.webs.com
-0.0.0.0 stats.wp.com
-0.0.0.0 stats.yourminis.com
-0.0.0.0 stats1.tune.pk
-0.0.0.0 stats2.lightningcast.net
-0.0.0.0 stats3.unrulymedia.com
-0.0.0.0 statsdev.treesd.com
-0.0.0.0 statsrv.451.com
-0.0.0.0 statt-collect.herokuapp.com
-0.0.0.0 su.addthis.com
-0.0.0.0 survey.interquest.com
-0.0.0.0 sync.adap.tv
-0.0.0.0 systemmonitoring.badgeville.com
-0.0.0.0 t-staging.powerreviews.com
-0.0.0.0 t.bimvid.com
-0.0.0.0 t.cfjump.com
-0.0.0.0 t.flux.com
-0.0.0.0 t.menepe.com
-0.0.0.0 t.pswec.com
-0.0.0.0 t.theoutplay.com
-0.0.0.0 t2.t2b.click
-0.0.0.0 tag-abe.cartrawler.com
-0.0.0.0 tag.email-attitude.com
-0.0.0.0 tag.myplay.com
-0.0.0.0 tag.sonymusic.com
-0.0.0.0 tags.master-perf-tools.com
-0.0.0.0 target.fark.com
-0.0.0.0 targeting.wpdigital.net
-0.0.0.0 tc.airfrance.com
-0.0.0.0 telemetry.reembed.com
-0.0.0.0 telemetry.soundcloud.com
-0.0.0.0 thetradedesk-tags.s3.amazonaws.com
-0.0.0.0 tl.tradetracker.net
-0.0.0.0 tm.tradetracker.net
-0.0.0.0 top-fwz1.mail.ru
-0.0.0.0 tr-metrics.loomia.com
-0.0.0.0 tr.advance.net
-0.0.0.0 tr.interlake.net
-0.0.0.0 tr.webantenna.info
-0.0.0.0 tr1.mailperformance.com
-0.0.0.0 track.99acres.com
-0.0.0.0 track.addevent.com
-0.0.0.0 track.bannedcelebs.com
-0.0.0.0 track.cafemomstatic.com
-0.0.0.0 track.captivate.ai
-0.0.0.0 track.did-it.com
-0.0.0.0 track.digitalriver.com
-0.0.0.0 track.g-bot.net
-0.0.0.0 track.gridlockparadise.com
-0.0.0.0 track.juno.com
-0.0.0.0 track.leadin.com
-0.0.0.0 track.mybloglog.com
-0.0.0.0 track.mycliplister.com
-0.0.0.0 track.omg2.com
-0.0.0.0 track.parse.ly
-0.0.0.0 track.propelplus.com
-0.0.0.0 track.qcri.org
-0.0.0.0 track.qoof.com
-0.0.0.0 track.ringcentral.com
-0.0.0.0 track.sauce.ly
-0.0.0.0 track.searchignite.com
-0.0.0.0 track.securedvisit.com
-0.0.0.0 track.shop2market.com
-0.0.0.0 track.sigfig.com
-0.0.0.0 track.sitetag.us
-0.0.0.0 track.social.com
-0.0.0.0 track.sprinklecontent.com
-0.0.0.0 track.strife.com
-0.0.0.0 track.td3x.com
-0.0.0.0 track.untd.com
-0.0.0.0 track.vscash.com
-0.0.0.0 track.written.com
-0.0.0.0 track.yieldsoftware.com
-0.0.0.0 tracker.beezup.com
-0.0.0.0 tracker.downdetector.com
-0.0.0.0 tracker.everestnutrition.com
-0.0.0.0 tracker.financialcontent.com
-0.0.0.0 tracker.icerocket.com
-0.0.0.0 tracker.iqnomy.com
-0.0.0.0 tracker.issuu.com
-0.0.0.0 tracker.keywordintent.com
-0.0.0.0 tracker.marinsoftware.com
-0.0.0.0 tracker.mgnetwork.com
-0.0.0.0 tracker.mtrax.net
-0.0.0.0 tracker.neon-images.com
-0.0.0.0 tracker.roitesting.com
-0.0.0.0 tracker.timesgroup.com
-0.0.0.0 tracker.vreveal.com
-0.0.0.0 tracker2.apollo-mail.net
-0.0.0.0 tracking.adalyser.com
-0.0.0.0 tracking.allposters.com
-0.0.0.0 tracking.cmcigroup.com
-0.0.0.0 tracking.cmjump.com.au
-0.0.0.0 tracking.dealerwebwatcher.com
-0.0.0.0 tracking.dsmmadvantage.com
-0.0.0.0 tracking.ehavior.net
-0.0.0.0 tracking.fanbridge.com
-0.0.0.0 tracking.feedperfect.com
-0.0.0.0 tracking.godatafeed.com
-0.0.0.0 tracking.i-click.com.hk
-0.0.0.0 tracking.jotform.com
-0.0.0.0 tracking.keywee.co
-0.0.0.0 tracking.lengow.com
-0.0.0.0 tracking.listhub.net
-0.0.0.0 tracking.livingsocial.com
-0.0.0.0 tracking.musixmatch.com
-0.0.0.0 tracking.performgroup.com
-0.0.0.0 tracking.quillion.com
-0.0.0.0 tracking.quisma.com
-0.0.0.0 tracking.rapidape.com
-0.0.0.0 tracking.searchmarketing.com
-0.0.0.0 tracking.sokrati.com
-0.0.0.0 tracking.synthasite.net
-0.0.0.0 tracking.theeword.co.uk
-0.0.0.0 tracking.thehut.net
-0.0.0.0 tracking.tradeking.com
-0.0.0.0 tracking.waterfrontmedia.com
-0.0.0.0 tracking2.channeladvisor.com
-0.0.0.0 trackingdev.nixxie.com
-0.0.0.0 tracksys.developlabs.net
-0.0.0.0 traffic.acwebconnecting.com
-0.0.0.0 traffic.prod.cobaltgroup.com
-0.0.0.0 traffic.pubexchange.com
-0.0.0.0 traffic.shareaholic.com
-0.0.0.0 trax.dirxion.com
-0.0.0.0 tree-pixel-log.s3.amazonaws.com
-0.0.0.0 trf.intuitwebsites.com
-0.0.0.0 triad.technorati.com
-0.0.0.0 trk.bhs4.com
-0.0.0.0 trk.email.dynect.net
-0.0.0.0 trk.sele.co
-0.0.0.0 trk.vidible.tv
-0.0.0.0 trk.vindicosuite.com
-0.0.0.0 ts.tradetracker.net
-0.0.0.0 txn.grabnetworks.com
-0.0.0.0 ucounter.ucoz.net
-0.0.0.0 uim.tifbs.net
-0.0.0.0 upt.graphiq.com
-0.0.0.0 urc.taboolasyndication.com
-0.0.0.0 userlog.synapseip.tv
-0.0.0.0 vertical-stats.huffpost.com
-0.0.0.0 video-ad-stats.googlesyndication.com
-0.0.0.0 visit.geocities.com
-0.0.0.0 visit.webhosting.yahoo.com
-0.0.0.0 voss.collegehumor.com
-0.0.0.0 vra.outbrain.com
-0.0.0.0 vrt.outbrain.com
-0.0.0.0 vtracking.in.com
-0.0.0.0 w88.m.espn.go.com
-0.0.0.0 web1.51.la
-0.0.0.0 webeffective.keynote.com
-0.0.0.0 weblog.livesport.eu
-0.0.0.0 weblogger-dynamic-lb.playdom.com
-0.0.0.0 webservices.websitepros.com
-0.0.0.0 webstats.seoinc.com
-0.0.0.0 webstats.thaindian.com
-0.0.0.0 webtracker.apicasystem.com
-0.0.0.0 webtracker.educationconnection.com
-0.0.0.0 whatismyip.akamai.com
-0.0.0.0 wibiya-actions.conduit-data.com
-0.0.0.0 wibiya-june-new-log.conduit-data.com
-0.0.0.0 widget.perfectmarket.com
-0.0.0.0 widget.quantcast.com
-0.0.0.0 win.staticstuff.net
-0.0.0.0 wp-stat.s3.amazonaws.com
-0.0.0.0 wsb.aracert.com
-0.0.0.0 wstat.wibiya.com
-0.0.0.0 wunderloop.aol.co.uk
-0.0.0.0 x.weather.com
-0.0.0.0 analytics-static.unister-gmbh.de
-0.0.0.0 analytics.gameforge.de
-0.0.0.0 analytics.unister-gmbh.de
-0.0.0.0 asci.freenet.de
-0.0.0.0 bt.ilsemedia.nl
-0.0.0.0 cgicounter.onlinehome.de
-0.0.0.0 collect.finanzen.net
-0.0.0.0 com.econa.com
-0.0.0.0 count.snacktv.de
-0.0.0.0 counter.1i.kz
-0.0.0.0 counter.blogoscoop.net
-0.0.0.0 counter.webmart.de
-0.0.0.0 ctr-iwb.nmg.de
-0.0.0.0 ctr-opc.nmg.de
-0.0.0.0 data.econa.com
-0.0.0.0 events.snacktv.de
-0.0.0.0 export.newscube.de
-0.0.0.0 geo.mtvnn.com
-0.0.0.0 im.aol.de
-0.0.0.0 ivw.discover-outdoor.de
-0.0.0.0 ivw.dumontreise.de
-0.0.0.0 ivw.fem.com
-0.0.0.0 live.ec2.cxo.name
-0.0.0.0 liveviewer.ez.no
-0.0.0.0 log.worldsoft-cms.info
-0.0.0.0 mastertag.kpcustomer.de
-0.0.0.0 met.vgwort.de
-0.0.0.0 mqs.ioam.de
-0.0.0.0 omniture.eaeurope.eu
-0.0.0.0 pix.news.at
-0.0.0.0 pixel.holtzbrinckdigital.info
-0.0.0.0 pixel.nbsp.de
-0.0.0.0 sett.i12.de
-0.0.0.0 stat.clichehosting.de
-0.0.0.0 stat4.edev.at
-0.0.0.0 statistics.klicktel.de
-0.0.0.0 statistik.simaja.de
-0.0.0.0 stats.av.de
-0.0.0.0 stats.blogoscoop.net
-0.0.0.0 stats.clickforknowledge.com
-0.0.0.0 stats.digital-natives.de
-0.0.0.0 stats.fittkaumaass.de
-0.0.0.0 stats.frankfurterneuepresse.de
-0.0.0.0 stats.ilsemedia.nl
-0.0.0.0 stats.united-domains.de
-0.0.0.0 stats.urban-media.com
-0.0.0.0 track2.dulingo.com
-0.0.0.0 track2.mycliplister.com
-0.0.0.0 tracker.euroweb.net
-0.0.0.0 tracker.netdisk.de
-0.0.0.0 tracker.winload.de
-0.0.0.0 tracking-rce.veeseo.com
-0.0.0.0 tracking.base.de
-0.0.0.0 tracking.ddd.de
-0.0.0.0 tracking.gameforge.de
-0.0.0.0 tracking.hannoversche.de
-0.0.0.0 tracking.hi-pi.com
-0.0.0.0 tracking.ladies.de
-0.0.0.0 tracking.mindshare.de
-0.0.0.0 tracking.mvsuite.de
-0.0.0.0 tracking.netzathleten-media.de
-0.0.0.0 tracking.promiflash.de
-0.0.0.0 tracking.rce.veeseo.com
-0.0.0.0 tracking.rtl.de
-0.0.0.0 tracking.s24.com
-0.0.0.0 tracking.sim-technik.de
-0.0.0.0 tracking.srv2.de
-0.0.0.0 traffic.brand-wall.net
-0.0.0.0 trck.spoteffects.net
-0.0.0.0 vtrtl.de
-0.0.0.0 webcounter.goweb.de
-0.0.0.0 wrmwb.7val.com
-0.0.0.0 x.bloggurat.net
-0.0.0.0 zs.dhl.de
-0.0.0.0 analytics.traidnt.net
-0.0.0.0 abs.proxistore.com
-0.0.0.0 analytics.freespee.com
-0.0.0.0 analytics.ladmedia.fr
-0.0.0.0 btstats.devtribu.fr
-0.0.0.0 cdn-analytics.ladmedia.fr
-0.0.0.0 compteur.websiteout.net
-0.0.0.0 nvc.n1bus-exp.com
-0.0.0.0 nws.naltis.com
-0.0.0.0 stat.prsmedia.fr
-0.0.0.0 stats-dc1.frz.io
-0.0.0.0 stats.buzzea.com
-0.0.0.0 stats.ipmgroup.be
-0.0.0.0 tr.cloud-media.fr
-0.0.0.0 tra.pmdstatic.net
-0.0.0.0 tracking.ecookie.fr
-0.0.0.0 tracking.netvigie.com
-0.0.0.0 tracking.veille-referencement.com
-0.0.0.0 trk.adbutter.net
-0.0.0.0 visitping.rossel.be
-0.0.0.0 analytics.21cn.com
-0.0.0.0 beacon.sina.com.cn
-0.0.0.0 bzclk.baidu.com
-0.0.0.0 click.bokecc.com
-0.0.0.0 haostat.qihoo.com
-0.0.0.0 log.hiiir.com
-0.0.0.0 log.v.iask.com
-0.0.0.0 n.yunshipei.com
-0.0.0.0 pos.baidu.com
-0.0.0.0 r.sax.sina.com.cn
-0.0.0.0 stat.ws.126.net
-0.0.0.0 stat.youku.com
-0.0.0.0 t.hypers.com.cn
-0.0.0.0 tns.simba.taobao.com
-0.0.0.0 toruk.tanx.com
-0.0.0.0 track.ra.icast.cn
-0.0.0.0 tracking.cat898.com
-0.0.0.0 traffic.bokecc.com
-0.0.0.0 v.emedia.cn
-0.0.0.0 tracking.vid4u.org
-0.0.0.0 counter.cnw.cz
-0.0.0.0 h.imedia.cz
-0.0.0.0 log.idnes.cz
-0.0.0.0 stats.mf.cz
-0.0.0.0 t.leady.cz
-0.0.0.0 ubt.berlingskemedia.net
-0.0.0.0 analytics.belgacom.be
-0.0.0.0 cookies.reedbusiness.nl
-0.0.0.0 statistics.rbi-nl.com
-0.0.0.0 links.boom.ge
-0.0.0.0 analytics.dol.gr
-0.0.0.0 analyticsv2.dol.gr
-0.0.0.0 stats.e-go.gr
-0.0.0.0 pagerank.g-easy.hu
-0.0.0.0 videostat-new.index.hu
-0.0.0.0 videostat.index.hu
-0.0.0.0 91.196.216.64
-0.0.0.0 analytics.digitouch.it
-0.0.0.0 analytics.linkwelove.com
-0.0.0.0 audienceserver.aws.forebase.com
-0.0.0.0 bstracker.blogspirit.net
-0.0.0.0 click.kataweb.it
-0.0.0.0 contatore-di-visite.campusanuncios.com
-0.0.0.0 counter.ksm.it
-0.0.0.0 evnt.iol.it
-0.0.0.0 livestats.matrix.it
-0.0.0.0 log.superweb.ws
-0.0.0.0 nanostats.nanopress.it
-0.0.0.0 rcsmetrics.it
-0.0.0.0 rd.alice.it
-0.0.0.0 shinystat.lvlar.com
-0.0.0.0 stat.acca.it
-0.0.0.0 stat.freetool.it
-0.0.0.0 stat.webtool.it
-0.0.0.0 stats.itsol.it
-0.0.0.0 stats.rcsobjects.it
-0.0.0.0 stats.technopia.it
-0.0.0.0 top100.mrwebmaster.it
-0.0.0.0 top100.tuttoperinternet.it
-0.0.0.0 tr.bt.matrixspa.it
-0.0.0.0 track.adintend.com
-0.0.0.0 track.cedsdigital.it
-0.0.0.0 track.youniversalmedia.com
-0.0.0.0 tracker.bestshopping.com
-0.0.0.0 tracking.conversion-lab.it
-0.0.0.0 tracking.conversionlab.it
-0.0.0.0 tracks.arubamediamarketing.it
-0.0.0.0 tracy.sadv.dadapro.com
-0.0.0.0 ts.blogo.it
-0.0.0.0 analysis.shinobi.jp
-0.0.0.0 analyzer51.fc2.com
-0.0.0.0 counter2.blog.livedoor.com
-0.0.0.0 l.popin.cc
-0.0.0.0 lcs.livedoor.net
-0.0.0.0 rd.rakuten.co.jp
-0.0.0.0 trck.dlpo.jp
-0.0.0.0 counter.hackers.lv
-0.0.0.0 hits.sys.lv
-0.0.0.0 engage-cdn.schibsted.media
-0.0.0.0 webhit.snd.no
-0.0.0.0 fab.interia.pl
-0.0.0.0 stats.asp24.pl
-0.0.0.0 stats.media.onet.pl
-0.0.0.0 statystyki.panelek.com
-0.0.0.0 tracking.novem.pl
-0.0.0.0 contadorgratis.web-kit.org
-0.0.0.0 hitserver.ibope.com.br
-0.0.0.0 track.e7r.com.br
-0.0.0.0 webstats.sapo.pt
-0.0.0.0 top.skyzone.ro
-0.0.0.0 awaps.yandex.ru
-0.0.0.0 c.bigmir.net
-0.0.0.0 cnstats.cdev.eu
-0.0.0.0 cnt.logoslovo.ru
-0.0.0.0 cnt.nov.ru
-0.0.0.0 cnt.rambler.ru
-0.0.0.0 cnt.rate.ru
-0.0.0.0 count.yandeg.ru
-0.0.0.0 counter.amik.ru
-0.0.0.0 counter.megaindex.ru
-0.0.0.0 counter.nn.ru
-0.0.0.0 counter.photopulse.ru
-0.0.0.0 counter.pr-cy.ru
-0.0.0.0 counter.rian.ru
-0.0.0.0 counter.tovarro.com
-0.0.0.0 counter.wapstart.ru
-0.0.0.0 montblanc.rambler.ru
-0.0.0.0 rbc.magna.ru
-0.0.0.0 s.agava.ru
-0.0.0.0 scnt.rambler.ru
-0.0.0.0 scounter.rambler.ru
-0.0.0.0 service-stat.tbn.ru
-0.0.0.0 stat-22.medialand.ru
-0.0.0.0 stat-counter.tass-online.ru
-0.0.0.0 stat.radar.imgsmail.ru
-0.0.0.0 stat.rum.cdnvideo.ru
-0.0.0.0 stat.tvigle.ru
-0.0.0.0 stats.internet-yadro.com
-0.0.0.0 t.pusk.ru
-0.0.0.0 target.smi2.net
-0.0.0.0 tbe.tom.ru
-0.0.0.0 top.bur-bur.ru
-0.0.0.0 top.elec.ru
-0.0.0.0 top.sec.uz
-0.0.0.0 track.revolvermarketing.ru
-0.0.0.0 track.rtb-media.ru
-0.0.0.0 upstats.yadro.ru
-0.0.0.0 viewstat.promoblocks.ru
-0.0.0.0 clk.onet.pl
-0.0.0.0 csr.onet.pl
-0.0.0.0 events.ocdn.eu
-0.0.0.0 stat.ringier.sk
-0.0.0.0 analitica.webrpp.com
-0.0.0.0 contadores.miarroba.com
-0.0.0.0 contadores.miarroba.es
-0.0.0.0 hits.eluniversal.com.mx
-0.0.0.0 maik.ff-bt.net
-0.0.0.0 reachandrich.antevenio.com
-0.0.0.0 stats.lnol.com.ar
-0.0.0.0 stats.miarroba.info
-0.0.0.0 track.bluecompany.cl
-0.0.0.0 tracker.lgcontent.cl
-0.0.0.0 cis.schibsted.com
-0.0.0.0 collector.schibsted.io
-0.0.0.0 counter.mtgnewmedia.se
-0.0.0.0 stats.dominoplaza.com
-0.0.0.0 counter.opinion.com.ua
-0.0.0.0 analytics.mecloud.vn
-0.0.0.0 a.jango.com
-0.0.0.0 acookie.alibaba.com
-0.0.0.0 activity.frequency.com
-0.0.0.0 activity.homescape.com
-0.0.0.0 adguru.guruji.com
-0.0.0.0 adv.drtuber.com
-0.0.0.0 advancedtracker.appspot.com
-0.0.0.0 adwiretracker.fwix.com
-0.0.0.0 affiliate.mercola.com
-0.0.0.0 affiliate.productreview.com.au
-0.0.0.0 affiliate.resellerclub.com
-0.0.0.0 affiliates.genealogybank.com
-0.0.0.0 affiliates.londonmarketing.com
-0.0.0.0 affiliates.mozy.com
-0.0.0.0 affiliates.myfax.com
-0.0.0.0 affiliates.treasureisland.com
-0.0.0.0 amp.virginmedia.com
-0.0.0.0 analysis.focalprice.com
-0.0.0.0 analytic.imlive.com
-0.0.0.0 analytics.adfreetime.com
-0.0.0.0 analytics.archive.org
-0.0.0.0 analytics.bloomberg.com
-0.0.0.0 analytics.femalefirst.co.uk
-0.0.0.0 analytics.go.com
-0.0.0.0 analytics.gorillanation.com
-0.0.0.0 analytics.ifood.tv
-0.0.0.0 analytics.mindjolt.com
-0.0.0.0 analytics.msnbc.msn.com
-0.0.0.0 analytics.newsinc.com
-0.0.0.0 analytics.posttv.com
-0.0.0.0 analytics.services.distractify.com
-0.0.0.0 analytics.teespring.com
-0.0.0.0 analytics.thenest.com
-0.0.0.0 analytics.twitter.com
-0.0.0.0 analytics.upworthy.com
-0.0.0.0 analytics.us.archive.org
-0.0.0.0 analytics.volvocars.com
-0.0.0.0 analytics.wetpaint.me
-0.0.0.0 analytics.whatculture.com
-0.0.0.0 analytics.yahoo.com
-0.0.0.0 analyze.yahooapis.com
-0.0.0.0 analyzer52.fc2.com
-0.0.0.0 assets.olark.com
-0.0.0.0 atax.gamermetrics.com
-0.0.0.0 atax.gamespy.com
-0.0.0.0 atax.gamestats.com
-0.0.0.0 atax.ign.com
-0.0.0.0 atax.teamxbox.com
-0.0.0.0 athena.mysmartprice.info
-0.0.0.0 atlas.astrology.com
-0.0.0.0 atrack.allposters.com
-0.0.0.0 atrack.art.com
-0.0.0.0 atracktive.collegehumor.com
-0.0.0.0 audit.macworld.co.uk
-0.0.0.0 audit.pcadvisor.co.uk
-0.0.0.0 b.huffingtonpost.com
-0.0.0.0 b.imwx.com
-0.0.0.0 b.myspace.com
-0.0.0.0 bat.adforum.com
-0.0.0.0 bats.video.yahoo.com
-0.0.0.0 bc.yahoo.com
-0.0.0.0 bcm.itv.com
-0.0.0.0 beacon-1.newrelic.com
-0.0.0.0 beacon.ehow.com
-0.0.0.0 beacon.examiner.com
-0.0.0.0 beacon.indieclicktv.com
-0.0.0.0 beacon.lycos.com
-0.0.0.0 beacon.nuskin.com
-0.0.0.0 beacon.search.yahoo.com
-0.0.0.0 beacon.walmart.com
-0.0.0.0 beacon.www.theguardian.com
-0.0.0.0 beacons.helium.com
-0.0.0.0 beap-bc.yahoo.com
-0.0.0.0 bench.uc.cn
-0.0.0.0 bi.medscape.com
-0.0.0.0 bit.ehow.com
-0.0.0.0 c.microsoft.com
-0.0.0.0 c.newsinc.com
-0.0.0.0 c.x.oanda.com
-0.0.0.0 cbs.wondershare.com
-0.0.0.0 cd.musicmass.com
-0.0.0.0 cdnstats.tube8.com
-0.0.0.0 chkpt.zdnet.com
-0.0.0.0 chunk.bustle.com
-0.0.0.0 cl.expedia.com
-0.0.0.0 clc.stackoverflow.com
-0.0.0.0 clck.yandex.com
-0.0.0.0 click.aliexpress.com
-0.0.0.0 click.engage.xbox.com
-0.0.0.0 click.mmosite.com
-0.0.0.0 click2.cafepress.com
-0.0.0.0 clicks.hurriyet.com.tr
-0.0.0.0 clicks.traffictrader.net
-0.0.0.0 clk.about.com
-0.0.0.0 clkstat.china.cn
-0.0.0.0 clog.go.com
-0.0.0.0 cls.ichotelsgroup.com
-0.0.0.0 clvk.viki.io
-0.0.0.0 cmstrendslog.indiatimes.com
-0.0.0.0 cmstrendslog.timesnow.tv
-0.0.0.0 cnt.nicemix.com
-0.0.0.0 cnt.nuvid.com
-0.0.0.0 cnt.vivatube.com
-0.0.0.0 collect.sas.com
-0.0.0.0 collect2.sas.com
-0.0.0.0 collection.theaa.com
-0.0.0.0 collector-cdn.github.com
-0.0.0.0 collector.githubapp.com
-0.0.0.0 collector.ksax.com
-0.0.0.0 collector.kstptv5.com
-0.0.0.0 collector.shopstream.co
-0.0.0.0 collector.statowl.com
-0.0.0.0 collector.tescocompare.com
-0.0.0.0 collector.trendmd.com
-0.0.0.0 comms-web-tracking.uswitchinternal.com
-0.0.0.0 confirm-referer.glrsales.com
-0.0.0.0 coolertracks.emailroi.com
-0.0.0.0 count.livetv.ru
-0.0.0.0 count.livetv.sx
-0.0.0.0 count.prx.org
-0.0.0.0 count.rin.ru
-0.0.0.0 counter.entertainmentwise.com
-0.0.0.0 counter.promodeejay.net
-0.0.0.0 counter.sina.com.cn
-0.0.0.0 counter.theconversation.edu.au
-0.0.0.0 counter.zerohedge.com
-0.0.0.0 ct.buzzfeed.com
-0.0.0.0 da.virginmedia.com
-0.0.0.0 data.ryanair.com
-0.0.0.0 data.younow.com
-0.0.0.0 datacollector.coin.scribol.com
-0.0.0.0 dcs.mattel.com
-0.0.0.0 dcs.maxthon.com
-0.0.0.0 diag.doba.com
-0.0.0.0 diet.rodale.com
-0.0.0.0 dmeserv.newsinc.com
-0.0.0.0 dmtracking2.alibaba.com
-0.0.0.0 dw.cnet.com
-0.0.0.0 ec2-prod-tracker.babelgum.com
-0.0.0.0 edw.edmunds.com
-0.0.0.0 emarketing.rmauctions.com
-0.0.0.0 enlightenment.secureshoppingbasket.com
-0.0.0.0 entry-stats.huffingtonpost.com
-0.0.0.0 es.puritan.com
-0.0.0.0 et.nytimes.com
-0.0.0.0 etui.fs.ml.com
-0.0.0.0 eventlogger.soundcloud.com
-0.0.0.0 events.redditmedia.com
-0.0.0.0 eventtracker.elitedaily.com
-0.0.0.0 evisit.exeter.ac.uk
-0.0.0.0 expbl2ro.xbox.com
-0.0.0.0 expdb2.msn.com
-0.0.0.0 f.staticlp.com
-0.0.0.0 fast.forbes.com
-0.0.0.0 felitb.rightinthebox.com
-0.0.0.0 fls-eu.amazon.co.uk
-0.0.0.0 fls-na.amazon.ca
-0.0.0.0 fresh.techdirt.com
-0.0.0.0 frog.wix.com
-0.0.0.0 g.msn.com
-0.0.0.0 g.techweekeurope.co.uk
-0.0.0.0 ga.canoe.ca
-0.0.0.0 gekko.spiceworks.com
-0.0.0.0 geo.hltv.org
-0.0.0.0 geo.homepage-web.com
-0.0.0.0 geo.metronews.ca
-0.0.0.0 geo.mozilla.org
-0.0.0.0 geo.perezhilton.com
-0.0.0.0 geo.play.it
-0.0.0.0 geo.theawesomer.com
-0.0.0.0 geo.yahoo.com
-0.0.0.0 geobeacon.ign.com
-0.0.0.0 geoip-lookup.vice.com
-0.0.0.0 geoip.al.com
-0.0.0.0 geoip.boredpanda.com
-0.0.0.0 geoip.cleveland.com
-0.0.0.0 geoip.gulflive.com
-0.0.0.0 geoip.inquirer.net
-0.0.0.0 geoip.lehighvalleylive.com
-0.0.0.0 geoip.masslive.com
-0.0.0.0 geoip.mlive.com
-0.0.0.0 geoip.nj.com
-0.0.0.0 geoip.nola.com
-0.0.0.0 geoip.oregonlive.com
-0.0.0.0 geoip.pennlive.com
-0.0.0.0 geoip.silive.com
-0.0.0.0 geoip.syracuse.com
-0.0.0.0 geoip.viamichelin.com
-0.0.0.0 geoiplookup.wikimedia.org
-0.0.0.0 glean.pop6.com
-0.0.0.0 gmonitor.aliimg.com
-0.0.0.0 h.cliphunter.com
-0.0.0.0 harvester.eu.square-enix.com
-0.0.0.0 harvester.hbpl.co.uk
-0.0.0.0 hitcount.heraldm.com
-0.0.0.0 ibeat.indiatimes.com
-0.0.0.0 ibs.indiatimes.com
-0.0.0.0 id.allegisgroup.com
-0.0.0.0 id.localsearch.ch
-0.0.0.0 iedc.fitbit.com
-0.0.0.0 imgtrack.domainmarket.com
-0.0.0.0 immassets.s3.amazonaws.com
-0.0.0.0 imonitor.dhgate.com
-0.0.0.0 imx.comedycentral.com
-0.0.0.0 influxer.onion.com
-0.0.0.0 ingest.onion.com
-0.0.0.0 inquiries.redhat.com
-0.0.0.0 intelli.ageuk.org.uk
-0.0.0.0 intent.cbsi.com
-0.0.0.0 ip.breitbart.com
-0.0.0.0 jack.allday.com
-0.0.0.0 kinesisproxy.hearstlabs.com
-0.0.0.0 l.5min.com
-0.0.0.0 lh.secure.yahoo.com
-0.0.0.0 lilb2.shutterstock.com
-0.0.0.0 linkpuls.idg.no
-0.0.0.0 live-audience.dailymotion.com
-0.0.0.0 live.philips.com
-0.0.0.0 log.data.disney.com
-0.0.0.0 log.deutschegrammophon.com
-0.0.0.0 log.go.com
-0.0.0.0 log.newsvine.com
-0.0.0.0 log.optimizely.com
-0.0.0.0 log.vdn.apps.cntv.cn
-0.0.0.0 log.wat.tv
-0.0.0.0 log1.24liveplus.com
-0.0.0.0 logdev.openload.co
-0.0.0.0 logger.dailymotion.com
-0.0.0.0 logging.goodgamestudios.com
-0.0.0.0 loggingservices.tribune.com
-0.0.0.0 loggly.cheatsheet.com
-0.0.0.0 loglady.publicbroadcasting.net
-0.0.0.0 logs.dashlane.com
-0.0.0.0 lsam.research.microsoft.com
-0.0.0.0 lslmetrics.djlmgdigital.com
-0.0.0.0 marketing.kalahari.net
-0.0.0.0 marketing.nodesource.com
-0.0.0.0 meter-svc.nytimes.com
-0.0.0.0 metric.gstatic.com
-0.0.0.0 metric.inetcore.com
-0.0.0.0 metrics.apartments.com
-0.0.0.0 metrics.aws.sitepoint.com
-0.0.0.0 metrics.cbn.com
-0.0.0.0 metrics.cnn.com
-0.0.0.0 metrics.dailymotion.com
-0.0.0.0 metrics.ee.co.uk
-0.0.0.0 metrics.extremetech.com
-0.0.0.0 metrics.tbliab.net
-0.0.0.0 metrics.ted.com
-0.0.0.0 metrics.washingtonpost.com
-0.0.0.0 mint.boingboing.net
-0.0.0.0 mp.twitch.tv
-0.0.0.0 mtoza.vzaar.com
-0.0.0.0 navlog.channel4.com
-0.0.0.0 nb.myspace.com
-0.0.0.0 ned.itv.com
-0.0.0.0 nm.newegg.com
-0.0.0.0 nmtracking.netflix.com
-0.0.0.0 oimg.m.cnbc.com
-0.0.0.0 oimg.mobile.cnbc.com
-0.0.0.0 om.cbsi.com
-0.0.0.0 omniture.stuff.co.nz
-0.0.0.0 omniture.theglobeandmail.com
-0.0.0.0 open.mkt1397.com
-0.0.0.0 ophan.guardian.co.uk
-0.0.0.0 optimize-stats.voxmedia.com
-0.0.0.0 origin-tracking.trulia.com
-0.0.0.0 origin.chron.com
-0.0.0.0 partners.badongo.com
-0.0.0.0 partners.mysavings.com
-0.0.0.0 pclick.europe.yahoo.com
-0.0.0.0 pclick.internal.yahoo.com
-0.0.0.0 pclick.yahoo.com
-0.0.0.0 performances.bestofmedia.com
-0.0.0.0 pi.feedsportal.com
-0.0.0.0 ping.buto.tv
-0.0.0.0 pings.blip.tv
-0.0.0.0 pipeline.realtime.active.com
-0.0.0.0 pix.eads.com
-0.0.0.0 pix.gfycat.com
-0.0.0.0 pixel.buzzfeed.com
-0.0.0.0 pixel.digitalspy.co.uk
-0.0.0.0 pixel.facebook.com
-0.0.0.0 pixel.honestjohn.co.uk
-0.0.0.0 pixel.klout.com
-0.0.0.0 pixel.newsdiscover.com.au
-0.0.0.0 pixel.pcworld.com
-0.0.0.0 pixel.propublica.org
-0.0.0.0 pixel.reddit.com
-0.0.0.0 pixel.redditmedia.com
-0.0.0.0 pixel.staging.tree.com
-0.0.0.0 pixels.livingsocial.com
-0.0.0.0 pixiedust.buzzfeed.com
-0.0.0.0 pound.buzzfeed.com
-0.0.0.0 pp-serve.newsinc.com
-0.0.0.0 presentationtracking.netflix.com
-0.0.0.0 proac.nationwide.com
-0.0.0.0 proxypage.msn.com
-0.0.0.0 pulse-analytics-beacon.reutersmedia.net
-0.0.0.0 pvstat.china.cn
-0.0.0.0 r.bbci.co.uk
-0.0.0.0 rainbow-uk.mythings.com
-0.0.0.0 rat.rakuten.co.jp
-0.0.0.0 rd.meebo.com
-0.0.0.0 reco.hardsextube.com
-0.0.0.0 recommendation.24.com
-0.0.0.0 redeye.williamhill.com
-0.0.0.0 rel.msn.com
-0.0.0.0 report.shell.com
-0.0.0.0 reporting.flymonarch.com
-0.0.0.0 reporting.onthebeach.co.uk
-0.0.0.0 reporting.theonion.com
-0.0.0.0 reporting.wilkinsonplus.com
-0.0.0.0 request.issuu.com
-0.0.0.0 revsci.tvguide.com
-0.0.0.0 rok.com.com
-0.0.0.0 roll.bankofamerica.com
-0.0.0.0 rs.mail.ru
-0.0.0.0 rt.prnewswire.com
-0.0.0.0 rt.rakuten.co.jp
-0.0.0.0 rta.dailymail.co.uk
-0.0.0.0 s.infogr.am
-0.0.0.0 s.youtube.com
-0.0.0.0 s2.youtube.com
-0.0.0.0 sa.bbc.co.uk
-0.0.0.0 sa.bbc.com
-0.0.0.0 sa.squareup.com
-0.0.0.0 sana.newsinc.com.s3.amazonaws.com
-0.0.0.0 sayac.hurriyettv.com
-0.0.0.0 sb.vevo.com
-0.0.0.0 scout.lexisnexis.com
-0.0.0.0 scout.rollcall.com
-0.0.0.0 scribe.twitter.com
-0.0.0.0 sense.dailymotion.com
-0.0.0.0 servedby.o2.co.uk
-0.0.0.0 servicetick.com
-0.0.0.0 session-tracker.badcreditloans.com
-0.0.0.0 sidebar.issuu.com
-0.0.0.0 sitelife.ehow.com
-0.0.0.0 sixpack.udimg.com
-0.0.0.0 smetrics.delta.com
-0.0.0.0 snippets.mozilla.com
-0.0.0.0 snowplow-collector.sugarops.com
-0.0.0.0 somniture.theglobeandmail.com
-0.0.0.0 sp.udimg.com
-0.0.0.0 spade.twitch.tv
-0.0.0.0 spanids.dictionary.com
-0.0.0.0 spanids.reference.com
-0.0.0.0 spanids.thesaurus.com
-0.0.0.0 spotlight.accuweather.com
-0.0.0.0 srt.pch.com
-0.0.0.0 ssl-stats.wordpress.com
-0.0.0.0 stat.alibaba.com
-0.0.0.0 stat.dealtime.com
-0.0.0.0 stat.ruvr.ru
-0.0.0.0 stat.torrentbar.com
-0.0.0.0 statistics.crowdynews.com
-0.0.0.0 stats.aplus.com
-0.0.0.0 stats.articlesbase.com
-0.0.0.0 stats.avg.com
-0.0.0.0 stats.bbc.co.uk
-0.0.0.0 stats.behance.net
-0.0.0.0 stats.binki.es
-0.0.0.0 stats.blogg.se
-0.0.0.0 stats.break.com
-0.0.0.0 stats.cardschat.com
-0.0.0.0 stats.christianpost.com
-0.0.0.0 stats.clear-media.com
-0.0.0.0 stats.ebay.com
-0.0.0.0 stats.europe.newsweek.com
-0.0.0.0 stats.eyeviewdigital.com
-0.0.0.0 stats.farfetch.com
-0.0.0.0 stats.firedrive.com
-0.0.0.0 stats.harpercollins.com
-0.0.0.0 stats.ibtimes.co.in
-0.0.0.0 stats.macmillanusa.com
-0.0.0.0 stats.mehrnews.com
-0.0.0.0 stats.nymag.com
-0.0.0.0 stats.pandora.com
-0.0.0.0 stats.paste2.org
-0.0.0.0 stats.paypal.com
-0.0.0.0 stats.piaggio.com
-0.0.0.0 stats.propublica.org
-0.0.0.0 stats.pusher.com
-0.0.0.0 stats.radiostreamlive.com
-0.0.0.0 stats.redditmedia.com
-0.0.0.0 stats.searchftps.org
-0.0.0.0 stats.searchsight.com
-0.0.0.0 stats.sharenet.co.za
-0.0.0.0 stats.shoppydoo.com
-0.0.0.0 stats.slashgear.com
-0.0.0.0 stats.slideshare.net
-0.0.0.0 stats.someecards.com
-0.0.0.0 stats.storify.com
-0.0.0.0 stats.suite101.com
-0.0.0.0 stats.thevideo.me
-0.0.0.0 stats.townnews.com
-0.0.0.0 stats.uswitch.com
-0.0.0.0 stats.video.search.yahoo.com
-0.0.0.0 stats.visistat.com
-0.0.0.0 stats.vulture.com
-0.0.0.0 stats.wordpress.com
-0.0.0.0 stats.wwd.com
-0.0.0.0 stats.wwitv.com
-0.0.0.0 stats.ynet.co.il
-0.0.0.0 stats.zmags.com
-0.0.0.0 statstracker.celebrity-gossip.net
-0.0.0.0 stattrack.0catch.com
-0.0.0.0 stbt.coupons.com
-0.0.0.0 stcollection.moneysupermarket.com
-0.0.0.0 stg.nytimes.com
-0.0.0.0 streamstats1.blinkx.com
-0.0.0.0 sugar.gameforge.com
-0.0.0.0 surveys.cnet.com
-0.0.0.0 t-ak.hulu.com
-0.0.0.0 t.9gag.com
-0.0.0.0 t.dailymail.co.uk
-0.0.0.0 t.eharmony.com
-0.0.0.0 t.kck.st
-0.0.0.0 t.paypal.com
-0.0.0.0 t.vimeo.com
-0.0.0.0 t2.hulu.com
-0.0.0.0 t2.huluim.com
-0.0.0.0 tag-stats.huffpost.com
-0.0.0.0 tags.msnbc.com
-0.0.0.0 tags.news.com.au
-0.0.0.0 tags.transportdirect.info
-0.0.0.0 tck.bangbros.com
-0.0.0.0 ted.dailymail.co.uk
-0.0.0.0 ted.metro.co.uk
-0.0.0.0 ted1.metro.co.uk
-0.0.0.0 timeslogtn.timesnow.tv
-0.0.0.0 timestrends.indiatimes.com
-0.0.0.0 timestrends.timesnow.tv
-0.0.0.0 tk.kargo.com
-0.0.0.0 top.wn.com
-0.0.0.0 total.shanghaidaily.com
-0.0.0.0 tracelog.www.alibaba.com
-0.0.0.0 tracer.perezhilton.com
-0.0.0.0 track.briskfile.com
-0.0.0.0 track.catalogs.com
-0.0.0.0 track.cbs.com
-0.0.0.0 track.codepen.io
-0.0.0.0 track.collegehumor.com
-0.0.0.0 track.engagesciences.com
-0.0.0.0 track.ft.com
-0.0.0.0 track.fxstreet.com
-0.0.0.0 track.gawker.com
-0.0.0.0 track.hubspot.com
-0.0.0.0 track.netzero.net
-0.0.0.0 track.ning.com
-0.0.0.0 track.promptfile.com
-0.0.0.0 track.pushbullet.com
-0.0.0.0 track.slideshare.net
-0.0.0.0 track.webgains.com
-0.0.0.0 track.websiteceo.com
-0.0.0.0 track.wildblue.com
-0.0.0.0 track.zomato.com
-0.0.0.0 tracker.anandtech.com
-0.0.0.0 tracker.calameo.com
-0.0.0.0 tracker.cpapath.com
-0.0.0.0 tracker.joost.com
-0.0.0.0 tracker.mattel.com
-0.0.0.0 tracker.pinnaclesports.com
-0.0.0.0 tracker.realclearpolitics.com
-0.0.0.0 tracker.redditmedia.com
-0.0.0.0 tracker.revip.info
-0.0.0.0 tracker.secretescapes.com
-0.0.0.0 tracker.uprinting.com
-0.0.0.0 tracker.washtimes.com
-0.0.0.0 tracker.wordstream.com
-0.0.0.0 tracking.ancestry.com
-0.0.0.0 tracking.batanga.com
-0.0.0.0 tracking.battleon.com
-0.0.0.0 tracking.carprices.com
-0.0.0.0 tracking.carsales.com.au
-0.0.0.0 tracking.chacha.com
-0.0.0.0 tracking.conduit.com
-0.0.0.0 tracking.eurosport.com
-0.0.0.0 tracking.goodgamestudios.com
-0.0.0.0 tracking.hsn.com
-0.0.0.0 tracking.koego.com
-0.0.0.0 tracking.military.com
-0.0.0.0 tracking.moneyam.com
-0.0.0.0 tracking.mycapture.com
-0.0.0.0 tracking.olx-st.com
-0.0.0.0 tracking.olx.com
-0.0.0.0 tracking.realtor.com
-0.0.0.0 tracking.resumecompanion.com
-0.0.0.0 tracking.shoptogether.buy.com
-0.0.0.0 tracking.softwareprojects.com
-0.0.0.0 tracking.tidalhifi.com
-0.0.0.0 tracking.times247.com
-0.0.0.0 tracking.ukwm.co.uk
-0.0.0.0 tracking.unrealengine.com
-0.0.0.0 tracking.ustream.tv
-0.0.0.0 tracking.yourfilehost.com
-0.0.0.0 trackpm.shop2market.com
-0.0.0.0 traffic.buyservices.com
-0.0.0.0 traffic.tuberip.com
-0.0.0.0 traktr.news.com.au
-0.0.0.0 trax.tvguide.com
-0.0.0.0 trck.sixt.com
-0.0.0.0 trueffect.underarmour.com
-0.0.0.0 tw.i.hulu.com
-0.0.0.0 txn.thenewsroom.com
-0.0.0.0 up.boston.com
-0.0.0.0 up.nytimes.com
-0.0.0.0 uptpro.homestead.com
-0.0.0.0 urchin-tracker.bigpoint.net
-0.0.0.0 urlcheck.hulu.com
-0.0.0.0 userfly.com
-0.0.0.0 ut.ratepoint.com
-0.0.0.0 vertical-stats.huffingtonpost.com
-0.0.0.0 video-stats.video.google.com
-0.0.0.0 videotracker.washingtonpost.com
-0.0.0.0 visit.dealspwn.com
-0.0.0.0 visit.mobot.net
-0.0.0.0 visit.theglobeandmail.com
-0.0.0.0 visitors.sourcingmap.com
-0.0.0.0 vitamine.networldmedia.net
-0.0.0.0 vs.target.com
-0.0.0.0 vstat.vidigy.com
-0.0.0.0 vstats.digitaltrends.com
-0.0.0.0 w88.go.com
-0.0.0.0 wa.metro.co.uk
-0.0.0.0 wa.ui-portal.de
-0.0.0.0 warp.prnewswire.co.uk
-0.0.0.0 watson.live.com
-0.0.0.0 web-t.9gag.com
-0.0.0.0 weblog.strawberrynet.com
-0.0.0.0 weblogger01.data.disney.com
-0.0.0.0 webstats.perfectworld.com
-0.0.0.0 whoson.smcorp.com
-0.0.0.0 winter.metacafe.com
-0.0.0.0 ws.yellowpages.ca
-0.0.0.0 wtk.db.com
-0.0.0.0 wusstrack.wunderground.com
-0.0.0.0 wzus.askkids.com
-0.0.0.0 wzus1.ask.com
-0.0.0.0 wzus1.reference.com
-0.0.0.0 wzus1.thesaurus.com
-0.0.0.0 ynuf.alibaba.com
-0.0.0.0 abakus.freenet.de
-0.0.0.0 ac.berlinonline.de
-0.0.0.0 ac.express.de
-0.0.0.0 ac.mz-web.de
-0.0.0.0 analytics.industriemagazin.net
-0.0.0.0 analytics.solidbau.at
-0.0.0.0 boss.berlinonline.de
-0.0.0.0 c.perlentaucher.de
-0.0.0.0 cc.zeit.de
-0.0.0.0 cct2.o2online.de
-0.0.0.0 count.merian.de
-0.0.0.0 count.rtl.de
-0.0.0.0 count.spiegel.de
-0.0.0.0 counter.zeit.de
-0.0.0.0 cpix.daserste.de
-0.0.0.0 cpx.golem.de
-0.0.0.0 cpxl.golem.de
-0.0.0.0 dpm.bluray-disc.de
-0.0.0.0 dw-eu.com.com
-0.0.0.0 event.dkb.de
-0.0.0.0 extszm.web.de
-0.0.0.0 fls-eu.amazon.de
-0.0.0.0 g.silicon.de
-0.0.0.0 gets.faz.net
-0.0.0.0 go.bluewin.ch
-0.0.0.0 go.giga-abs.de
-0.0.0.0 log.suchen.de
-0.0.0.0 log.sz-online.de
-0.0.0.0 log.wilmaa.com
-0.0.0.0 logging.wilmaa.com
-0.0.0.0 mm.welt.de
-0.0.0.0 ms.computerbild.de
-0.0.0.0 pap.zalando.de
-0.0.0.0 passul.t-online.de
-0.0.0.0 pix.friendscout24.de
-0.0.0.0 pixel.1und1.de
-0.0.0.0 pixel.bild.de
-0.0.0.0 pixel.prosieben.de
-0.0.0.0 powercount.jswelt.de
-0.0.0.0 proactive.base.de
-0.0.0.0 prophet.heise.de
-0.0.0.0 pxc.otto.de
-0.0.0.0 rem-track.bild.de
-0.0.0.0 rl.heise.de
-0.0.0.0 rwt.reichelt.de
-0.0.0.0 s.fsphp.t-online.de
-0.0.0.0 stats.bmw.de
-0.0.0.0 stats.daserste.de
-0.0.0.0 tr.werkenntwen.de
-0.0.0.0 track.cinestar.de
-0.0.0.0 trackerstatistik.init-ag.de
-0.0.0.0 tracking.autoscout24.com
-0.0.0.0 tracking.beilagen-prospekte.de
-0.0.0.0 tracking.hrs.de
-0.0.0.0 tracking.kurier.at
-0.0.0.0 tracking.mobile.de
-0.0.0.0 tracking.netbank.de
-0.0.0.0 tracking.oe24.at
-0.0.0.0 tracking.sport1.de
-0.0.0.0 tracking.statravel.de
-0.0.0.0 tracking.tchibo.de
-0.0.0.0 ts.faz.net
-0.0.0.0 ts.otto.de
-0.0.0.0 ts.rtl.de
-0.0.0.0 wdm.map24.com
-0.0.0.0 web-track.telekom-dienste.de
-0.0.0.0 webts.adac.de
-0.0.0.0 xara.hse24.de
-0.0.0.0 analytics.rtbf.be
-0.0.0.0 ea.clubic.com
-0.0.0.0 ea.jeuxvideopc.com
-0.0.0.0 ea.lexpress.fr
-0.0.0.0 ea.monsieurmanuel.com
-0.0.0.0 ea.rueducommerce.fr
-0.0.0.0 eultech.fnac.com
-0.0.0.0 fls-eu.amazon.fr
-0.0.0.0 g.itespresso.fr
-0.0.0.0 gstat.orange.fr
-0.0.0.0 hit.leboncoin.fr
-0.0.0.0 p.pagesjaunes.fr
-0.0.0.0 pim.nextinpact.com
-0.0.0.0 r.orange.fr
-0.0.0.0 sa.tf1.fr
-0.0.0.0 stat.webevolutis.com
-0.0.0.0 stats1x1.kapaza.be
-0.0.0.0 tracker-id.cdiscount.com
-0.0.0.0 tracker.cds-tracking.com
-0.0.0.0 tracking.ha.rueducommerce.fr
-0.0.0.0 counter.search.bg
-0.0.0.0 adgeo.163.com
-0.0.0.0 analy.qq.com
-0.0.0.0 analytics.163.com
-0.0.0.0 analytics.nextmedia.com
-0.0.0.0 analytics.zhihu.com
-0.0.0.0 atm.youku.com
-0.0.0.0 btrace.qq.com
-0.0.0.0 cast.ra.icast.cn
-0.0.0.0 clkstat.qihoo.com
-0.0.0.0 count.joy.cn
-0.0.0.0 count.newhua.com
-0.0.0.0 count.qiannao.com
-0.0.0.0 count.video.sina.com.cn
-0.0.0.0 count5.pconline.com.cn
-0.0.0.0 dc.letv.com
-0.0.0.0 dj.renren.com
-0.0.0.0 dmtracking.1688.com
-0.0.0.0 dwtracking.sdo.com
-0.0.0.0 eclick.baidu.com
-0.0.0.0 fls-cn.amazon.cn
-0.0.0.0 hk.ndx.nextmedia.com
-0.0.0.0 log.51cto.com
-0.0.0.0 log.kuwo.cn
-0.0.0.0 log.ynet.com
-0.0.0.0 log1.17173.com
-0.0.0.0 loginlog.sdo.com
-0.0.0.0 logs.51cto.com
-0.0.0.0 logs.live.tudou.com
-0.0.0.0 logstat.caixin.com
-0.0.0.0 nstat.tudou.com
-0.0.0.0 p-log.ykimg.com
-0.0.0.0 pb.i.sogou.com
-0.0.0.0 pingback.sogou.com
-0.0.0.0 pingjs.qq.com
-0.0.0.0 ranking.ynet.com
-0.0.0.0 rcgi.video.qq.com
-0.0.0.0 report.qq.com
-0.0.0.0 s.360.cn
-0.0.0.0 s.qhupdate.com
-0.0.0.0 s.renren.com
-0.0.0.0 sclick.baidu.com
-0.0.0.0 shrek.6.cn
-0.0.0.0 st.vq.ku6.cn
-0.0.0.0 sta.ifeng.com
-0.0.0.0 stadig.ifeng.com
-0.0.0.0 stat.1688.com
-0.0.0.0 stat.55bbs.com
-0.0.0.0 stat.bilibili.tv
-0.0.0.0 stat.caijing.com.cn
-0.0.0.0 stat.funshion.net
-0.0.0.0 stat.hudong.com
-0.0.0.0 stat.iteye.com
-0.0.0.0 stat.ku6.com
-0.0.0.0 stat.ppstream.com
-0.0.0.0 stat.pptv.com
-0.0.0.0 stat.stheadline.com
-0.0.0.0 stat.tianya.cn
-0.0.0.0 stat.tudou.com
-0.0.0.0 stat.uuu9.com
-0.0.0.0 stat.xunlei.com
-0.0.0.0 stat.zol.com.cn
-0.0.0.0 statistic.qzone.qq.com
-0.0.0.0 statistic.takungpao.com
-0.0.0.0 stats.autohome.com.cn
-0.0.0.0 stats.tudou.com
-0.0.0.0 tf.360.cn
-0.0.0.0 tinglog.baidu.com
-0.0.0.0 tracker.live.tudou.com
-0.0.0.0 uestat.video.qiyi.com
-0.0.0.0 utrack.hexun.com
-0.0.0.0 vatrack.hinet.net
-0.0.0.0 webclick.yeshj.com
-0.0.0.0 webstat.kuwo.cn
-0.0.0.0 logs.ggweb.nl
-0.0.0.0 sat.sanoma.fi
-0.0.0.0 stats.fd.nl
-0.0.0.0 webstatistieken.xs4all.nl
-0.0.0.0 analytics.sanoma.fi
-0.0.0.0 stat.mtv3.fi
-0.0.0.0 bravo.israelweather.co.il
-0.0.0.0 cellstats.mako.co.il
-0.0.0.0 stats.mako.co.il
-0.0.0.0 analytics.tio.ch
-0.0.0.0 click.tv.repubblica.it
-0.0.0.0 emng.libero.it
-0.0.0.0 fls-eu.amazon.it
-0.0.0.0 g.techweekeurope.it
-0.0.0.0 livestats.la7.tv
-0.0.0.0 siteinfo.libero.it
-0.0.0.0 stats.splinder.com
-0.0.0.0 track.tesiteca.it
-0.0.0.0 tracking.gruppo.mps.it
-0.0.0.0 trk.m.libero.it
-0.0.0.0 analytics.cocolog-nifty.com
-0.0.0.0 analyzer.fc2.com
-0.0.0.0 analyzer2.fc2.com
-0.0.0.0 fls-fe.amazon.co.jp
-0.0.0.0 visit.geocities.jp
-0.0.0.0 count.munhwa.com
-0.0.0.0 gather.hankyung.com
-0.0.0.0 hits.zdnet.co.kr
-0.0.0.0 hitweb2.chosun.com
-0.0.0.0 lcs.naver.com
-0.0.0.0 e-spy.petit.lv
-0.0.0.0 stats.tunt.lv
-0.0.0.0 click.vgnett.no
-0.0.0.0 fusion.nettavisen.no
-0.0.0.0 webhit.aftenposten.no
-0.0.0.0 analytics.gazeta.pl
-0.0.0.0 dot.wp.pl
-0.0.0.0 entryhit.wp.pl
-0.0.0.0 kropka.onet.pl
-0.0.0.0 mklik.gazeta.pl
-0.0.0.0 rek.www.wp.pl
-0.0.0.0 stats.teledyski.info
-0.0.0.0 audience-mostread.r7.com
-0.0.0.0 click.uol.com.br
-0.0.0.0 dejavu.mercadolivre.com.br
-0.0.0.0 dna.uol.com.br
-0.0.0.0 g.bit.pt
-0.0.0.0 g.bitmag.com.br
-0.0.0.0 log.r7.com
-0.0.0.0 logger.rm.uol.com.br
-0.0.0.0 metrics.uol.com.br
-0.0.0.0 tracker.bt.uol.com.br
-0.0.0.0 tracker.publico.pt
-0.0.0.0 urchin.estadao.com.br
-0.0.0.0 uv.terra.com.br
-0.0.0.0 ad7.bigmir.net
-0.0.0.0 kiks.yandex.ru
-0.0.0.0 montblanc.lenta.ru
-0.0.0.0 stat.lenta.ru
-0.0.0.0 stats.lifenews.ru
-0.0.0.0 yast.rutube.ru
-0.0.0.0 trak-analytics.blic.rs
-0.0.0.0 analytics.infobae.com
-0.0.0.0 coletor.terra.com
-0.0.0.0 estadisticas.lanacion.com.ar
-0.0.0.0 estadonline.publiguias.cl
-0.0.0.0 fls-eu.amazon.es
-0.0.0.0 g.siliconweek.es
-0.0.0.0 hits.antena3.com
-0.0.0.0 stats.milenio.com
-0.0.0.0 analytics.codigo.se
-0.0.0.0 beacon.mtgx.tv
-0.0.0.0 fusion.bonniertidskrifter.se
-0.0.0.0 prod-metro-collector.cloudapp.net
-0.0.0.0 c.gazetevatan.com
-0.0.0.0 p.milliyet.com.tr
-0.0.0.0 counter.ukr.net
-0.0.0.0 hit.meta.ua
-0.0.0.0 target.ukr.net
-## Generated at Thu 12 May 2016 19:26:16 AEST
-## By https://github.com/PwnArt1st/hostsblock
-0.0.0.0 cookies.innershed.co.uk
-0.0.0.0 d1uh1a7az90pt0.cloudfront.net
-0.0.0.0 mailmunch.s3.amazonaws.com
-0.0.0.0 widgets.sprinkletxt.com
-0.0.0.0 twitter-badges.s3.amazonaws.com
-0.0.0.0 forms.windowsitpro.com
-0.0.0.0 tmform.azurewebsites.net
-0.0.0.0 cookie.oup.com
-0.0.0.0 cookie.radioplayer.co.uk
-0.0.0.0 curate.venturebeat.com
-0.0.0.0 social.dw.de
-0.0.0.0 cookie.gazeta.pl
-0.0.0.0 cookies.fakt.pl
-0.0.0.0 cookies.forbes.pl
-0.0.0.0 privacy.totaaltv.nl
-0.0.0.0 cookiesv2.publiekeomroep.nl
-0.0.0.0 cnil.links-lab.fr
-0.0.0.0 cookies.leadplace.fr
-0.0.0.0 cookies.unidadeditorial.es
-0.0.0.0 share.baidu.com
-## Generated at Thu 12 May 2016 19:26:30 AEST
-## By https://github.com/PwnArt1st/hostsblock
-#               MalwareDomainList.com Hosts List           #
-#   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         Last updated: Thu, 12 May 16 08:36:36 +0000      #
-
-
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 0koryu0.easter.ne.jp
 0.0.0.0 109-204-26-16.netconnexion.managedbroadband.co.uk
 0.0.0.0 11.lamarianella.info
@@ -5357,20 +2886,10 @@ fe80::1%lo0 localhost
 0.0.0.0 aca.yh3ec79e2.top
 0.0.0.0 achren.org
 0.0.0.0 acool.csheaven.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 ad-beast.com
-0.0.0.0 adamauto.nl
-=======
 0.0.0.0 actinomorphous.excelwood.co.uk
 0.0.0.0 ad-beast.com
 0.0.0.0 adamauto.nl
 0.0.0.0 adestudio.w8w.pl
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 ad-beast.com
-0.0.0.0 adamauto.nl
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adgallery.whitehousedrugpolicy.gov
 0.0.0.0 adlock.in
 0.0.0.0 adm.healthtealivin.com
@@ -5419,17 +2938,9 @@ fe80::1%lo0 localhost
 0.0.0.0 app.pho8.com
 0.0.0.0 apparatus.gr8mark.com
 0.0.0.0 april.paypaybest.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 arkinsoftware.in
-=======
 0.0.0.0 arbeiderspartij.be-spry.co.uk
 0.0.0.0 arkinsoftware.in
 0.0.0.0 armstrongcreekgeleedpotig.imber.me.uk
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 arkinsoftware.in
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 artsconsortium.org
 0.0.0.0 ascryasuntovelallisten.ansonssolicitors.com
 0.0.0.0 asham.tourstogo.us
@@ -5504,13 +3015,7 @@ fe80::1%lo0 localhost
 0.0.0.0 bride1.com
 0.0.0.0 bro.kolmakkan.com
 0.0.0.0 broadtech.co
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 brunowtrahoque-miagola.unishadeverticalsystem.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 brush.vhsadvd.com.ar
 0.0.0.0 buffalogoesout.com
 0.0.0.0 buk.p2ptree.info
@@ -5535,14 +3040,8 @@ fe80::1%lo0 localhost
 0.0.0.0 carved.windeploy.ca
 0.0.0.0 centralwestwater.com.au
 0.0.0.0 ceskarepublika.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 charge.cenzorate-expertize.ro
 0.0.0.0 chashmawala.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 chaveiro.bio.br
 0.0.0.0 chemgas.com
 0.0.0.0 chsplantsales.co.uk
@@ -5665,13 +3164,7 @@ fe80::1%lo0 localhost
 0.0.0.0 dp-medien.eu
 0.0.0.0 drbarryjones.com
 0.0.0.0 drdavidcoppola.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 dub3tv.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 dujur.barginginfrance.net
 0.0.0.0 duoscontabilidade.com.br
 0.0.0.0 e-matelco.com
@@ -5704,14 +3197,7 @@ fe80::1%lo0 localhost
 0.0.0.0 epidymidesvesihanat.goalmappingonline.com
 0.0.0.0 erdolchendenpandhuiz.giovyphotography.co.uk
 0.0.0.0 eroov.iptvdeals.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 esd-coach.de
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 esd-coach.de
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 esoad.frost-electric-supply.com
 0.0.0.0 espdesign.com.au
 0.0.0.0 estoa.frost-electric-supply.com
@@ -5721,13 +3207,7 @@ fe80::1%lo0 localhost
 0.0.0.0 europol.europe.eu.id214218540-7444056787.h5841.com
 0.0.0.0 evade.tkathome.de
 0.0.0.0 exadu.mymag250.co.uk
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 excitable.charmedmultimedia.eu
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 executivecoaching.co.il
 0.0.0.0 exsexytop.tk
 0.0.0.0 extreembilisim.com
@@ -5770,6 +3250,7 @@ fe80::1%lo0 localhost
 0.0.0.0 freefblikes.phpnet.us
 0.0.0.0 freeserials.spb.ru
 0.0.0.0 freeserials.ws
+0.0.0.0 freesource.su
 0.0.0.0 freezwrap.com
 0.0.0.0 ftp.dgaspf.gob.ar
 0.0.0.0 ftp.flyfishusa.com
@@ -5810,13 +3291,7 @@ fe80::1%lo0 localhost
 0.0.0.0 gulsproductions.com
 0.0.0.0 gun.vrfitnesscoach.com
 0.0.0.0 gurde.tourstogo.us
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 gutter.celebway.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 guyscards.com
 0.0.0.0 gyboo.cruisingsmallship.com
 0.0.0.0 gylra.cruisingsmallship.com
@@ -5884,13 +3359,7 @@ fe80::1%lo0 localhost
 0.0.0.0 importkauf.ch
 0.0.0.0 impressoras-cartoes.com.pt
 0.0.0.0 in.healthylivingoption.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 inclination.cdrn70.xyz
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 inclusivediversity.co.uk
 0.0.0.0 incoctel.cl
 0.0.0.0 inevo.co.il
@@ -5969,6 +3438,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ko.notyouraverageresults.com
 0.0.0.0 kollagen4you.se
 0.0.0.0 kontuzji.gatesheadconveyancing.co.uk
+0.0.0.0 koolrapensmil.eberspacher-lorry-heater.co.uk
 0.0.0.0 korbinian-pauli.com
 0.0.0.0 kreotceonite.com
 0.0.0.0 krsa2gno.congrats-sweepstakes-winner.com
@@ -5978,6 +3448,7 @@ fe80::1%lo0 localhost
 0.0.0.0 krsa2gno.youre-todays-lucky-sweeps-winner.com
 0.0.0.0 kuestenartillerie.axminsterbandb.co.uk
 0.0.0.0 kuglu.mymag250.co.uk
+0.0.0.0 kulibin.com.ua
 0.0.0.0 kulro.csheaven.com
 0.0.0.0 kuvastamaanprobuja.fire-pit.org
 0.0.0.0 kylie-walters.com
@@ -6012,13 +3483,7 @@ fe80::1%lo0 localhost
 0.0.0.0 loft2126.dedicatedpanel.com
 0.0.0.0 log.wanderunderwater.com
 0.0.0.0 logeablesracicots.spaghettiallachitarra.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 lojasrana.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 longing.emporioarmanionline.com
 0.0.0.0 luchtenbergdecor.com.br
 0.0.0.0 luckyblank.info
@@ -6067,20 +3532,10 @@ fe80::1%lo0 localhost
 0.0.0.0 merrymilkfoods.com
 0.0.0.0 metos.valah.net
 0.0.0.0 metrocuadro.com.ve
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 mgfd1b.petrix.net
-0.0.0.0 mgmt.speraelectric.info
-=======
 0.0.0.0 meuble-ligansadaequabat.thepinkskip.co.uk
 0.0.0.0 mgfd1b.petrix.net
 0.0.0.0 mgmt.speraelectric.info
 0.0.0.0 microencapsulation.readmyweather.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 mgfd1b.petrix.net
-0.0.0.0 mgmt.speraelectric.info
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 middle.porn8een.com
 0.0.0.0 miespaciopilates.com
 0.0.0.0 milleniumpapelaria.com.br
@@ -6158,13 +3613,7 @@ fe80::1%lo0 localhost
 0.0.0.0 nkgamers.com
 0.0.0.0 nlconsulateorlandoorg.siteprotect.net
 0.0.0.0 nmsbaseball.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 no-id.eu
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 nobodyspeakstruth.narod.ru
 0.0.0.0 nomos.vidaprimaria.cl
 0.0.0.0 nonnested.karenmayne.co.uk
@@ -6237,13 +3686,7 @@ fe80::1%lo0 localhost
 0.0.0.0 papamamandoudouetmoi.com
 0.0.0.0 paracadutismolucca.it
 0.0.0.0 paraskov.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 passagegoldtravel.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 passion-motoculture.com
 0.0.0.0 pasticceriabonci.it
 0.0.0.0 patrickhickey.eu
@@ -6292,13 +3735,7 @@ fe80::1%lo0 localhost
 0.0.0.0 praxisww.com
 0.0.0.0 premium34.tmweb.ru
 0.0.0.0 prepagoseroticas.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 press.centraljoias.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 pride-u-bike.com
 0.0.0.0 private.hotelcesenaticobooking.info
 0.0.0.0 prnutritionals.com
@@ -6398,13 +3835,7 @@ fe80::1%lo0 localhost
 0.0.0.0 scdsfdfgdr12.tk
 0.0.0.0 schizzino.omarathon.com
 0.0.0.0 scottishhillracing.co.uk
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 scrubs.dresscool.co
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 sdg-translations.com
 0.0.0.0 secrete.335sbs.com
 0.0.0.0 securitywebservices.com
@@ -6430,13 +3861,7 @@ fe80::1%lo0 localhost
 0.0.0.0 shopplovers.com
 0.0.0.0 shovi.frost-electric-supply.com
 0.0.0.0 shreeanandcrackersagency.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 sign.cdrn70.xyz
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 signready.com
 0.0.0.0 silkmore.staffs.sch.uk
 0.0.0.0 silurian.cn
@@ -6567,13 +3992,7 @@ fe80::1%lo0 localhost
 0.0.0.0 spooky.arrasection13402.us
 0.0.0.0 sportsandprevention.com
 0.0.0.0 sportsulsan.co.kr
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 spreadware.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 spykit.110mb.com
 0.0.0.0 spykou.com
 0.0.0.0 sribinayakelectricals.com
@@ -6601,13 +4020,7 @@ fe80::1%lo0 localhost
 0.0.0.0 subziwali.com
 0.0.0.0 sudcom.org
 0.0.0.0 summonerswarskyarena.info
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 sunlite.com.au
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 sunlux.net
 0.0.0.0 sunny99.cholerik.cz
 0.0.0.0 superlative.eastlondonbuilding.uk
@@ -6628,13 +4041,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tamilcm.com
 0.0.0.0 taninabandb.com
 0.0.0.0 tank.wolfandrocks.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 tannpastnevicher.themakershop.co.uk
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 tara.walletbest.info
 0.0.0.0 tatschke.net
 0.0.0.0 tavuks.com
@@ -6676,6 +4083,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tixit.co.il
 0.0.0.0 tk-gregoric.si
 0.0.0.0 toddscarwash.com
+0.0.0.0 toestakenmareca.scottishhomesonline.com
 0.0.0.0 tomalinoalambres.com.ar
 0.0.0.0 too.muaschool.com
 0.0.0.0 tooth.yyg97.com
@@ -6788,13 +4196,7 @@ fe80::1%lo0 localhost
 0.0.0.0 users173.lolipop.jp
 0.0.0.0 utopia-muenchen.de
 0.0.0.0 uvidu.butlerelectricsupply.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 uwzorg.info
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 v.inigsplan.ru
 0.0.0.0 vacant.urbanpicnic.cl
 0.0.0.0 vacation.heartfix.us
@@ -6901,26 +4303,14 @@ fe80::1%lo0 localhost
 0.0.0.0 www.asu.msmu.ru
 0.0.0.0 www.atousoft.com
 0.0.0.0 www.aucoeurdelanature.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 www.autoappassionati.it
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.avrakougioumtzi.gr
 0.0.0.0 www.bcservice.it
 0.0.0.0 www.bedoc.fr
 0.0.0.0 www.bilder-upload.eu
 0.0.0.0 www.blinkgroup.com
 0.0.0.0 www.blueimagen.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 www.cafecalluna.nl
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.carvoeiro.com
 0.0.0.0 www.casamama.nl
 0.0.0.0 www.catgallery.com
@@ -6971,13 +4361,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.gmcjjh.org
 0.0.0.0 www.gold-city.it
 0.0.0.0 www.goparchiedivertimento.it
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 www.gptecno.it
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.gulsproductions.com
 0.0.0.0 www.hausnet.ru
 0.0.0.0 www.hitekshop.vn
@@ -6987,20 +4371,10 @@ fe80::1%lo0 localhost
 0.0.0.0 www.huecobi.de
 0.0.0.0 www.icybrand.eu
 0.0.0.0 www.image-werbebedarf.de
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 www.imagerieduroc.com
-0.0.0.0 www.infra.by
-=======
 0.0.0.0 www.imageprecision.com
 0.0.0.0 www.imagerieduroc.com
 0.0.0.0 www.infra.by
 0.0.0.0 www.jobbainorge.nu
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 www.imagerieduroc.com
-0.0.0.0 www.infra.by
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.joomlalivechat.com
 0.0.0.0 www.kcta.or.kr
 0.0.0.0 www.keyfuture.com
@@ -7093,6 +4467,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.slivki.com.ua
 0.0.0.0 www.smartgvcfunding.com
 0.0.0.0 www.smartscan.ro
+0.0.0.0 www.socotec.fr
 0.0.0.0 www.sonnoli.com
 0.0.0.0 www.soskin.eu
 0.0.0.0 www.soyter.pl
@@ -7498,17 +4873,10 @@ fe80::1%lo0 localhost
 0.0.0.0 ac.ajur.info
 0.0.0.0 openx.ajur.info
 0.0.0.0 adlik2.akavita.com
-0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 all2lnk.com
 0.0.0.0 ads.allaccess.com.ph
 0.0.0.0 adcontent2.allaccess.com.ph
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 adservice.aliexpress.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.allstar.cz
 0.0.0.0 taobaoafp.allyes.cn
 0.0.0.0 bokee.allyes.com
@@ -7545,14 +4913,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.anastasiasaffiliate.com
 0.0.0.0 advert.ananzi.co.za
 0.0.0.0 advert2.ananzi.co.za
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 box.anchorfree.net
-0.0.0.0 rpt.anchorfree.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 a.androidandme.com
 0.0.0.0 analytics.androidandme.com
 0.0.0.0 www.anticlown.com
@@ -7562,13 +4922,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.asia1.com.sg
 0.0.0.0 ads.ask.com
 0.0.0.0 www.asknew.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.asp24.pl
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 www.astalavista.us
 0.0.0.0 atemda.com
@@ -7592,13 +4945,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rev.avsforum.com
 0.0.0.0 ads.avusa.co.za
 0.0.0.0 engine.awaps.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 analytics.aweber.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 clicks.aweber.com
 0.0.0.0 tracker.azet.sk
 0.0.0.0 www.azmsoft.com
@@ -7633,13 +4979,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.be2hand.com
 0.0.0.0 app.beanstalkdata.com
 0.0.0.0 www.beead.co.uk
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tracker.beezup.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 promo.begun.ru
 0.0.0.0 referal.begun.ru
@@ -7681,14 +5020,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads2.blastro.com
 0.0.0.0 ads3.blastro.com
 0.0.0.0 blekko.com
-<<<<<<< HEAD
-0.0.0.0 img.blesk.cz
-<<<<<<< HEAD
-=======
-0.0.0.0 trak-analytics.blic.rs
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.blizzard.com
 0.0.0.0 ads.blog.com
 0.0.0.0 www.blogcatalog.com
@@ -7721,13 +5052,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tracker.brainsins.com
 0.0.0.0 ads.brandeins.de
 0.0.0.0 dolce-sportro.count.brat-online.ro
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.break.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 bans.bride.ru
 0.0.0.0 ads.bridgetrack.com
 0.0.0.0 cc.bridgetrack.com
@@ -7781,7 +5105,6 @@ fe80::1%lo0 localhost
 0.0.0.0 radar.cedexis.com
 0.0.0.0 3.cennter.com
 0.0.0.0 cts-secure.channelintelligence.com
-0.0.0.0 count.channeladvisor.com
 0.0.0.0 adsapi.chartbeat.com
 0.0.0.0 code.checkstat.nl
 0.0.0.0 www.checkstat.nl
@@ -7822,13 +5145,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.co2stats.com
 0.0.0.0 anchor.coadvertise.com
 0.0.0.0 ad.coas2.co.kr
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 traffic.prod.cobaltgroup.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 collectiveads.net
 0.0.0.0 vcu.collserve.com
 0.0.0.0 go.combosoftwareplace.com
@@ -7844,13 +5160,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.contaxe.com
 0.0.0.0 www.contextpanel.com
 0.0.0.0 www.conversionruler.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.cooks.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad2.cooks.com
 0.0.0.0 banners.copyscape.com
 0.0.0.0 data.de.coremetrics.com
@@ -7889,15 +5198,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.dada.it
 0.0.0.0 count.daem0n.com
 0.0.0.0 annonser.dagbladet.no
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 t.dailymail.co.uk
-0.0.0.0 rta.dailymail.co.uk
-0.0.0.0 ted.dailymail.co.uk
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.darikweb.com
 0.0.0.0 sync.darikweb.com
 0.0.0.0 www1.darikweb.com
@@ -7924,7 +5224,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.designboom.com
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 www.dia-traffic.com
-0.0.0.0 track.did-it.com
 0.0.0.0 counter.dieit.de
 0.0.0.0 openx.diena.lv
 0.0.0.0 ads.digitalalchemy.tv
@@ -7961,13 +5260,6 @@ fe80::1%lo0 localhost
 0.0.0.0 marketing.doubleclickindustries.com
 0.0.0.0 ads.draugas.lt
 0.0.0.0 imgn.dt00.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tracking.dsmmadvantage.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.dsply.com
 0.0.0.0 tracking.dtiserv2.com
 0.0.0.0 ad.dumedia.ru
@@ -8098,13 +5390,6 @@ fe80::1%lo0 localhost
 0.0.0.0 admega.feed.gr
 0.0.0.0 feedjit.com
 0.0.0.0 log.feedjit.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 analytics.femalefirst.co.uk
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 banners.ffsbg.com
 0.0.0.0 ads.fiat-bg.org
 0.0.0.0 cache.fimservecdn.com
@@ -8160,23 +5445,9 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.garga.biz
 0.0.0.0 ads.gateway.bg
 0.0.0.0 ads.gather.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 ad.gazeta.pl
 0.0.0.0 adp.gazeta.pl
 0.0.0.0 adv.gazeta.pl
-=======
-0.0.0.0 track.gawker.com
-0.0.0.0 ad.gazeta.pl
-0.0.0.0 adp.gazeta.pl
-0.0.0.0 adv.gazeta.pl
-0.0.0.0 analytics.gazeta.pl
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 ad.gazeta.pl
-0.0.0.0 adp.gazeta.pl
-0.0.0.0 adv.gazeta.pl
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 top.gde.ru
 0.0.0.0 www.geoplugin.net
 0.0.0.0 ads.geornmd.net
@@ -8217,7 +5488,6 @@ fe80::1%lo0 localhost
 0.0.0.0 googlus.com
 0.0.0.0 ads.gorillavid.in
 0.0.0.0 adtools.gossipkings.com
-0.0.0.0 webcounter.goweb.de
 0.0.0.0 www.gpr.hu
 0.0.0.0 www.gradportal.org
 0.0.0.0 ad-incisive.grapeshot.co.uk
@@ -8293,14 +5563,6 @@ fe80::1%lo0 localhost
 0.0.0.0 click.html.it
 0.0.0.0 hub.com.pl
 0.0.0.0 js.hubspot.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 entry-stats.huffpost.com
-0.0.0.0 vertical-stats.huffpost.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.hurra.de
 0.0.0.0 tracker.dev.hearst.nl
@@ -8318,7 +5580,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.ibis.cz
 0.0.0.0 hits.icdirect.com
 0.0.0.0 www.icentric.net
-0.0.0.0 tracker.icerocket.com
 0.0.0.0 ado.icorp.ro
 0.0.0.0 ads.icorp.ro
 0.0.0.0 log.idg.no
@@ -8326,25 +5587,11 @@ fe80::1%lo0 localhost
 0.0.0.0 adidm.idmnet.pl
 # 0.0.0.0 mpsnare.iesnare.com #[affects westernunion.com]
 0.0.0.0 adsrv2.ihlassondakika.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.surfaid.ihost.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 k.iinfo.cz
 0.0.0.0 script.ioam.de
 0.0.0.0 adserver.ilmessaggero.it
 0.0.0.0 adserver.ilounge.com
 0.0.0.0 rc.bt.ilsemedia.nl
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.ilsemedia.nl
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adv.ilsole24ore.it
 0.0.0.0 ads.imarketservices.com
 0.0.0.0 i.imedia.cz
@@ -8407,13 +5654,6 @@ fe80::1%lo0 localhost
 0.0.0.0 delivery.ipvertising.com
 0.0.0.0 www.iranwebads.com
 0.0.0.0 ad2.ireklama.cz
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 clicktracker.iscan.nl
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.isoftmarketing.com
 0.0.0.0 banman.isoftmarketing.com
 0.0.0.0 isralink.net
@@ -8423,19 +5663,11 @@ fe80::1%lo0 localhost
 0.0.0.0 itcompany.com
 0.0.0.0 www.itcompany.com
 0.0.0.0 ilead.itrack.it
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.itweb.co.za
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.iws.ro
 0.0.0.0 link.ixs1.net
 # [J]
 0.0.0.0 raahenseutu.jainos.fi
 0.0.0.0 ad.jamba.de
-0.0.0.0 ad.jamster.com
 0.0.0.0 adserver.janesguide.com
 0.0.0.0 piwik.jccm.es
 0.0.0.0 ads.jewcy.com
@@ -8560,20 +5792,12 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.m5prod.net
 0.0.0.0 ad.m-adx.com
 0.0.0.0 www3.macys.com
-<<<<<<< HEAD
-0.0.0.0 stat.madbanner.ru
-<<<<<<< HEAD
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 eu2.madsone.com
 0.0.0.0 media.m-adx.com
 0.0.0.0 ads.mail.bg
 0.0.0.0 www.mainadv.com
 0.0.0.0 ads.maleflixxx.tv
 0.0.0.0 adv.mangoadv.com
-0.0.0.0 stats.manticoretechnology.com
 0.0.0.0 anapixel.marca.com
 0.0.0.0 pixelcounter.marca.com
 0.0.0.0 ads.marica.bg
@@ -8599,7 +5823,6 @@ fe80::1%lo0 localhost
 0.0.0.0 directads.mcafee.com
 0.0.0.0 vitals.tracking.mdxdata.com
 0.0.0.0 mcmads.mediacapital.pt
-0.0.0.0 audit.median.hu
 0.0.0.0 piwik.medienhaus.com
 0.0.0.0 idpix.media6degrees.com
 0.0.0.0 ads.mediaodyssey.com
@@ -8804,17 +6027,7 @@ fe80::1%lo0 localhost
 0.0.0.0 stats0.one.ru
 0.0.0.0 stats1.one.ru
 0.0.0.0 stats2.one.ru
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 reklama.onet.pl
-=======
-0.0.0.0 kropka.onet.pl
-0.0.0.0 reklama.onet.pl
-0.0.0.0 stats.media.onet.pl
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 reklama.onet.pl
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.onlinechange.biz
 0.0.0.0 404.online.net
 0.0.0.0 aa.online-metrix.net
@@ -8928,13 +6141,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www2.portdetective.com
 0.0.0.0 inapi.posst.co
 0.0.0.0 ads.postimees.ee
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 prstats.postrelease.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adv.powertracker.org
 0.0.0.0 www.ppctracking.net
 0.0.0.0 adtxt.prbn.ru
@@ -8949,13 +6155,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.profiwin.de
 0.0.0.0 bn.profiwin.de
 0.0.0.0 www.promobenef.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 track.promptfile.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.prospect.org
 0.0.0.0 tr.prospecteye.com
 0.0.0.0 profitshare.ro
@@ -8981,7 +6180,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.sma.punto.net
 0.0.0.0 sma.punto.net
 0.0.0.0 ad.punto-informatico.it
-0.0.0.0 cgicounter.puretec.de
 # [Q]
 0.0.0.0 www.qbop.com
 0.0.0.0 e1.cdn.qnsr.com
@@ -8991,13 +6189,6 @@ fe80::1%lo0 localhost
 0.0.0.0 siteinterceptco1.qualtrics.com
 0.0.0.0 amch.questionmarket.com
 0.0.0.0 reports.quisma.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tracking.quisma.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adping.qq.com
 0.0.0.0 adsrich.qq.com
 0.0.0.0 adsview.qq.com
@@ -9020,14 +6211,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.rcgroups.com
 0.0.0.0 webstats.web.rcn.net
 0.0.0.0 ads.rcs.it
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 oasis.realbeer.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 oasis.realbeer.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 anomaly.realgravity.com
 0.0.0.0 adserver.realhomesex.net
 0.0.0.0 banners.realitycash.com
@@ -9041,13 +6224,6 @@ fe80::1%lo0 localhost
 0.0.0.0 n4p.ua.redtram.com
 0.0.0.0 www.refer.ru
 0.0.0.0 ads.register.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.reklamport.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adserver.reklamstore.com
 0.0.0.0 reklamanet.net
 0.0.0.0 banner.relcom.ru
@@ -9069,7 +6245,6 @@ fe80::1%lo0 localhost
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 ads.ripoffreport.com
 0.0.0.0 db.riskwaters.com
-0.0.0.0 count.rin.ru
 0.0.0.0 mct.rkdms.com
 0.0.0.0 ei.rlcdn.com
 0.0.0.0 rd.rlcdn.com
@@ -9121,10 +6296,8 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.search.bg
 0.0.0.0 banner.search.bg
 0.0.0.0 banex.search.bg
-0.0.0.0 counter.search.bg
 0.0.0.0 ad.searchhound.com
 0.0.0.0 searchmagnified.com
-0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 securitas1maximus.xyz
 0.0.0.0 geoip.securitetotale.com
 0.0.0.0 advertising.seenews.com
@@ -9136,7 +6309,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.senddroid.com
 0.0.0.0 www.send-safe.com
 0.0.0.0 sensic.net
-0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 www.seo-portal.ro
 0.0.0.0 errors.servik.com
 0.0.0.0 weblink.settrade.com
@@ -9207,14 +6379,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.springclick.com
 0.0.0.0 counter.spylog.com
 0.0.0.0 www.spywareit.com
-<<<<<<< HEAD
-0.0.0.0 s1.srtk.net
-0.0.0.0 s2.srtk.net
-<<<<<<< HEAD
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.stackoverflow.com
 0.0.0.0 anchor.stailamedia.com
 0.0.0.0 bannerads.standard.net
@@ -9363,13 +6527,6 @@ fe80::1%lo0 localhost
 0.0.0.0 usage.trackjs.com
 0.0.0.0 api.trackuity.com
 0.0.0.0 ads.tradeads.eu
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tm.tradetracker.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 storage.trafic.ro
 0.0.0.0 www.trafficresults.com
 0.0.0.0 ads.travellogger.com
@@ -9427,25 +6584,16 @@ fe80::1%lo0 localhost
 # [U]
 0.0.0.0 adv.uauaclub.it
 0.0.0.0 mde.ubid.com
-0.0.0.0 a.ucoz.net
 0.0.0.0 s212.ucoz.net
 0.0.0.0 credity.ucoz.ru
 0.0.0.0 shanding.ucoz.es
 0.0.0.0 udmserve.net
-0.0.0.0 mediamgr.ugo.com
 0.0.0.0 creativos.ads.uigc.net
 0.0.0.0 adclient.uimserv.net
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 pixelbox.uimserv.net
 0.0.0.0 www.ukbanners.com
 0.0.0.0 ukrbanner.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tracking.ukwm.co.uk
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 advert.uloz.to
 0.0.0.0 www.ultimatetopsites.com
 0.0.0.0 advert.dyna.ultraweb.hu
@@ -9504,13 +6652,6 @@ fe80::1%lo0 localhost
 0.0.0.0 drive.videoclick.ru
 0.0.0.0 chappel.videogamer.com
 0.0.0.0 ads.videohub.tv
-<<<<<<< HEAD
-0.0.0.0 www.videooizleyin.com
-<<<<<<< HEAD
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adserver.virginmedia.com
 0.0.0.0 pilmedia.ads.visionweb.no
 0.0.0.0 www.visits.lt
@@ -9536,13 +6677,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.w3hoster.de
 0.0.0.0 fus.walla.co.il
 0.0.0.0 ad.wanderlist.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tracking.waterfrontmedia.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.wave.si
 0.0.0.0 delivery.way2traffic.com
 0.0.0.0 ads.weather.ca
@@ -9552,13 +6686,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.web1tv.de
 0.0.0.0 tracking.web2corp.com
 0.0.0.0 data.webads.co.nz
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tr.webantenna.info
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 banners.webcams.com
 0.0.0.0 www.web-chart.de
 0.0.0.0 webcounter.be
@@ -9629,25 +6756,9 @@ fe80::1%lo0 localhost
 0.0.0.0 analytics.worldnow.com
 0.0.0.0 wtsdc.worldnow.com
 0.0.0.0 ads.worthplaying.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 adsearch.wp.pl
 0.0.0.0 adv.wp.pl
 0.0.0.0 badv.wp.pl
-=======
-0.0.0.0 pixel.wp.com
-0.0.0.0 stats.wp.com
-0.0.0.0 adsearch.wp.pl
-0.0.0.0 adv.wp.pl
-0.0.0.0 badv.wp.pl
-0.0.0.0 dot.wp.pl
-0.0.0.0 rek.www.wp.pl
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 adsearch.wp.pl
-0.0.0.0 adv.wp.pl
-0.0.0.0 badv.wp.pl
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.wsod.com
 0.0.0.0 admedia.wsod.com
 0.0.0.0 wtvertnet.com
@@ -9715,13 +6826,6 @@ fe80::1%lo0 localhost
 # [Misc]
 0.0.0.0 banner.0catch.com
 0.0.0.0 bannerimages.0catch.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stattrack.0catch.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 0c9d8370d.se
 0.0.0.0 0427d7.se
 0.0.0.0 1bg.net
@@ -10222,7 +7326,6 @@ fe80::1%lo0 localhost
 0.0.0.0 abc.doublegear.com
 0.0.0.0 ads.fulldls.com
 0.0.0.0 www.glxgroup.com
-0.0.0.0 ad.iloveinterracial.com
 0.0.0.0 cdn.mirageads.net
 0.0.0.0 www.myshovel.com
 0.0.0.0 st.ad.smaclick.com
@@ -10241,14 +7344,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rb-net.com
 0.0.0.0 rotator.trafficstars.com
 0.0.0.0 ads.xhamster.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 m2.xhamster.com
-0.0.0.0 partners.xhamster.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # [AdvertPro][Renegade Internet]
 0.0.0.0 aalbc.advertserve.com
 0.0.0.0 cdn.advertserve.com
@@ -10553,7 +7648,6 @@ fe80::1%lo0 localhost
 0.0.0.0 e35fbf.t.axf8.net
 0.0.0.0 www.bkrtx.com
 0.0.0.0 i.l.cnn.net
-0.0.0.0 c.compete.com
 0.0.0.0 dsa.csdata1.com
 0.0.0.0 cdn.demdex.net
 0.0.0.0 fast.bostonglobe.demdex.net
@@ -10609,13 +7703,6 @@ fe80::1%lo0 localhost
 0.0.0.0 citi.bridgetrack.com.edgesuite.net
 0.0.0.0 content.yieldmanager.edgesuite.net
 0.0.0.0 fastclick.com.edgesuite.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 akatracking.esearchvision.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 cdn.springboard.gorillanation.com
 0.0.0.0 cdn.triggertag.gorillanation.com
 0.0.0.0 static.inviziads.com
@@ -10641,14 +7728,6 @@ fe80::1%lo0 localhost
 # [Alchemy / Computer Solutions][AS7296][208.118.54.0 - 208.118.54.255]
 0.0.0.0 www.software-hq.net
 # [Alchemy / Tagworld][AS7296][208.76.216.0 - 208.76.219.255]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.flux.com
-0.0.0.0 t.flux.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # [Alchemy][AS7296][209.132.192.0 - 209.132.255.255]
 0.0.0.0 zedoadservices.com
 # [Alibaba][AS37963][115.124.16.0 - 115.124.31.255]
@@ -10774,13 +7853,6 @@ fe80::1%lo0 localhost
 0.0.0.0 b.ensighten.com
 # 0.0.0.0 nexus.ensighten.com #[affects Subaru / Staples]
 0.0.0.0 cs.exitmonitor.com
-<<<<<<< HEAD
-0.0.0.0 ads.good.is
-<<<<<<< HEAD
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 g2.gumgum.com
 0.0.0.0 stack9.collect.igodigital.com
 0.0.0.0 wenner.collect.igodigital.com
@@ -10798,21 +7870,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.reelcentric.com
 0.0.0.0 rivasearchpage.com
 0.0.0.0 tap.rubiconproject.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
-0.0.0.0 ad.sharethis.com
-0.0.0.0 r.sharethis.com
 0.0.0.0 smaato.net
-0.0.0.0 ads2.smowtion.com
-<<<<<<< HEAD
-=======
-0.0.0.0 l.sharethis.com
-0.0.0.0 smaato.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 socialspark.com
 0.0.0.0 req.tidaltv.com
 0.0.0.0 redirect.tracking202.com
@@ -10981,20 +8039,11 @@ fe80::1%lo0 localhost
 0.0.0.0 7209235.collect.igodigital.com
 0.0.0.0 nova.collect.igodigital.com
 0.0.0.0 app.passionfruitads.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
-0.0.0.0 ads.publish2.com
-=======
-0.0.0.0 t.pswec.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
 0.0.0.0 img.pulsemgr.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 load.scanscout.com
 0.0.0.0 receive.inplay.scanscout.com
 0.0.0.0 www.sendori.com
-0.0.0.0 analytics.shareaholic.com
 0.0.0.0 cm.shareaholic.com
 0.0.0.0 affiliate.techstats.net
 0.0.0.0 s.thebrighttag.com
@@ -11079,13 +8128,6 @@ fe80::1%lo0 localhost
 0.0.0.0 script.opentracker.net
 0.0.0.0 server1.opentracker.net
 0.0.0.0 server10.opentracker.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 log.optimizely.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ntracking.optimatic.com
 0.0.0.0 stats.pagefair.com
 0.0.0.0 ads.pe.com
@@ -11105,13 +8147,6 @@ fe80::1%lo0 localhost
 0.0.0.0 beacon.videoegg.com
 # 0.0.0.0 idvisitor.washingtonpost.com #[affects login]
 0.0.0.0 analytics.wishabi.ca
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 track.written.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.wtp101.com
 0.0.0.0 zdbb.net
 # [Amazon.com][AS14618][52.0.0.0 - 52.31.255.255]
@@ -11158,21 +8193,11 @@ fe80::1%lo0 localhost
 0.0.0.0 t.zqtk.net
 # [Amazon.com][AS14618][52.32.0.0 - 52.79.255.255]
 0.0.0.0 pool.admedo.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 www.hostbodytower.com
-0.0.0.0 afftracking.justanswer.com
-=======
 0.0.0.0 fastnclick.com
 0.0.0.0 www.hostbodytower.com
 0.0.0.0 afftracking.justanswer.com
 # [Amazon.com][AS14618][52.84.0.0 - 52.95.255.255]
 0.0.0.0 worldsearchpro.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 www.hostbodytower.com
-0.0.0.0 afftracking.justanswer.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # [Amazon.com][AS14618][54.144.0.0 - 54.159.255.255]
 0.0.0.0 t.adk2.com
 0.0.0.0 adrzr.com
@@ -11199,13 +8224,6 @@ fe80::1%lo0 localhost
 0.0.0.0 trax.prostrax.com
 0.0.0.0 p.pxl2015x1.com
 0.0.0.0 trends.revcontent.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 beacon.sojern.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 srv.stackadapt.com
 0.0.0.0 tar.tradedoubler.com
 0.0.0.0 n9bcd.ads.tremorhub.com
@@ -11281,15 +8299,6 @@ fe80::1%lo0 localhost
 0.0.0.0 a.centrum.cz
 0.0.0.0 chosurvey.net
 0.0.0.0 click.clktraker.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 ad.cpmaxads.com
-=======
-0.0.0.0 stats.cloudwp.io
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 ad.cpmaxads.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.creative-serving.com
 0.0.0.0 bostonglobe.demdex.net
 0.0.0.0 ford.demdex.net
@@ -11347,13 +8356,6 @@ fe80::1%lo0 localhost
 0.0.0.0 static.adsnative.com
 0.0.0.0 files.adspdbl.com
 0.0.0.0 js.adsrvr.org
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 data.alexa.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
@@ -11464,14 +8466,6 @@ fe80::1%lo0 localhost
 0.0.0.0 zdbb.netshelter.net
 0.0.0.0 mix-test.uts.ngdata.com
 0.0.0.0 eu.npario-inc.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 meter-svc.nytimes.com
-0.0.0.0 ninja.onap.io
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 cdn.onscroll.com
 0.0.0.0 vast.optimatic.com
 0.0.0.0 pagefair.com
@@ -11510,15 +8504,7 @@ fe80::1%lo0 localhost
 0.0.0.0 analytics.userreport.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 sdscdn.userreport.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
-0.0.0.0 delivery.vidible.tv
-=======
-0.0.0.0 tracking.rce.veeseo.com
 # 0.0.0.0 delivery.vidible.tv #[affects aol.com]
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
 0.0.0.0 wsc1.webspectator.com
 0.0.0.0 zafiti01.webtrekk-us.net
 0.0.0.0 triggers.wfxtriggers.com
@@ -11588,13 +8574,6 @@ fe80::1%lo0 localhost
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 load.passionfruitads.com
 0.0.0.0 h.ppjol.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 traffic.pubexchange.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.qadservice.com
 0.0.0.0 www.qualitysoftware13.com
 0.0.0.0 orca.qubitproducts.com
@@ -11612,13 +8591,6 @@ fe80::1%lo0 localhost
 0.0.0.0 scripts.webspectator.com
 0.0.0.0 osc.optimize.webtrends.com
 0.0.0.0 a.wishabi.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 track.youniversalmedia.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 axp.zedo.com
 0.0.0.0 geo.ziffdavis.com
 # [Amazon.com][AS16509][54.64.0.0 - 54.71.255.255]
@@ -11637,15 +8609,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tracking.crobo.com
 0.0.0.0 comcast.demdex.net
 0.0.0.0 ecs.demdex.net
-<<<<<<< HEAD
-0.0.0.0 get.ddlmediaus1000.info
-<<<<<<< HEAD
-=======
-0.0.0.0 collector.githubapp.com
-0.0.0.0 geobeacon.ign.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 mmtrkpy.com
 0.0.0.0 api.optinmonster.com
 0.0.0.0 t01.proximic.com
@@ -11685,14 +8648,6 @@ fe80::1%lo0 localhost
 0.0.0.0 dl.keywordstrategy.org
 0.0.0.0 media.opencandy.com
 0.0.0.0 asset.pagefair.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 ads.smowtion.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 ads.smowtion.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 pixel.tapad.com
 0.0.0.0 beacon.tunecore.com
 # [Amazon.com][AS14618][72.44.32.0 - 72.44.63.255]
@@ -11847,13 +8802,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ng3.ads.warnerbros.com
 # [Apa-it][AS5403][194.232.105.0 - 194.232.105.255]
 0.0.0.0 1000ps.oewabox.at
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tracking.kurier.at
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 atvplus.oewabox.at
 0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 oe24.oewabox.at
@@ -12146,7 +9094,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads1.theglobeandmail.com
 0.0.0.0 ecestats.theglobeandmail.com
 0.0.0.0 ece5stats1.theglobeandmail.com
-0.0.0.0 visit.theglobeandmail.com
 0.0.0.0 www1.theglobeandmail.com
 # [Bellona][AS3.343][193.107.164.0 - 193.107.167.255]
 0.0.0.0 active.hit.stat24.com
@@ -12219,7 +9166,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad5.bigmir.net
 0.0.0.0 ad6.bigmir.net
 0.0.0.0 adi.bigmir.net
-0.0.0.0 c.bigmir.net
 0.0.0.0 i.bigmir.net
 # [Bigness Group][AS49093][195.88.190.0 - 195.88.191.255]
 # [Big Pipe][AS6327][74.3.128.0 - 74.3.191.255]
@@ -12244,13 +9190,6 @@ fe80::1%lo0 localhost
 # [Blue Gravity][AS15171][64.255.0.0 - 64.255.63.255]
 0.0.0.0 www.bigpenisguide.com
 0.0.0.0 fastwebcounter.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.ozwebsites.biz
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # [Bluehost][AS11798][66.147.240.0 - 66.147.255.255]
 # [Bluehost][AS11798][69.89.16.0 - 69.89.31.255]
 # [Bluehost][74.220.192.0 - 74.220.223.255]
@@ -12629,13 +9568,6 @@ fe80::1%lo0 localhost
 0.0.0.0 as.pmates.com
 0.0.0.0 ads.sextvx.com
 0.0.0.0 banners.videosz.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 feeds.videosz.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # [Choopa][AS20473][209.222.0.0 - 209.222.31.255]
 0.0.0.0 ab.goodsblock.dt07.net
 0.0.0.0 jsg.dt07.net
@@ -12647,15 +9579,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.freepornsubmits.com
 0.0.0.0 ilovecheating.com
 0.0.0.0 ads.redtube.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.slutload.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 banners.thirdmovies.com
-0.0.0.0 ads.videosz.com
 0.0.0.0 adserver.weakgame.com
 0.0.0.0 xfuckbook.com
 0.0.0.0 404.xxxymovies.com
@@ -12724,18 +9648,9 @@ fe80::1%lo0 localhost
 # [ClearBlue][AS5067][AS5061][204.168.0.0 - 204.168.255.255]
 # [Clickability][AS14393][208.80.56.0 - 208.80.59.255]
 0.0.0.0 button.clickability.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 cas.clickability.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 imp.clickability.com
 0.0.0.0 ri.clickability.com
-0.0.0.0 s.clickability.com
 0.0.0.0 sftp.clickability.com
-0.0.0.0 stats.clickability.com
 # [Cloudflare][AS13335][104.16.0.0 - 104.31.255.255]
 0.0.0.0 cdn.adbrau.com
 0.0.0.0 cdn3.adbrau.com
@@ -12757,13 +9672,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ssl.mousestats.com
 0.0.0.0 multioptik.com
 0.0.0.0 neki.org
-<<<<<<< HEAD
-0.0.0.0 www.objectity.info
-<<<<<<< HEAD
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.objectopoly.info
 0.0.0.0 opensoftwareupdater.com
 0.0.0.0 mh.pip-pip-pop.com
@@ -12846,13 +9754,6 @@ fe80::1%lo0 localhost
 0.0.0.0 0iecfobt.com
 0.0.0.0 www.adhexa.com
 0.0.0.0 adprovider.adlure.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 geoservice.curse.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ems2bmen.com
 0.0.0.0 m57ku6sm.com
 0.0.0.0 pixxur.com
@@ -12969,13 +9870,6 @@ fe80::1%lo0 localhost
 0.0.0.0 acuityplatform.com
 0.0.0.0 click-west.acuityplatform.com
 0.0.0.0 serve-east.acuityplatform.com
-<<<<<<< HEAD
-0.0.0.0 tracker.banned-celebpics.com
-<<<<<<< HEAD
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 counter.bizland.com
 0.0.0.0 v.bsvideos.com
 0.0.0.0 hfm.checkm8.com
@@ -12993,13 +9887,6 @@ fe80::1%lo0 localhost
 0.0.0.0 click.linkstattrack.com
 0.0.0.0 ads.lzjl.com
 0.0.0.0 www.lzjl.com
-<<<<<<< HEAD
-0.0.0.0 ads.movieflix.com
-<<<<<<< HEAD
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.newgrounds.com
 0.0.0.0 www.ngads.com
 0.0.0.0 adimg.ngfiles.com
@@ -13031,13 +9918,6 @@ fe80::1%lo0 localhost
 0.0.0.0 imgc.psychcentral.com
 # [Coloc8][AS33536][64.128.87.0 - 64.128.87.255]
 0.0.0.0 clickbank.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 hop.clickbank.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 zzz.clickbank.net
 # [Colocall][AS15497][31.28.161.16 - 31.28.161.31]
 0.0.0.0 ua.adriver.ru
@@ -13057,14 +9937,6 @@ fe80::1%lo0 localhost
 # [Colo-cation][AS11110][66.244.144.0 - 66.244.159.255]
 0.0.0.0 ads.juicyads.com
 0.0.0.0 adserver.juicyads.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 fill.juicyads.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 fill.juicyads.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 mobile.juicyads.com
 0.0.0.0 redir.juicyads.com
 0.0.0.0 xapi.juicyads.com
@@ -13299,13 +10171,6 @@ fe80::1%lo0 localhost
 0.0.0.0 extended.dmtracker.com
 0.0.0.0 video.dmtracker.com
 0.0.0.0 vs.dmtracker.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 beacon.ehow.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.i-am-bored.com
 # [DemandMedia / Enom Incorporated][98.124.192.0 - 98.124.255.255]
 0.0.0.0 beacon.cracked.com
@@ -13402,16 +10267,8 @@ fe80::1%lo0 localhost
 # [Disney Company][ABC News][INFOSEEK]
 # 127.0.0.1  hb.disney.go.com #[disabled affects links]
 0.0.0.0 seavideo-ak.espn.go.com
-0.0.0.0 adsatt.abcnews.starwave.com
 0.0.0.0 adsatt.disney.starwave.com
 0.0.0.0 adsatt.espn.go.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 adsatt.espn.starwave.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adsatt.familyfun.starwave.com
 0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 adsatt.movies.starwave.com
@@ -13604,13 +10461,6 @@ fe80::1%lo0 localhost
 0.0.0.0 landingpages.sunnytoolz.com
 # [Euroaccess][AS34305][85.12.0.0 - 85.12.63.255]
 0.0.0.0 ads.guru3d.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 banner1.pornhost.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # [Eurocolo][AS35230][83.143.168.0 - 83.143.175.255]
 0.0.0.0 ad3.hornymatches.com
 # [Eurohost][AS48841][91.212.65.0 - 91.212.65.255]
@@ -13640,17 +10490,7 @@ fe80::1%lo0 localhost
 0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creative.ak.fbcdn.net
 # [Facebook][AS32934][31.13.71.0 - 31.13.71.255]
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 cdn.atlassbx.com
-=======
-0.0.0.0 cx.atdmt.com
-0.0.0.0 cdn.atlassbx.com
-0.0.0.0 pixel.facebook.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 cdn.atlassbx.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # [Fasthosts][AS15418][77.68.32.0 - 77.68.63.255]
 0.0.0.0 ads.skupe.net
 # [Fasthosts][AS15418][88.208.228.0 - 88.208.251.255]
@@ -13698,13 +10538,6 @@ fe80::1%lo0 localhost
 # [Fox Interactive Media / News Corp]
 0.0.0.0 ads.americanidol.com
 0.0.0.0 ads.ign.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 nb.myspace.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 t.snowball.com
 # [Fox Interactive / MySpace][216.178.32.0 - 216.178.47.255]
 0.0.0.0 fimserve.askmen.com
@@ -13788,7 +10621,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 cover9.adultfriendfinder.com
-0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 guest.adultfriendfinder.com
 0.0.0.0 iframe.adultfriendfinder.com
 0.0.0.0 option9.adultfriendfinder.com
@@ -13805,23 +10637,9 @@ fe80::1%lo0 localhost
 0.0.0.0 banners.bookofsex.com
 0.0.0.0 ads.breakthru.com
 0.0.0.0 adserver.cams.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 promo.cams.com
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 banners.friendfinder.com
-=======
-0.0.0.0 banners.cams.com
-0.0.0.0 promo.cams.com
-0.0.0.0 adserver.friendfinder.com
-0.0.0.0 banners.friendfinder.com
-0.0.0.0 geobanner.friendfinder.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 promo.cams.com
-0.0.0.0 adserver.friendfinder.com
-0.0.0.0 banners.friendfinder.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 openads.friendfinder.com
 0.0.0.0 banners.fuckbookhookups.com
 0.0.0.0 banners.gayfriendfinder.com
@@ -13840,13 +10658,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adserver.passion.com
 0.0.0.0 banner.passion.com
 0.0.0.0 banners.passion.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 geobanner.passion.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adserver.penthouse.com
 0.0.0.0 banners.penthouse.com
 0.0.0.0 adserver.seniorfriendfinder.com
@@ -13859,14 +10670,6 @@ fe80::1%lo0 localhost
 0.0.0.0 banners.swapfinder.com
 0.0.0.0 free.thesocialsexnetwork.com
 # [Ft-usei-est][AS3215][194.206.163.0 - 194.206.163.255]
-<<<<<<< HEAD
-0.0.0.0 ad.bubblestat.com
-0.0.0.0 in.bubblestat.com
-0.0.0.0 www2.click-fr.com
-0.0.0.0 www3.click-fr.com
-0.0.0.0 www4.click-fr.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
 # [Fusepoint][AS16941][216.176.48.0 - 216.176.63.255]
 # [Fusepoint][AS16941][72.35.0.0 - 72.35.31.255]
 0.0.0.0 media.foundry42.com
@@ -14205,13 +11008,7 @@ fe80::1%lo0 localhost
 0.0.0.0 errorkillers.net
 0.0.0.0 highpro1.com
 # [Google][AS15169][104.154.0.0 - 104.199.255.255]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 adexchangeprediction.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 babanetwork.adk2x.com
 0.0.0.0 clic2pub.adk2x.com
 0.0.0.0 hlamedia.adk2x.com
@@ -14219,13 +11016,7 @@ fe80::1%lo0 localhost
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 pureadexchange.com
 0.0.0.0 www.pureadexchange.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 pwrfcia.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.tradeadexchange.com
 # [Google][AS15169][107.178.192.0 - 107.178.255.255]
 0.0.0.0 trackers.adtarget.me
@@ -14337,13 +11128,6 @@ fe80::1%lo0 localhost
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 s2.video.doubleclick.net
 0.0.0.0 static.doubleclick.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 survey.g.doubleclick.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 doubleclick.ne.jp
 0.0.0.0 www3.doubleclick.net
 0.0.0.0 www.doubleclick.net
@@ -14378,10 +11162,8 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.bg.doubleclick.net
 0.0.0.0 4360661.fls.doubleclick.net
 0.0.0.0 4488352.fls.doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 fls.au.doubleclick.net
 0.0.0.0 www.doubleclickbygoogle.com
-0.0.0.0 video-stats.video.google.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 4.afs.googleadservices.com
@@ -14396,7 +11178,6 @@ fe80::1%lo0 localhost
 0.0.0.0 web.acumenpi.com
 0.0.0.0 ads.bloodhorse.com
 0.0.0.0 st.magnify.net
-0.0.0.0 stats.magnify.net
 0.0.0.0 ads.thehorse.com
 # [Grafix Internet][AS16131][84.243.192.0 - 84.243.255.255]
 # [GTS Nextra / Etargetsh-ba][AS5578][195.168.10.128 - 195.168.10.255]
@@ -14497,13 +11278,6 @@ fe80::1%lo0 localhost
 0.0.0.0 s300.meetrics.net
 0.0.0.0 wh.motorpresse-statistik.de
 0.0.0.0 js.smi2.ru
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 target.smi2.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stats.virtuemart.net
 # [Hetzner][78.46.0.0 - 78.47.255.255]
 0.0.0.0 park.beenetworks.net
@@ -14618,13 +11392,6 @@ fe80::1%lo0 localhost
 0.0.0.0 media.brandreachsys.com
 0.0.0.0 clicks.equantum.com
 0.0.0.0 adb.fling.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 br.fling.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 track.fling.com
 0.0.0.0 kaizentraffic.com
 0.0.0.0 br.meetlocals.com
@@ -14638,7 +11405,6 @@ fe80::1%lo0 localhost
 0.0.0.0 track.realitykings.com
 0.0.0.0 br.rk.com
 # [Hosting Consulting / Global Personals][208.91.207.0 - 208.91.207.255]
-0.0.0.0 promos.fling.com
 0.0.0.0 promos.meetlocals.com
 0.0.0.0 gallysorig.nastydollars.com
 0.0.0.0 grab.nastydollars.com
@@ -14650,13 +11416,6 @@ fe80::1%lo0 localhost
 # [Hosting Centre][AS41126][89.111.176.0 - 89.111.176.31]
 # [Hosting Ltd][AS13147][87.120.40.0 - 87.120.41.255]
 0.0.0.0 ads.blitz.bg
-<<<<<<< HEAD
-0.0.0.0 ads.den.bg
-<<<<<<< HEAD
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 b.grabo.bg
 0.0.0.0 ads.hobyto.com
 0.0.0.0 ads.popfolkstars.com
@@ -14787,13 +11546,6 @@ fe80::1%lo0 localhost
 # [Hunt Brothers / Parked.com][AS32592][69.46.224.0 - 69.46.239.255]
 0.0.0.0 banners.directnic.com
 0.0.0.0 dnads.directnic.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.directnic.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.directnicparking.com
 0.0.0.0 images.parked.com
 0.0.0.0 www.searchnut.com
@@ -15186,13 +11938,6 @@ fe80::1%lo0 localhost
 0.0.0.0 pix01.revsci.net
 0.0.0.0 pix03.revsci.net
 0.0.0.0 pix04.revsci.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 revsci.tvguide.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # [Internap / Adify][74.217.212.0 - 74.217.212.255]
 0.0.0.0 ad.afy11.net
 0.0.0.0 beacon.afy11.net
@@ -15320,13 +12065,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.singlesadnetwork.com
 0.0.0.0 mf.sitescout.com
 0.0.0.0 reboot.sitescout.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
-0.0.0.0 revcontent.sitescout.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
 0.0.0.0 vom.sitescout.com
 0.0.0.0 wam-ads.sitescout.com
 0.0.0.0 monk.sitescoutadserver.com
@@ -15357,13 +12095,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adsgen.bangbros.com
 0.0.0.0 adsrv.bangbros.com
 0.0.0.0 newads.bangbros.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tck.bangbros.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 tracking.craktraffic.com
 0.0.0.0 www.fuckbookdating.com
 0.0.0.0 webmasters.h2porn.com
@@ -15475,7 +12206,6 @@ fe80::1%lo0 localhost
 0.0.0.0 iframes.awempire.com
 0.0.0.0 promo.awempire.com
 0.0.0.0 static.awempire.com
-0.0.0.0 creatives.livejasmin.com
 0.0.0.0 live-cams-0.livejasmin.com
 0.0.0.0 live-cams-1.livejasmin.com
 0.0.0.0 static.creatives.livejasmin.com
@@ -15667,13 +12397,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.itmcash.com
 0.0.0.0 s6.lebenna.com
 0.0.0.0 linktarget.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
-0.0.0.0 lw.lnkworld.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
 0.0.0.0 mymediadownloadseighteen.com
 0.0.0.0 mymediadownloadsseventeen.com
 0.0.0.0 wwa.pacific-yield.com
@@ -15853,7 +12576,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 demoq.use-trade.com
 0.0.0.0 ads2.vortexmediagroup.com
-0.0.0.0 richmedia.yimg.com
 # [Level3 / Joyent][8.17.168.0 - 8.17.171.255]
 # [Lightningcast][AS32288][216.52.117.0 - 216.52.117.255]
 # [Lightstorm Communications][AS42005][92.240.234.0 - 92.240.237.255]
@@ -16193,13 +12915,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.deepmetrix.com
 0.0.0.0 adsyndication.msn.com
 0.0.0.0 c.no.msn.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 log.newsvine.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 c.ninemsn.com.au
 # [Microsoft][AS8075][23.96.0.0 - 23.103.255.255]
 0.0.0.0 e3.adpushup.com
@@ -16218,7 +12933,6 @@ fe80::1%lo0 localhost
 0.0.0.0 analytics.breakingnews.com
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 databroker-us.coremotives.com
-0.0.0.0 analytics.live.com
 0.0.0.0 digg.analytics.live.com
 0.0.0.0 madserver.net
 0.0.0.0 analytics.microsoft.com
@@ -16229,7 +12943,6 @@ fe80::1%lo0 localhost
 0.0.0.0 analytics.msn.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 images.adsyndication.msn.com
-0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 arc2.msn.com
 0.0.0.0 arc3.msn.com
 0.0.0.0 arc9.msn.com
@@ -16403,15 +13116,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tracking.opienetwork.com
 # [Net2ez][AS558][72.172.64.0 - 72.172.95.255]
 0.0.0.0 www.adminder.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 analytics.atomiconline.com
-0.0.0.0 widget.crowdignite.com
-0.0.0.0 geo.gorillanation.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 cms.springboard.gorillanation.com
 # [Net Access][AS8001][173.255.192.0 - 173.255.255.255]
 0.0.0.0 stats.thoughtcatalog.com
@@ -16464,7 +13168,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adv.consadbg.com
 # [NetNation][AS14280][64.40.96.0 - 64.40.127.255]
 0.0.0.0 www.revisitors.com
-0.0.0.0 affiliates.thrixxx.com
 0.0.0.0 content.thrixxx.com
 # [Netsaits BV]
 0.0.0.0 cz2.clickzs.com
@@ -16628,14 +13331,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.abqjournal.com
 0.0.0.0 ads.accessnorthga.com
 0.0.0.0 adireland.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 www3.adireland.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 www3.adireland.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.adireland.com
 0.0.0.0 ads.admaxasia.com
 0.0.0.0 ads.albawaba.com
@@ -16643,13 +13338,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.mm.ap.org
 0.0.0.0 adnet.asahi.com
 0.0.0.0 ads.bangkokpost.co.th
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.bbc.co.uk
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 visualscience.external.bbc.co.uk
 0.0.0.0 ads.bcnewsgroup.com
 0.0.0.0 ads.bninews.com
@@ -16692,13 +13380,6 @@ fe80::1%lo0 localhost
 0.0.0.0 klipmart.forbes.com
 0.0.0.0 onset.freedom.com
 0.0.0.0 ads.ft.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 track.ft.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.globalsportsmedia.com
 0.0.0.0 www.gcmadvertising.com
 0.0.0.0 ads.grupozeta.es
@@ -16717,7 +13398,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.indiads.com
 0.0.0.0 ads.indiatimes.com
 0.0.0.0 adscontent2.indiatimes.com
-0.0.0.0 adstil.indiatimes.com
 0.0.0.0 netspiderads.indiatimes.com
 0.0.0.0 netspiderads2.indiatimes.com
 0.0.0.0 netspiderads3.indiatimes.com
@@ -16729,13 +13409,6 @@ fe80::1%lo0 localhost
 0.0.0.0 oas.mainetoday.com
 0.0.0.0 utils.media-general.com
 0.0.0.0 ads.mgnetwork.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tracking.military.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.mirror.co.uk
 0.0.0.0 ads1.moneycontrol.com
 0.0.0.0 partners.cfl.mybrighthouse.com
@@ -16749,13 +13422,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.northjersey.com
 0.0.0.0 adserver.nydailynews.com
 0.0.0.0 ads.nytimes.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 up.nytimes.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 rm.ocregister.com
 0.0.0.0 ads.online.ie
 0.0.0.0 ads.pagina12.com.ar
@@ -16764,13 +13430,6 @@ fe80::1%lo0 localhost
 0.0.0.0 webtrends.randallpub.com
 0.0.0.0 bst.reedbusiness.com
 0.0.0.0 oas.roanoke.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
-0.0.0.0 adman.rep-am.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
 0.0.0.0 ads.rttnews.com
 0.0.0.0 ads.ruralpress.com
 0.0.0.0 maxads.ruralpress.com
@@ -16796,13 +13455,6 @@ fe80::1%lo0 localhost
 0.0.0.0 mercury.tiser.com.au
 0.0.0.0 ads.townhall.com
 0.0.0.0 adsys.townnews.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.townnews.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.trackentertainment.com
 0.0.0.0 ads.victoriaadvocate.com
 0.0.0.0 ads2.victoriaadvocate.com
@@ -16815,33 +13467,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.advance.net
 0.0.0.0 ads.al.com
 0.0.0.0 ads.cleveland.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 geoip.cleveland.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-0.0.0.0 ads.gulflive.com
-0.0.0.0 ads.lehighvalleylive.com
-0.0.0.0 ads.masslive.com
-<<<<<<< HEAD
-0.0.0.0 ads.mlive.com
-0.0.0.0 science.mlive.com
-0.0.0.0 ads.nj.com
-0.0.0.0 ads.nola.com
-0.0.0.0 ads.oregonlive.com
-=======
-0.0.0.0 geoip.masslive.com
-0.0.0.0 ads.mlive.com
-0.0.0.0 geoip.mlive.com
-0.0.0.0 science.mlive.com
-0.0.0.0 ads.nj.com
-0.0.0.0 geoip.nj.com
-0.0.0.0 ads.nola.com
-0.0.0.0 geoip.nola.com
-0.0.0.0 ads.oregonlive.com
-0.0.0.0 geoip.oregonlive.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
 0.0.0.0 ads.gulflive.com
 0.0.0.0 ads.lehighvalleylive.com
 0.0.0.0 ads.masslive.com
@@ -16850,7 +13475,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.nj.com
 0.0.0.0 ads.nola.com
 0.0.0.0 ads.oregonlive.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.pennlive.com
 0.0.0.0 ads.silive.com
 0.0.0.0 ads.syracuse.com
@@ -16865,13 +13489,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.belointeractive.com
 # [Misc News via Clear Channel][207.230.128.0 - 207.230.159.255]
 0.0.0.0 ads4.clearchannel.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 dart.clearchannel.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 w10.centralmediaserver.com
 # [Misc News via Gannett Media / USA Today][159.54.0.0 - 159.54.255.255]
 0.0.0.0 atpco.ur.gcion.com
@@ -17033,13 +13650,7 @@ fe80::1%lo0 localhost
 0.0.0.0 track.homestead.com
 0.0.0.0 track2.homestead.com
 # [Ntt America][209.207.128.0 - 209.207.255.255]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 shareasale.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.shareasale.com
 # [Ntt America][83.231.216.128 - 83.231.216.255]
 0.0.0.0 ads.boursorama.com
@@ -17109,7 +13720,6 @@ fe80::1%lo0 localhost
 # [Oc3 Networks][AS29761][173.254.192.0 - 173.254.255.255]
 # [Oc3 Networks][AS29761][204.152.192.0 - 204.152.223.255]
 0.0.0.0 counter.dt07.net
-0.0.0.0 ads.xxxbunker.com
 # [Oc3 Networks][AS29761][72.11.128.0 - 72.11.159.255]
 0.0.0.0 blue.sexer.com
 0.0.0.0 hello.sexer.com
@@ -18204,13 +14814,6 @@ fe80::1%lo0 localhost
 0.0.0.0 stats.cartoonnetwork.com
 0.0.0.0 omni.cash.ch
 0.0.0.0 metrics.cbc.ca
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 om.cbsi.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 mtrics.cdc.gov
 0.0.0.0 metrics.centex.com
 0.0.0.0 metrics.chacha.com
@@ -18220,13 +14823,6 @@ fe80::1%lo0 localhost
 # 0.0.0.0 metrics1.citibank.com #[affects login]
 0.0.0.0 om.cnet.co.uk
 0.0.0.0 metrics.cleveland.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 metrics.cnn.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 track.collegeboard.com
 0.0.0.0 serviceo.comcast.net
 0.0.0.0 metrics.compactappliance.com
@@ -18241,18 +14837,8 @@ fe80::1%lo0 localhost
 0.0.0.0 omni.csc.com
 0.0.0.0 metrics.csmonitor.com
 0.0.0.0 metrics.ctv.ca
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 metrics.dailystrength.org
 0.0.0.0 metrics.dallasnews.com
-0.0.0.0 metrics.delias.com
-=======
-0.0.0.0 metrics.dailymotion.com
-0.0.0.0 metrics.dailystrength.org
-0.0.0.0 metrics.dallasnews.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
 0.0.0.0 nsm.dell.com
 0.0.0.0 metrics.delta.com
 0.0.0.0 metrics.dentonrc.com
@@ -18417,13 +15003,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tgd.timesonline.co.uk
 # 0.0.0.0 metric.timewarnercable.com #[affects billing?]
 0.0.0.0 metrics.tlc.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 metrics.toptenreviews.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 metrics.toyota.com
 0.0.0.0 metrics.toysrus.com
 0.0.0.0 metrics.traderonline.com
@@ -18432,13 +15011,6 @@ fe80::1%lo0 localhost
 0.0.0.0 metrics.tulsaworld.com
 0.0.0.0 metrics.turner.com
 0.0.0.0 metrics.tvguide.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 metrics.uol.com.br
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stats2.vanityfair.com
 0.0.0.0 sleep.vermontteddybear.com
 0.0.0.0 metrics.vividseats.com
@@ -18584,17 +15156,9 @@ fe80::1%lo0 localhost
 0.0.0.0 ox-d.mmaadnet.com
 0.0.0.0 ox-d.motogp.com
 0.0.0.0 ox-d.officer.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 bid.openx.net
-=======
 0.0.0.0 aa-d.openx.net
 0.0.0.0 bid.openx.net
 0.0.0.0 funnyordie-d.openx.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 bid.openx.net
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 prod-d.openx.com
 0.0.0.0 u.openx.net
 0.0.0.0 uk-ads.openx.net
@@ -18626,13 +15190,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adserv.bulletinmarketing.com
 0.0.0.0 addelivery.thestreet.com
 0.0.0.0 us-ads.openx.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 a.unanimis.co.uk
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ox-d.verivox.de
 0.0.0.0 ox-d.viralnova.com
 0.0.0.0 ox-d.wahwahnetworks.com
@@ -18728,13 +15285,7 @@ fe80::1%lo0 localhost
 0.0.0.0 creativecdn.com
 0.0.0.0 www.efficienttraffic.com
 0.0.0.0 adserver.magazyn.pl
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 c1.onedmp.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 banners.oxiads.fr
 0.0.0.0 aff.tagcdn.com
 # [Ovh Sas][AS16276][188.165.192.0 - 188.165.255.255]
@@ -18870,7 +15421,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cdn.media6degrees.com
 0.0.0.0 static.meteorsolutions.com
 0.0.0.0 tas.orangeads.fr
-0.0.0.0 bannershotlink.perfectgonzo.com
 0.0.0.0 iframes.perfectgonzo.com
 0.0.0.0 pluginx.perfectgonzo.com
 0.0.0.0 cache.specificmedia.com
@@ -19015,13 +15565,6 @@ fe80::1%lo0 localhost
 0.0.0.0 frtya.com
 0.0.0.0 geo.hyperlinksecure.com
 0.0.0.0 ads.linuxjournal.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.polldaddy.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 geo.safelinktracker.com
 0.0.0.0 www.safemobilelink.com
 0.0.0.0 seethisinaction.com
@@ -19029,7 +15572,6 @@ fe80::1%lo0 localhost
 0.0.0.0 topqualitylink.com
 0.0.0.0 www.webmoblink.com
 0.0.0.0 botd.wordpress.com
-0.0.0.0 stats.wordpress.com
 # [Peer 1][AS13768][83.222.232.69 - 83.222.232.69]
 0.0.0.0 top100italiana.com
 # [Pegasus / Fortressitx][AS25653][208.116.0.0 - 208.116.63.255]
@@ -19363,7 +15905,6 @@ fe80::1%lo0 localhost
 0.0.0.0 track.ionicmedia.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 live.monitus.net
-0.0.0.0 log.olark.com
 0.0.0.0 thesearchagency.net
 # [Rackspace.com][AS33070][174.143.0.0 - 174.143.255.255]
 0.0.0.0 adx.bixee.com
@@ -19440,13 +15981,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.web-stat.com
 0.0.0.0 seomatrix.webtrackingservices.com
 # [Rackspace.com][67.192.0.0 - 67.192.255.255]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 actrck.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.adfusion.com
 0.0.0.0 adreadytractions.com
 0.0.0.0 www.adversalservers.com
@@ -19509,7 +16044,6 @@ fe80::1%lo0 localhost
 0.0.0.0 track.childrensalon.com
 # [Rackspace.com][AS15395][83.138.128.0 - 83.138.191.255]
 0.0.0.0 adserver.powerlinks.com
-0.0.0.0 track.webgains.com
 # [Rackspace / IP Space][AS15395][89.234.32.248 - 89.234.32.255]
 0.0.0.0 ads.adhsm.adhese.com
 0.0.0.0 ads.nrc.adhese.com
@@ -19541,16 +16075,8 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.radiatemedia.com
 0.0.0.0 www.silver-path.com
 # [Rambler][AS24638][81.19.70.0 -  81.19.70.255]
-0.0.0.0 ad.rambler.ru
 0.0.0.0 ad2.rambler.ru
 0.0.0.0 ad3.rambler.ru
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 counter.rambler.ru
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # 0.0.0.0  id.rambler.ru #[affects Rambler email]
 0.0.0.0 images.rambler.ru
 0.0.0.0 info-images.rambler.ru
@@ -19709,13 +16235,6 @@ fe80::1%lo0 localhost
 0.0.0.0 aa.oasfile.aftenposten.no
 0.0.0.0 ap.oasfile.aftenposten.no
 0.0.0.0 adcache.aftenposten.no
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 webhit.aftenposten.no
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 helios.finn.no
 # [SecurePrivateNetwork / OC3 Networks][204.152.192.0 - 204.152.223.255]
 0.0.0.0 s05.flagcounter.com
@@ -19819,7 +16338,6 @@ fe80::1%lo0 localhost
 0.0.0.0 vizisense.net
 # [ServePath][AS26228][74.3.192.0 - 74.3.255.255]
 # [Server Central Network][AS23352][204.93.128.0 - 204.93.255.255]
-0.0.0.0 beacon-1.newrelic.com
 0.0.0.0 beacon-2.newrelic.com
 0.0.0.0 beacon-3.newrelic.com
 0.0.0.0 beacon-4.newrelic.com
@@ -20001,7 +16519,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.photosight.ru
 0.0.0.0 ad.yadro.ru
 0.0.0.0 ads.yadro.ru
-0.0.0.0 counter.yadro.ru
 0.0.0.0 sticker.yadro.ru
 # [Sky-Media / Ooo Medialand][AS39134][88.212.200.0 - 88.212.200.127]
 0.0.0.0 100-100.ru
@@ -20050,7 +16567,6 @@ fe80::1%lo0 localhost
 # [Softlayer][AS36351][108.167.128.0 - 108.168.255.255]
 0.0.0.0 www.adforgames.com
 0.0.0.0 clkmon.com
-0.0.0.0 clkrev.com
 0.0.0.0 tag.navdmp.com
 0.0.0.0 device.maxmind.com
 0.0.0.0 rhtag.com
@@ -20132,13 +16648,6 @@ fe80::1%lo0 localhost
 0.0.0.0 a.collective-media.net
 0.0.0.0 b.collective-media.net
 0.0.0.0 www.counters4u.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 odin.goo.mx
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 gostats.com
 0.0.0.0 c1.gostats.com
 0.0.0.0 c2.gostats.com
@@ -20167,7 +16676,6 @@ fe80::1%lo0 localhost
 0.0.0.0 i.simpli.fi
 0.0.0.0 ads.somd.com
 0.0.0.0 www.trafficpace.com
-0.0.0.0 stats.vodpod.com
 # [Softlayer][216.172.160.0 - 216.172.191.255]
 # [Softlayer][AS36351][37.58.82.248 - 37.58.82.255]
 0.0.0.0 service.clicksvenue.com
@@ -20202,7 +16710,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.easyspywarescanner.com
 0.0.0.0 adv.elaana.com
 0.0.0.0 hitstatus.com
-0.0.0.0 hits.informer.com
 0.0.0.0 rt.legolas-media.com
 0.0.0.0 my.mobfox.com
 0.0.0.0 banners.mynakedweb.com
@@ -20372,7 +16879,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cdn.exactag.com
 # [SuperNetwork][AS39392][88.86.96.0 - 88.86.127.255]
 0.0.0.0 link.bannersystem.cz
-0.0.0.0 counter.cnw.cz
 0.0.0.0 counter.prohledat.cz
 0.0.0.0 toplist.cz
 0.0.0.0 www.toplist.cz
@@ -20392,13 +16898,6 @@ fe80::1%lo0 localhost
 # [Swift Ventures][AS25700][204.15.224.192 - 204.15.231.255]
 0.0.0.0 clicks.eutopia.traffictrader.net
 # [Swiftwill][AS30361][146.82.200.0 - 146.82.207.255]
-<<<<<<< HEAD
-0.0.0.0 www.adultdvdhits.com
-<<<<<<< HEAD
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.contentabc.com
 0.0.0.0 banners.dogfart.com
 0.0.0.0 tour.brazzers.com
@@ -20504,7 +17003,6 @@ fe80::1%lo0 localhost
 # [Telecitygroup][AS15830][212.71.236.0 - 212.71.239.255]
 0.0.0.0 adgebra.co.in
 # [Telecitygroup][AS15830][213.52.252.0 - 213.52.255.255]
-0.0.0.0 marketing.888.com
 # [Telecitygroup][AS15830][62.216.253.128 - 62.216.253.255]
 0.0.0.0 platform.communicatorcorp.com
 # [Telecitygroup][AS15830][80.252.92.0 - 80.252.92.63]
@@ -21002,13 +17500,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www2a.sitetracker.com
 0.0.0.0 cyclops.prod.untd.com
 0.0.0.0 nztv.prod.untd.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 track.untd.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 web-counter.5u.com
 # [Upl-net-customers][AS43355][78.108.180.0 - 78.108.184.255]
 0.0.0.0 links-and-traffic.com
@@ -21084,7 +17575,6 @@ fe80::1%lo0 localhost
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 adrotator.com
 0.0.0.0 www.adrotator.com
-0.0.0.0 counter.sparklit.com
 0.0.0.0 vote.sparklit.com
 0.0.0.0 webpoll.sparklit.com
 # [Vdhost Ltd][AS35057][78.157.142.0 - 78.157.142.255]
@@ -21950,14 +18440,6 @@ fe80::1%lo0 localhost
 # [Voxel][69.9.160.0 - 69.9.191.255]
 0.0.0.0 banners.absolpublisher.com
 0.0.0.0 tracking.absolstats.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 img.blogads.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 img.blogads.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stat.blogads.com
 0.0.0.0 www.blogads.com
 0.0.0.0 adms.physorg.com
@@ -22375,13 +18857,6 @@ fe80::1%lo0 localhost
 0.0.0.0 oascentral.adage.com
 0.0.0.0 oas.ad-vice.biz
 0.0.0.0 oascentral.alladultchannel.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 oascentral.hosted.ap.org
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 oascentral.artistdirect.com
 0.0.0.0 oascentral.autoweek.com
 0.0.0.0 oascentral.blackenterprise.com
@@ -22401,13 +18876,6 @@ fe80::1%lo0 localhost
 0.0.0.0 realmedia.channel4.com
 0.0.0.0 oascentral.charleston.net
 0.0.0.0 oascentral.chicagobusiness.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 oascentral.chron.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 oascentral.comcast.net
 0.0.0.0 oascentral.comics.com
 0.0.0.0 oascentral.consumerreports.org
@@ -22466,7 +18934,6 @@ fe80::1%lo0 localhost
 0.0.0.0 oascentral.nephrologynews.com
 0.0.0.0 oascentral.nerve.com
 0.0.0.0 oascentral.netnewscheck.com
-0.0.0.0 oascentral.newsmax.com
 0.0.0.0 oascentral.news-record.com
 0.0.0.0 oascentral.newstimeslive.com
 0.0.0.0 oas-fr.video.on.nytimes.com
@@ -22542,13 +19009,6 @@ fe80::1%lo0 localhost
 0.0.0.0 panel.research-int.se
 # [24/7 Real Media via various][AS36805][208.81.232.0 - 208.81.235.255]
 0.0.0.0 ads.augusta.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 oas.autotrader.co.uk
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.ctvdigital.net
 0.0.0.0 oas.guardian.co.uk
 0.0.0.0 kantarmedia.guardian.co.uk
@@ -22704,7 +19164,6 @@ fe80::1%lo0 localhost
 # [Yahoo][AS26101][68.142.192.0 - 68.142.255.255]
 # [Yahoo][AS36752][68.180.128.0 - 68.180.255.255]
 0.0.0.0 ts.richmedia.yahoo.com
-0.0.0.0 visit.webhosting.yahoo.com
 # [Yahoo][AS26101][69.147.64.0 - 69.147.127.255]
 0.0.0.0 syndication.streamads.yahoo.com
 # [Yahoo / Inktomi][AS14778][72.30.0.0 - 72.30.255.255]
@@ -22713,7 +19172,6 @@ fe80::1%lo0 localhost
 0.0.0.0 srv3.wa.marketingsolutions.yahoo.com
 # [Yahoo / Right Media - clones][AS14778][76.13.0.0 - 76.13.255.255]
 0.0.0.0 ad.creafi.com
-0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.hi5.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 ae.adserver.yahoo.com
@@ -22721,13 +19179,7 @@ fe80::1%lo0 localhost
 0.0.0.0 au.adserver.yahoo.com
 0.0.0.0 ca.adserver.yahoo.com
 0.0.0.0 cn2.adserver.yahoo.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 eu-pn2.adserver.yahoo.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 in.adserver.yahoo.com
 0.0.0.0 us.adserver.yahoo.com
@@ -22744,20 +19196,12 @@ fe80::1%lo0 localhost
 # [Yahoo][AS42173][87.248.122.0 - 87.248.123.255]
 0.0.0.0 s201.indexstats.com
 0.0.0.0 secure.indexstats.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.indexstats.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stats.indextools.com
 # [Yahoo][AS26101][98.136.0.0 - 98.139.255.255]
 0.0.0.0 adinterax.com
 0.0.0.0 www.adinterax.com
 0.0.0.0 ads.bluelithium.com
 0.0.0.0 np.lexity.com
-0.0.0.0 ads.yahoo.com
 0.0.0.0 na.ads.yahoo.com
 # 0.0.0.0 beap.adss.yahoo.com #[affects Yahoo video]
 0.0.0.0 beap.adx.yahoo.com
@@ -22791,7 +19235,6 @@ fe80::1%lo0 localhost
 # [Yandex][AS13238][213.180.193.0 - 213.180.193.255]
 # [Yandex][AS13238][87.250.250.0 - 87.250.250.255]
 0.0.0.0 advertising.yandex.ru
-0.0.0.0 bs.yandex.ru
 0.0.0.0 bs-meta.yandex.ru
 # 0.0.0.0 clck.yandex.ru
 0.0.0.0 grade.market.yandex.ru
@@ -22876,18 +19319,9 @@ fe80::1%lo0 localhost
 0.0.0.0 www.winadiscount.com
 0.0.0.0 www.winaproduct.com
 # [end of entries generated by MVPS HOSTS]
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## Generated at Thu 12 May 2016 19:17:58 AEST
 ## By https://github.com/PwnArt1st/hostsblock
 0.0.0.0 assets.cookieconsent.silktide.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-## Generated at Thu 12 May 2016 19:17:58 AEST
-## By https://github.com/PwnArt1st/hostsblock
-0.0.0.0 assets.cookieconsent.silktide.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # This hosts file is brought to you by Dan Pollock and can be found at
 # http://someonewhocares.org/hosts/zero/
 # You are free to copy and distribute this file for non-commercial uses,
@@ -22898,15 +19332,7 @@ fe80::1%lo0 localhost
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Last updated: Thu, 12 May 2016 at 08:40:21 GMT
-=======
 # Last updated: Thu, 19 May 2016 at 06:45:32 GMT
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-# Last updated: Thu, 12 May 2016 at 08:40:21 GMT
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from
@@ -23241,13 +19667,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adcounter.globeandmail.com
 0.0.0.0 adelogs.adobe.com
 0.0.0.0 ademails.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 adlog.com.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
   # ads and track users across
   # the com.com family of sites
 0.0.0.0 ad-logics.com
@@ -23313,13 +19732,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cdn-social.janrain.com
 0.0.0.0 cdxbin.vulnerap.com
 0.0.0.0 cf.addthis.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 cgicounter.onlinehome.de
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 cgi.hotstat.nl
 0.0.0.0 ci-mpsnare.iovation.com
 0.0.0.0 citrix.tradedoubler.com
@@ -23370,13 +19782,6 @@ fe80::1%lo0 localhost
 0.0.0.0 counteraport.spylog.com
 0.0.0.0 counter.asexhound.com
 0.0.0.0 counter.avp2000.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 counter.bloke.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 counterbot.com
 0.0.0.0 counter.clubnet.ro
 0.0.0.0 countercrazy.com
@@ -23387,13 +19792,6 @@ fe80::1%lo0 localhost
 0.0.0.0 counter.execpc.com
 0.0.0.0 counter.gamespy.com
 0.0.0.0 counter.hitslinks.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 counter.htmlvalidator.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 counter.impressur.com
 0.0.0.0 counter.inetusa.com
 0.0.0.0 counter.inti.fr
@@ -23407,49 +19805,20 @@ fe80::1%lo0 localhost
 0.0.0.0 counters.auctionwatch.com
 0.0.0.0 counters.auctiva.com
 0.0.0.0 counter.sexhound.nl
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 counters.gigya.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 counter.surfcounters.com
 0.0.0.0 counters.xaraonline.com
 0.0.0.0 counter.times.lv
 0.0.0.0 counter.topping.com.ua
 0.0.0.0 counter.tripod.com
 0.0.0.0 counter.uq.edu.au
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 counter.webcom.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 counter.webmedia.pl
 0.0.0.0 counter.webtrends.com
 0.0.0.0 counter.webtrends.net
 0.0.0.0 counter.xxxcool.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 count.paycounter.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 c.thecounter.de
 0.0.0.0 cw.nu
 0.0.0.0 cyseal.cyveillance.com
 0.0.0.0 da.ce.bd.a9.top.list.ru
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 dap.digitalgov.gov
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 dap.digitalgov.gov
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 data2.perf.overture.com
 0.0.0.0 dclk.themarketer.com
 0.0.0.0 delivery.loopingclick.com
@@ -23532,35 +19901,14 @@ fe80::1%lo0 localhost
 0.0.0.0 email.positionly.com
 0.0.0.0 emea.rel.msn.com
 0.0.0.0 engine.cmmeglobal.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 entry-stats.huffingtonpost.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 environmentalgraffiti.uk.intellitxt.com
 0.0.0.0 e-n.y-1shz2prbmdj6wvny-1sez2pra2dj6wjmyepdzadpwudj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0 extremereach.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 fastcounter.bcentral.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 fastcounter.com
 0.0.0.0 fastcounter.linkexchange.com
 0.0.0.0 fastcounter.linkexchange.net
 0.0.0.0 fastcounter.linkexchange.nl
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 fastcounter.onlinehoster.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 fcstats.bcentral.com
 0.0.0.0 fdbdo.com
 0.0.0.0 flycast.com
@@ -23651,13 +19999,6 @@ fe80::1%lo0 localhost
 0.0.0.0 metric.10best.com
 0.0.0.0 metric.infoworld.com
 0.0.0.0 metric.nationalgeographic.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 metric.nwsource.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 metric.olivegarden.com
 0.0.0.0 metrics2.pricegrabber.com
 0.0.0.0 metrics.al.com
@@ -23698,13 +20039,6 @@ fe80::1%lo0 localhost
 0.0.0.0 metrics.theweathernetwork.com
 #0.0.0.0 metrics.ticketmaster.com	# interferes with logging in to ticketmaster.com
 0.0.0.0 metrics.tmz.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 metrics.washingtonpost.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 metrics.whitepages.com
 0.0.0.0 metrics.womansday.com
 0.0.0.0 metrics.yellowpages.com
@@ -23728,17 +20062,7 @@ fe80::1%lo0 localhost
 0.0.0.0 nextgenstats.com
 0.0.0.0 nl.nedstatbasic.net
 #0.0.0.0 nl.sitestat.com	# may interfere with duo.nl
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 okcounter.com
-=======
-0.0.0.0 o.addthis.com
-0.0.0.0 okcounter.com
-0.0.0.0 omniture.theglobeandmail.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 okcounter.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 omtrdc.net
 0.0.0.0 one.123counters.com
 0.0.0.0 oss-crules.marketscore.com
@@ -23752,13 +20076,6 @@ fe80::1%lo0 localhost
 0.0.0.0 passpport.com
 0.0.0.0 paxito.sitetracker.com
 0.0.0.0 paycounter.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 pings.blip.tv
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 pix02.revsci.net
 0.0.0.0 pixel-geo.prfct.co
 0.0.0.0 pmg.ad-logics.com
@@ -23790,20 +20107,8 @@ fe80::1%lo0 localhost
 0.0.0.0 rr5.xxxcounter.com
 0.0.0.0 rr7.xxxcounter.com
 0.0.0.0 s1.thecounter.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 sa.jumptap.com
 0.0.0.0 scorecardresearch.com
-=======
-0.0.0.0 s2.youtube.com
-0.0.0.0 sa.jumptap.com
-0.0.0.0 scorecardresearch.com
-0.0.0.0 scribe.twitter.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 sa.jumptap.com
-0.0.0.0 scorecardresearch.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 scrooge.channelcincinnati.com
 0.0.0.0 scrooge.channeloklahoma.com
 0.0.0.0 scrooge.click10.com
@@ -23864,17 +20169,7 @@ fe80::1%lo0 localhost
 0.0.0.0 stast2.gq.com
 0.0.0.0 stat1.z-stat.com
 0.0.0.0 stat3.cybermonitor.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 statcounter.com
-=======
-0.0.0.0 stat.alibaba.com
-0.0.0.0 statcounter.com
-0.0.0.0 stat-counter.tass-online.ru
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 statcounter.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stat.discogs.com
 0.0.0.0 static.kibboko.com
 0.0.0.0 static.smni.com
@@ -23901,37 +20196,15 @@ fe80::1%lo0 localhost
 0.0.0.0 stats.airfarewatchdog.com
 0.0.0.0 stats.allliquid.com
 0.0.0.0 stats.becu.org
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.big-boards.com
-0.0.0.0 stats.blogoscoop.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stats.bonzaii.no
 0.0.0.0 stats.brides.com
 #0.0.0.0 stats.channel4.com
 0.0.0.0 stats.cts-bv.nl
 0.0.0.0 stats.darkbluesea.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.datahjaelp.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stats.dziennik.pl
 0.0.0.0 stats.fairmont.com
 0.0.0.0 stats.fastcompany.com
 0.0.0.0 stats.foxcounter.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.free-rein.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stats.f-secure.com
 0.0.0.0 stats.gamestop.com
 0.0.0.0 stats.globesports.com
@@ -23961,36 +20234,14 @@ fe80::1%lo0 localhost
 0.0.0.0 stats.telegraph.co.uk
 0.0.0.0 stats.ultimate-webservices.com
 0.0.0.0 stats.unionleader.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 stats.www.ibm.com
 0.0.0.0 stat.www.fi
 0.0.0.0 stat.yellowtracker.com
-=======
-0.0.0.0 stats.video.search.yahoo.com
-0.0.0.0 stats.www.ibm.com
-0.0.0.0 stats.yourminis.com
-0.0.0.0 stat.www.fi
-0.0.0.0 stat.yellowtracker.com
-0.0.0.0 stat.youku.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 stats.www.ibm.com
-0.0.0.0 stat.www.fi
-0.0.0.0 stat.yellowtracker.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stl.p.a1.traceworks.com
 0.0.0.0 straighttangerine.cz.cc
 0.0.0.0 st.sageanalyst.net
 0.0.0.0 sugoicounter.com
 0.0.0.0 superstats.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 s.youtube.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 systweak.com
 #0.0.0.0 t2.hulu.com		# Uncomment to block Hulu.
 0.0.0.0 tagging.outrider.com
@@ -24016,23 +20267,9 @@ fe80::1%lo0 localhost
 0.0.0.0 tracker.bonnint.net
 0.0.0.0 tracker.clicktrade.com
 0.0.0.0 tracker.idg.co.uk
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 track.exclusivecpa.com
 #0.0.0.0 track.hulu.com	# Uncomment to block Hulu.
 0.0.0.0 tracking.10e20.com
-=======
-0.0.0.0 tracker.mattel.com
-0.0.0.0 track.exclusivecpa.com
-#0.0.0.0 track.hulu.com	# Uncomment to block Hulu.
-0.0.0.0 tracking.10e20.com
-0.0.0.0 tracking.allposters.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 track.exclusivecpa.com
-#0.0.0.0 track.hulu.com	# Uncomment to block Hulu.
-0.0.0.0 tracking.10e20.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 tracking.iol.co.za
 0.0.0.0 tracking.msadcenter.msn.com
 0.0.0.0 tracking.oggifinogi.com
@@ -24041,18 +20278,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tracking.trutv.com
 0.0.0.0 tracking.vindicosuite.com
 0.0.0.0 track.lfstmedia.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 track.roiservice.com
-=======
-0.0.0.0 track.mybloglog.com
-0.0.0.0 track.omg2.com
-0.0.0.0 track.roiservice.com
-0.0.0.0 track.searchignite.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 track.roiservice.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 tracksurf.daooda.com
 0.0.0.0 tradedoubler.com
 0.0.0.0 tradedoubler.sonvideopro.com
@@ -24124,13 +20350,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.2001-007.com
 0.0.0.0 www2.counter.bloke.com
 0.0.0.0 www2.pagecount.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 www3.click-fr.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www3.counter.bloke.com
 0.0.0.0 www4.counter.bloke.com
 0.0.0.0 www5.counter.bloke.com
@@ -24281,13 +20501,7 @@ fe80::1%lo0 localhost
 0.0.0.0 a.phormlabs.com
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 apple.com-store.me
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 apple-protection.info
 0.0.0.0 applestore.com-mobile.gift
 0.0.0.0 armsart.com
@@ -24464,13 +20678,7 @@ fe80::1%lo0 localhost
 0.0.0.0 m02.webwise.com
 0.0.0.0 m02.webwise.net
 0.0.0.0 m02.webwise.org
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 mac-os.apple.com-secured.online
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 mac-protection.info
 0.0.0.0 mail.cyberh.fr
 0.0.0.0 mail.youcanoptout.com
@@ -25963,13 +22171,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad9.checkm8.com
 0.0.0.0 ad9digital.checkm8.com
 0.0.0.0 ad.abcnews.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.accessmediaproductions.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.adfunky.com
 0.0.0.0 ad.adition.de
 0.0.0.0 ad.adlantis.jp
@@ -26030,36 +22231,15 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.deviantart.com
 0.0.0.0 add.f5haber.com
 0.0.0.0 ad.dic.nicovideo.jp
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.directmirror.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.doganburda.com
 0.0.0.0 ad.download.net
 0.0.0.0 addserver.mtv.com.tr
 0.0.0.0 addthiscdn.com
 0.0.0.0 addthis.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.duga.jp
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adecn.com
 0.0.0.0 ad.egloos.com
 0.0.0.0 ad.ekonomikticaret.com
 0.0.0.0 adengine.rt.ru
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.eporner.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.espn.starwave.com
 0.0.0.0 ade.wooboo.com.cn
 0.0.0.0 adexpansion.com
@@ -26078,13 +22258,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.floq.jp
 0.0.0.0 ad-flow.com
 #0.0.0.0 adf.ly
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.fnnews.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.fo.net
 0.0.0.0 adforce.ads.imgis.com
 0.0.0.0 adforce.adtech.de
@@ -26125,13 +22298,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.howstuffworks.com
 0.0.0.0 adhref.pl
 #0.0.0.0 ad.hulu.com		# Uncomment to block Hulu.
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.icasthq.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.iconadserver.com
 0.0.0.0 adidm.supermedia.pl
 0.0.0.0 ad.imad.co.kr
@@ -26210,13 +22376,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adj7.thruport.com
 0.0.0.0 adj8.thruport.com
 0.0.0.0 adj9.thruport.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.jamba.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.jamster.ca
 0.0.0.0 adjmps.com
 0.0.0.0 ad.jokeroo.com
@@ -26234,14 +22393,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.lijit.com
 0.0.0.0 ad.linkexchange.com
 0.0.0.0 ad.linksynergy.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.livere.co.kr
-0.0.0.0 ad.lyricswire.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adm.265g.com
 0.0.0.0 ad.mainichi.jp
 0.0.0.0 ad.maist.jp
@@ -26253,13 +22404,6 @@ fe80::1%lo0 localhost
 0.0.0.0 admanager.btopenworld.com
 0.0.0.0 admanager.collegepublisher.com
 0.0.0.0 adman.freeze.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.mangareader.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adman.gr
 0.0.0.0 adman.se
 0.0.0.0 admarkt.marktplaats.nl
@@ -26275,13 +22419,6 @@ fe80::1%lo0 localhost
 0.0.0.0 admedia.xoom.com
 0.0.0.0 admeld.com
 0.0.0.0 admerize.be
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 admeta.vo.llnwd.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adm.funshion.com
 0.0.0.0 adm.fwmrm.net
 #0.0.0.0 adm.fwmrm.net	#may interfere with nhl.com
@@ -26295,13 +22432,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.my.doubleclick.net
 0.0.0.0 ad.mygamesol.com
 0.0.0.0 ad.nate.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 adn.ebay.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.ne.com
 0.0.0.0 ad.net
 0.0.0.0 adnet.biz
@@ -26330,25 +22460,11 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.oret.jp
 0.0.0.0 adotube.com
 0.0.0.0 ad.ourgame.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.pandora.tv
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.parom.hu
 0.0.0.0 ad.partis.si
 0.0.0.0 adpepper.dk
 0.0.0.0 ad.pgwticketshop.nl
 0.0.0.0 ad.ph-prt.tbn.ru
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.pickple.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adpick.switchboard.com
 0.0.0.0 adplay.tudou.com
 0.0.0.0 ad-plus.cn
@@ -26356,13 +22472,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.preferences.com
 0.0.0.0 ad.premiumonlinemedia.com
 0.0.0.0 ad.pro-advertising.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.proxy.sh
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adpulse.ads.targetnet.com
 0.0.0.0 adpush.dreamscape.com
 0.0.0.0 ad.qq.com
@@ -26717,13 +22826,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.drf.com
 0.0.0.0 ads.drivelinemedia.com
 0.0.0.0 ads.dumpalink.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.search.ch
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad.searchina.ne.jp
 0.0.0.0 adsearch.pl
 0.0.0.0 ads.ecircles.com
@@ -27088,13 +23190,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.hamptonroads.com
 0.0.0.0 ads.hamtonroads.com
 0.0.0.0 ads.hardwarezone.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 ad.sharethis.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.hbv.de
 0.0.0.0 ads.heartlight.org
 0.0.0.0 ads.herald-mail.com
@@ -27194,13 +23290,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.maksimum.net
 0.0.0.0 ads.mambocommunities.com
 0.0.0.0 ads.mariuana.it
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.smartclip.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.co.uk
 0.0.0.0 adsmart.net
@@ -27300,13 +23389,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adsp.haberturk.com
 0.0.0.0 ads.phillyburbs.com
 0.0.0.0 ads.phpclasses.org
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.spielothek.so
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.pilotonline.com
 0.0.0.0 adspirit.net
 0.0.0.0 adspiro.pl
@@ -27319,13 +23401,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.pno.net
 0.0.0.0 ads.poconorecord.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ads.pof.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ad-sponsor.com
 0.0.0.0 ad.sponsoreo.com
 0.0.0.0 ads.portlandmercury.com
@@ -27366,13 +23441,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.rockstargames.com
 0.0.0.0 ads.rodale.com
 0.0.0.0 ads.roiserver.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ads-rolandgarros.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.rondomondo.com
 0.0.0.0 ads.rootzoo.com
 0.0.0.0 ads.rottentomatoes.com
@@ -27421,13 +23489,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.smartclick.com
 0.0.0.0 ads.smartclicks.com
 0.0.0.0 ads.smartclicks.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 ads.smowtion.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads.snowball.com
 0.0.0.0 ads.socialmedia.com
 0.0.0.0 ads.socialtheater.com
@@ -27562,13 +23624,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zamunda.se
 0.0.0.0 ads.zap2it.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ads.zynga.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adtag.msn.ca
 0.0.0.0 adtaily.com
 0.0.0.0 adtaily.pl
@@ -27582,13 +23637,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.tgdaily.com
 0.0.0.0 ad.thetyee.ca
 0.0.0.0 ad.thewheelof.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.thisav.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adthru.com
 0.0.0.0 adtigerpl.adspirit.net
 0.0.0.0 ad.tiscali.com
@@ -27607,13 +23655,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.uk.tangozebra.com
 0.0.0.0 ad-uk.tiscali.com
 0.0.0.0 adultadworld.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 ad.userporn.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adv0005.247realmedia.com
 0.0.0.0 adv0035.247realmedia.com
 0.0.0.0 adv.440net.com
@@ -27655,20 +23696,8 @@ fe80::1%lo0 localhost
 0.0.0.0 advertstream.com
 0.0.0.0 advert.uzmantv.com
 0.0.0.0 adv.federalpost.ru
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 ad-vice.biz
 0.0.0.0 advicepl.adocean.pl
-=======
-0.0.0.0 advice-ads-cdn.vice.com
-0.0.0.0 ad-vice.biz
-0.0.0.0 advicepl.adocean.pl
-0.0.0.0 ad.vidaroo.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 ad-vice.biz
-0.0.0.0 advicepl.adocean.pl
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 adview.pl
 0.0.0.0 ad.vippers.jp
 0.0.0.0 adviva.net
@@ -27731,13 +23760,6 @@ fe80::1%lo0 localhost
 0.0.0.0 affiliate.mlntracker.com
 0.0.0.0 affiliates.arvixe.com
 0.0.0.0 affiliates.eblastengine.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 affiliates.genealogybank.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 affiliates.globat.com
 0.0.0.0 affiliation-france.com
 0.0.0.0 affimg.pop6.com
@@ -27770,13 +23792,6 @@ fe80::1%lo0 localhost
 0.0.0.0 amazinggreentechshop.com
 0.0.0.0 americansingles.click-url.com
 0.0.0.0 a.mktw.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 amplifypixel.outbrain.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 amscdn.btrll.com
 0.0.0.0 analysis.fc2.com
 0.0.0.0 analytics.ku6.com
@@ -27787,13 +23802,6 @@ fe80::1%lo0 localhost
 0.0.0.0 analytics.spotta.nl
 0.0.0.0 analytics.verizonenterprise.com
 0.0.0.0 analytics.vodafone.co.uk
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 analyzer51.fc2.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 andpolice.com
 0.0.0.0 ankieta-online.pl
 0.0.0.0 annuaire-autosurf.com
@@ -27877,13 +23885,6 @@ fe80::1%lo0 localhost
 0.0.0.0 at-img2.tdimg.com
 0.0.0.0 at-img3.tdimg.com
 0.0.0.0 at.m1.nedstatbasic.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 atm.youku.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 a.total-media.net
 0.0.0.0 a.twiago.com
 0.0.0.0 au.ads.link4ads.com
@@ -27897,13 +23898,6 @@ fe80::1%lo0 localhost
 0.0.0.0 automotive-rewardpath.com
 0.0.0.0 avcounter10.com
 0.0.0.0 avidnewssource.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 avpa.dzone.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 avpa.javalobby.org
 0.0.0.0 awesomevipoffers.com
 0.0.0.0 awrz.net
@@ -27967,13 +23961,6 @@ fe80::1%lo0 localhost
 0.0.0.0 banners.dnastudio.com
 0.0.0.0 banners.easysolutions.be
 0.0.0.0 banners.ebay.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 banners.expressindia.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 banners.flair.be
 0.0.0.0 banners.free6.com
 0.0.0.0 banners.fuifbeest.be
@@ -28026,13 +24013,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bbnaut.bbelements.com
 0.0.0.0 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 0.0.0.0 bdnad1.bangornews.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 beacons.helium.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 beacon-us-west.rubiconproject.com
 0.0.0.0 be.ads.justpremium.com
 0.0.0.0 bell.adcentriconline.com
@@ -28073,26 +24053,10 @@ fe80::1%lo0 localhost
 0.0.0.0 blogads.ebanner.nl
 0.0.0.0 blogvertising.pl
 0.0.0.0 bluediamondoffers.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 bm.alimama.cn
 0.0.0.0 bmvip.alimama.cn
 0.0.0.0 bn.bfast.com
 0.0.0.0 bnmgr.adinjector.net
-<<<<<<< HEAD
-=======
-0.0.0.0 bl.wavecdn.de
-0.0.0.0 bm.alimama.cn
-0.0.0.0 bmvip.alimama.cn
-0.0.0.0 b.myspace.com
-0.0.0.0 bn.bfast.com
-0.0.0.0 bnmgr.adinjector.net
-0.0.0.0 bnrs.ilm.ee
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 boksy.dir.onet.pl
 0.0.0.0 boksy.onet.pl
 0.0.0.0 bookclub-offer.com
@@ -28126,13 +24090,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bus-offer.com
 0.0.0.0 buttcandy.com
 0.0.0.0 buttons.googlesyndication.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 buzzbox.buzzfeed.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 bwp.lastfm.com.com
 0.0.0.0 bwp.news.com
 0.0.0.0 c11370896.c.youradexchange.com
@@ -28168,13 +24125,7 @@ fe80::1%lo0 localhost
 0.0.0.0 carrier.bz
 0.0.0.0 car-truck-boat-bonuspath.com
 0.0.0.0 car-truck-boat-premiumblvd.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 cashadvancework.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 cashback.co.uk
 0.0.0.0 cashbackwow.co.uk
 0.0.0.0 cashflowmarketing.com
@@ -28269,13 +24220,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cherryhi.app.ur.gcion.com
 0.0.0.0 chip.popmarker.com
 0.0.0.0 c.hk.msn.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 chkpt.zdnet.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 choicedealz.com
 0.0.0.0 choicesurveypanel.com
 0.0.0.0 christianbusinessadvertising.com
@@ -28319,13 +24263,6 @@ fe80::1%lo0 localhost
 0.0.0.0 clicks.adultplex.com
 0.0.0.0 clicks.deskbabes.com
 0.0.0.0 click-see-save.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 clicks.hurriyet.com.tr
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 clicksotrk.com
 0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clicks.totemcash.com
@@ -28474,13 +24411,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cserver.mii.instacontent.net
 0.0.0.0 c.sg.msn.com
 0.0.0.0 cs.prd.msys.playstation.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 csr.onet.pl
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ctbdev.net
 0.0.0.0 c.th.msn.com
 0.0.0.0 ctnsnet.com
@@ -28502,13 +24432,6 @@ fe80::1%lo0 localhost
 0.0.0.0 d14.zedo.com
 0.0.0.0 d1.openx.org
 0.0.0.0 d1qqddufal4d58.cloudfront.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 d1ros97qkrwjf5.cloudfront.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 d1.zedo.com
 0.0.0.0 d4.zedo.com
 0.0.0.0 d5phz18u4wuww.cloudfront.net
@@ -28520,13 +24443,6 @@ fe80::1%lo0 localhost
 0.0.0.0 d.admob.com
 0.0.0.0 d.adnetxchange.com
 0.0.0.0 d.adserve.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 dads.new.digg.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 d.ads.readwriteweb.com
 #0.0.0.0 da.feedsportal.com	# interferes with TechRepublic email newsletters
 0.0.0.0 daily-saver.com
@@ -28717,13 +24633,6 @@ fe80::1%lo0 localhost
 0.0.0.0 floridat.app.ur.gcion.com
 0.0.0.0 flower.bg
 0.0.0.0 flowers-offer.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 fls-na.amazon.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 flu23.com
 0.0.0.0 fmads.osdn.com
 0.0.0.0 fnlpic.com
@@ -28993,14 +24902,6 @@ fe80::1%lo0 localhost
 0.0.0.0 hermes.airad.com
 0.0.0.0 hightrafficads.com
 0.0.0.0 himediads.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 hipersushiads.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 hipersushiads.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 histats.com
 0.0.0.0 hit.8digits.com
 0.0.0.0 hlcc.ca
@@ -29044,13 +24945,6 @@ fe80::1%lo0 localhost
 0.0.0.0 i1.teaser-goods.ru
 0.0.0.0 iacas.adbureau.net
 0.0.0.0 iad.anm.co.uk
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 iadc.qwapi.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 i.admob.com
 #0.0.0.0 iadsdk.apple.com	#may interfere with iTunes radio
 0.0.0.0 ialaddin.genieesspv.jp
@@ -29102,13 +24996,7 @@ fe80::1%lo0 localhost
 0.0.0.0 img1.ru.redtram.com
 0.0.0.0 img4.cdn.adjuggler.com
 0.0.0.0 img-a2.ak.imagevz.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 img.blogads.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 imgg.dt00.net
 0.0.0.0 imgg.mgid.com
@@ -29248,13 +25136,6 @@ fe80::1%lo0 localhost
 0.0.0.0 kansas.valueclick.com
 0.0.0.0 katu.adbureau.net
 0.0.0.0 kazaa.adserver.co.il
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 kermit.macnn.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 kestrel.ospreymedialp.com
 0.0.0.0 keys.dmtracker.com
 0.0.0.0 keywordblocks.com
@@ -29288,13 +25169,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ku6.allyes.com
 0.0.0.0 kuhdi.com
 0.0.0.0 l2.l.qq.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 l.5min.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 l.admob.com
 0.0.0.0 ladyclicks.ru
 0.0.0.0 land.purifier.cc
@@ -29359,13 +25233,6 @@ fe80::1%lo0 localhost
 0.0.0.0 logc252.xiti.com
 0.0.0.0 logger.virgul.com
 0.0.0.0 login.linkpulse.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 logs.spilgames.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 looksmartcollect.247realmedia.com
 0.0.0.0 louisvil.app.ur.gcion.com
 0.0.0.0 louisvil.ur.gcion.com
@@ -29384,13 +25251,6 @@ fe80::1%lo0 localhost
 0.0.0.0 luxpolice.com
 0.0.0.0 luxpolice.net
 0.0.0.0 lw1.gamecopyworld.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 lw2.gamecopyworld.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 lycos.247realmedia.com
 0.0.0.0 m1.emea.2mdn.net
 0.0.0.0 m1.emea.2mdn.net.edgesuite.net
@@ -29410,13 +25270,6 @@ fe80::1%lo0 localhost
 0.0.0.0 madadsmedia.com
 0.0.0.0 m.adbridge.de
 0.0.0.0 m.admob.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 mads.aol.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 mail.radar.imgsmail.ru
 0.0.0.0 main.vodonet.net
 0.0.0.0 manage001.adtech.de
@@ -29537,13 +25390,6 @@ fe80::1%lo0 localhost
 0.0.0.0 mini.videostrip.com
 0.0.0.0 mirror.pointroll.com
 0.0.0.0 mjxads.internet.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 mklik.gazeta.pl
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 mktg-offer.com
 0.0.0.0 mlntracker.com
 0.0.0.0 mm1.vip.sc1.admob.com
@@ -29674,13 +25520,6 @@ fe80::1%lo0 localhost
 0.0.0.0 nsads.us.publicus.com
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 nspmotion.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 nstat.tudou.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ns-vip1.hitbox.com
 0.0.0.0 ns-vip2.hitbox.com
 0.0.0.0 ns-vip3.hitbox.com
@@ -29711,13 +25550,7 @@ fe80::1%lo0 localhost
 0.0.0.0 oasis2.advfn.com
 0.0.0.0 oasis.nysun.com
 0.0.0.0 oasis.promon.cz
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 oasis.realbeer.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 oasis.zmh.zope.com
 0.0.0.0 oasis.zmh.zope.net
 0.0.0.0 oasn03.247realmedia.com
@@ -29789,13 +25622,6 @@ fe80::1%lo0 localhost
 0.0.0.0 orange.weborama.fr
 0.0.0.0 ordie.adbureau.net
 0.0.0.0 orientaltrading.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 origin.chron.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ortaklik.mynet.com
 0.0.0.0 outils.yesmessenger.com
 0.0.0.0 overflow.adsoftware.com
@@ -29830,13 +25656,7 @@ fe80::1%lo0 localhost
 0.0.0.0 partner03.oingo.com
 0.0.0.0 partner.ah-ha.com
 0.0.0.0 partner.ceneo.pl
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 #0.0.0.0 partner.googleadservices.com		# Interferes with CWTV.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 partner.join.com.ua
 0.0.0.0 partner.magna.ru
 0.0.0.0 partner.pobieraczek.pl
@@ -29925,14 +25745,6 @@ fe80::1%lo0 localhost
 0.0.0.0 pix522.adtech.fr
 0.0.0.0 pix522.adtech.us
 #0.0.0.0 pixel.quantserve.com		# Interferes with Video on CBS and Comcast
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 pixel.watch
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 pixel.watch
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 pix.revsci.net
 0.0.0.0 pl.ads.justpremium.com
 0.0.0.0 plasmatv4free.com
@@ -29964,13 +25776,6 @@ fe80::1%lo0 localhost
 0.0.0.0 popups.infostart.com
 0.0.0.0 popup.softreklam.com
 0.0.0.0 popup.taboola.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 pos.baidu.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 posed2shade.com
 0.0.0.0 poster-op2joygames.me
 0.0.0.0 postmasterdirect.com
@@ -30108,13 +25913,6 @@ fe80::1%lo0 localhost
 0.0.0.0 radaronline.advertserve.com
 0.0.0.0 rad.live.com
 0.0.0.0 r.admob.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 rad.msn.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 rampagegramar.com
 0.0.0.0 randevumads.com
@@ -30318,20 +26116,8 @@ fe80::1%lo0 localhost
 0.0.0.0 search.freeonline.com
 0.0.0.0 search.netseer.com
 0.0.0.0 searchportal.information.com
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 searchwe.com
 0.0.0.0 seasonalsamplerspecials.com
-=======
-0.0.0.0 searchstats.usa.gov
-0.0.0.0 searchwe.com
-0.0.0.0 seasonalsamplerspecials.com
-0.0.0.0 sebar.thand.info
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 searchwe.com
-0.0.0.0 seasonalsamplerspecials.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 sec.hit.gemius.pl
 0.0.0.0 secimage.adtech.de
 0.0.0.0 secimage.adtech.fr
@@ -30418,14 +26204,6 @@ fe80::1%lo0 localhost
 0.0.0.0 sgs001.adtech.fr
 0.0.0.0 sgs001.adtech.us
 0.0.0.0 sh4sure-images.adbureau.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 shareasale.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 shareasale.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 sharebar.addthiscdn.com
 0.0.0.0 share-server.com
 0.0.0.0 shc-rebates.com
@@ -30442,13 +26220,6 @@ fe80::1%lo0 localhost
 0.0.0.0 showads1000.pubmatic.com
 0.0.0.0 showadsak.pubmatic.com
 0.0.0.0 show-msgch.qq.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 shrek.6.cn
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 sifomedia.citypaketet.se
 0.0.0.0 signup.advance.net
 0.0.0.0 simba.6.cn
@@ -30498,14 +26269,6 @@ fe80::1%lo0 localhost
 0.0.0.0 s.oroll.com
 0.0.0.0 spaces.slimspots.com
 0.0.0.0 spanel.gem.pl
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 spanids.dictionary.com
-0.0.0.0 spanids.thesaurus.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 spc.cekfmeoejdbfcfichgbfcgjf.vast2as3.glammedia-pubnet.northamerica.telemetryverification.net
 0.0.0.0 spcode.baidu.com
 0.0.0.0 specialgiftrewards.com
@@ -30550,13 +26313,6 @@ fe80::1%lo0 localhost
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 stat3.888.ku6.com
 0.0.0.0 stat.56.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 stat.dealtime.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stat.detelefoongids.nl
 0.0.0.0 stat.ebuzzing.com
 0.0.0.0 stat.gw.youmi.net
@@ -30598,13 +26354,7 @@ fe80::1%lo0 localhost
 0.0.0.0 static.trafficstars.com
 0.0.0.0 static.virgul.com
 0.0.0.0 static.way2traffic.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 static.williamhill.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 static.wooboo.com.cn
 0.0.0.0 static.youmi.net
 0.0.0.0 statistik-gallup.dk
@@ -30613,27 +26363,10 @@ fe80::1%lo0 localhost
 0.0.0.0 stats.askmoses.com
 0.0.0.0 stats.buzzparadise.com
 0.0.0.0 stats.defense.gov
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 statsie.com
 0.0.0.0 stats.ipinyou.com
 0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.x14.eu
-<<<<<<< HEAD
-=======
-0.0.0.0 stats.fd.nl
-0.0.0.0 statsie.com
-0.0.0.0 stats.ipinyou.com
-0.0.0.0 stats.shopify.com
-0.0.0.0 stats.tubemogul.com
-0.0.0.0 stats.tudou.com
-0.0.0.0 stats.x14.eu
-0.0.0.0 stat.tudou.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 status.addthis.com
 0.0.0.0 s.tcimg.com
 0.0.0.0 st.marketgid.com
@@ -30642,14 +26375,6 @@ fe80::1%lo0 localhost
 0.0.0.0 storage.softure.com
 0.0.0.0 stts.rbc.ru
 0.0.0.0 st.valueclick.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 st.vq.ku6.cn
-0.0.0.0 su.addthis.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 subad-server.com
 0.0.0.0 subtracts.userplane.com
 0.0.0.0 successful-marketing-now.com
@@ -30777,13 +26502,6 @@ fe80::1%lo0 localhost
 0.0.0.0 trackadvertising.net
 0.0.0.0 track-apmebf.cj.akadns.net
 0.0.0.0 track.bigbrandpromotions.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 track.e7r.com.br
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 tracker.baidu.com
 0.0.0.0 trackers.1st-affiliation.fr
 0.0.0.0 tracker.twenga.nl
@@ -30797,13 +26515,6 @@ fe80::1%lo0 localhost
 0.0.0.0 track.roularta.adhese.com
 0.0.0.0 track.the-members-section.com
 0.0.0.0 track.tooplay.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 track.vscash.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 tradem.com
 0.0.0.0 trafficbee.com
 0.0.0.0 trafficrevenue.net
@@ -30912,13 +26623,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ve.tscapeplay.com
 0.0.0.0 viamichelin.cdn11.contentabc.com
 0.0.0.0 viamichelin.media.trafficjunky.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 vice-ads-cdn.vice.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 vid.atm.youku.com
 0.0.0.0 videobox.com
 0.0.0.0 videocop.com
@@ -31187,13 +26891,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www35t.glam.com
 0.0.0.0 www.360ads.com
 0.0.0.0 www3.addthis.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 www3.adireland.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www3.ad.tomshardware.com
 0.0.0.0 www3.bannerspace.com
 0.0.0.0 www3.haberturk.com
@@ -31364,13 +27062,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.blatant8jh.info
 0.0.0.0 www.bluediamondoffers.com
 0.0.0.0 www.bnnr.nl
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 www.bodog.eu
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.bonzi.com
 0.0.0.0 www.bookclub-offer.com
 0.0.0.0 www.books-media-edu-premiumblvd.com
@@ -31391,13 +27083,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.buttcandy.com
 0.0.0.0 www.buwobarun.cn
 0.0.0.0 www.buyhitscheap.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 www.canuckmethods.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 www.capath.com
 0.0.0.0 www.careers-rewardpath.com
 0.0.0.0 www.car-truck-boat-bonuspath.com
@@ -32077,13 +27763,6 @@ fe80::1%lo0 localhost
 #<evercookies-sites>
 0.0.0.0 ar.hao123.com
 0.0.0.0 irs01.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 kiks.yandex.ru
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 simg.sinajs.cn
 0.0.0.0 tv.sohu.com
 0.0.0.0 y3.ifengimg.com
@@ -33666,13 +29345,6 @@ fe80::1%lo0 localhost
 0.0.0.0 c.msn.com
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 feedback.microsoft-hohm.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 g.msn.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 h1.msn.com
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 live.rads.msn.com
@@ -33786,13 +29458,6 @@ fe80::1%lo0 localhost
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 watson.live.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.ppe.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
@@ -33800,18 +29465,8 @@ fe80::1%lo0 localhost
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-<<<<<<< HEAD
-<<<<<<< HEAD
-# last updated:   Thu, 28 Apr 2016 11:39:09 GMT
-# entries:        2408
-=======
 # last updated:   Mon, 16 May 2016 12:52:58 GMT
-# entries:        2409
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-# last updated:   Thu, 28 Apr 2016 11:39:09 GMT
 # entries:        2408
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -34154,13 +29809,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2004.treiberupdate.de
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 ads3.contentabc.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 ads3.virtual-nights.com
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads5.virtual-nights.com
@@ -34270,26 +29919,12 @@ fe80::1%lo0 localhost
 0.0.0.0 affiliate.7host.com
 0.0.0.0 affiliate.doubleyourdating.com
 0.0.0.0 affiliate.gamestop.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 affiliate.mercola.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 affiliate.mogs.com
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.viator.com
 0.0.0.0 affiliatefuel.com
 0.0.0.0 affiliatefuture.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 affiliates.allposters.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 affiliates.babylon.com
 0.0.0.0 affiliates.devilfishpartners.com
 0.0.0.0 affiliates.digitalriver.com
@@ -34318,13 +29953,6 @@ fe80::1%lo0 localhost
 0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.google.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 analytics.yahoo.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 api.intensifier.de
 0.0.0.0 apture.com
 0.0.0.0 arc1.msn.com
@@ -34402,14 +30030,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bannersng.yell.com
 0.0.0.0 bannerspace.com
 0.0.0.0 bannerswap.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 bannertesting.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 bannertesting.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 bannery.cz
 0.0.0.0 bannieres.acces-contenu.com
 0.0.0.0 bans.adserver.co.il
@@ -34510,13 +30130,7 @@ fe80::1%lo0 localhost
 0.0.0.0 clicklink.jp
 0.0.0.0 clicks.mods.de
 0.0.0.0 clicktag.de
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 0.0.0.0 clickthrucash.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 clicktrack.ziyu.net
 0.0.0.0 clicktrade.com
 0.0.0.0 clickxchange.com
@@ -34539,14 +30153,6 @@ fe80::1%lo0 localhost
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 contentabc.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 contentabc.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 conversionruler.com
 0.0.0.0 coremetrics.com
 0.0.0.0 count.west263.com
@@ -34802,13 +30408,6 @@ fe80::1%lo0 localhost
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
 0.0.0.0 jokedollars.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 juicyads.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 jumptap.com
 0.0.0.0 justrelevant.com
 0.0.0.0 kanoodle.com
@@ -34858,13 +30457,6 @@ fe80::1%lo0 localhost
 0.0.0.0 market-buster.com
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 marketingsolutions.yahoo.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 maroonspider.com
 0.0.0.0 mas.sector.sk
 0.0.0.0 mastermind.com
@@ -34902,14 +30494,6 @@ fe80::1%lo0 localhost
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 midnightclicking.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-0.0.0.0 mintrace.com
-=======
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 mintrace.com
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 misstrends.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mixtraffic.com
@@ -34946,13 +30530,6 @@ fe80::1%lo0 localhost
 0.0.0.0 nedstatbasic.net
 0.0.0.0 nedstatpro.net
 0.0.0.0 nend.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 neocounter.neoworx-blog-tools.net
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 neoffic.com
 0.0.0.0 net-filter.com
 0.0.0.0 netaffiliation.com
@@ -34963,13 +30540,6 @@ fe80::1%lo0 localhost
 0.0.0.0 netincap.com
 0.0.0.0 netpool.netbookia.net
 0.0.0.0 netshelter.net
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 network.business.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 newbie.com
 0.0.0.0 newnet.qsrch.com
@@ -35085,13 +30655,6 @@ fe80::1%lo0 localhost
 0.0.0.0 projectwonderful.com
 0.0.0.0 promo1.webcams.nl
 0.0.0.0 promobenef.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 promote.pair.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 promotion-campaigns.com
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propellerads.com
@@ -35165,13 +30728,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rle.ru
 0.0.0.0 roar.com
 0.0.0.0 robotreplay.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 rok.com.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rotabanner.com
 0.0.0.0 roxr.net
@@ -35235,7 +30791,6 @@ fe80::1%lo0 localhost
 0.0.0.0 spywarelabs.com
 0.0.0.0 spywarenuker.com
 0.0.0.0 spywords.com
-0.0.0.0 srbijacafe.org
 0.0.0.0 srwww1.com
 0.0.0.0 starffa.com
 0.0.0.0 start.freeze.com
@@ -35245,24 +30800,9 @@ fe80::1%lo0 localhost
 0.0.0.0 stat.zenon.net
 0.0.0.0 stat24.com
 0.0.0.0 static.itrack.it
-<<<<<<< HEAD
-<<<<<<< HEAD
 0.0.0.0 stats.blogger.com
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 stats.mirrorfootball.co.uk
-=======
-0.0.0.0 statm.the-adult-company.com
-0.0.0.0 stats.blogger.com
-0.0.0.0 stats.hyperinzerce.cz
-0.0.0.0 stats.mirrorfootball.co.uk
-0.0.0.0 stats.olark.com
-0.0.0.0 stats.suite101.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
-0.0.0.0 stats.blogger.com
-0.0.0.0 stats.hyperinzerce.cz
-0.0.0.0 stats.mirrorfootball.co.uk
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 statxpress.com
 0.0.0.0 steelhouse.com
@@ -35279,13 +30819,6 @@ fe80::1%lo0 localhost
 0.0.0.0 swordfishdc.com
 0.0.0.0 sx.trhnt.com
 0.0.0.0 t.insigit.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 t.pusk.ru
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 taboola.com
 0.0.0.0 tacoda.net
 0.0.0.0 tagular.com
@@ -35345,13 +30878,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tpnads.com
 0.0.0.0 track.anchorfree.com
 0.0.0.0 tracking.crunchiemedia.com
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-0.0.0.0 tracking.yourfilehost.com
->>>>>>> 308064d60a1a2a97c381a4a1eaa81c376be6e15d
-=======
->>>>>>> ec2d39452ff98454d1c1e9a7eb6faad44a092bfb
 0.0.0.0 tracking101.com
 0.0.0.0 trackingsoft.com
 0.0.0.0 trackmysales.com
